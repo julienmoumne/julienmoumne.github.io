@@ -21,13 +21,15 @@ The idea came out of several sources of inspiration :
 
 ## Why Reactive Extensions
 
-If you have ever developed software that deals with asynchronous data streams such as user inputs, web service requests and I/O then you have probably faced issues related to : 
+If you have developed software that deals with asynchronous data streams such as user inputs,
+web service requests and I/O, you have probably faced issues related to :
 
  * thread safety
  * synchronization
  * exception management
 
-Reactive Extensions offer a way of looking at asynchronous data streams as objects that can be queried and composed while abstracting low-level constructs such as threads.
+Reactive Extensions offer a way of looking at asynchronous data streams as objects
+that can be queried and composed while abstracting low-level constructs such as threads.
 
 They can be useful in a wide range of applications :
 
@@ -35,14 +37,16 @@ They can be useful in a wide range of applications :
  * Developing games : [A Playful Introduction to Rx by Erik Meijer](https://youtu.be/WKore-AkisY) 
  * GUI components such as an Autocomplete feature : [RxJS-DOM Autocomplete Tutorial](https://github.com/Reactive-Extensions/RxJS-DOM#getting-started-with-the-html-dom-bindings)
 
-For a complete introduction to Rx I suggest [The introduction to Reactive Programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754).
+For a complete introduction to Rx I suggest
+[The introduction to Reactive Programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754).
 
-*Rx Training Games* follows the footsteps of [A Playful Introduction to Rx by Erik Meijer](https://youtu.be/WKore-AkisY) and takes a close look at how Reactive Extensions can be used to build games.
+*Rx Training Games* follows the footsteps of [A Playful Introduction to Rx by Erik Meijer](https://youtu.be/WKore-AkisY)
+and takes a close look at how Reactive Extensions can be used to build games.
 
 
 ## Meteorites
 
-A few games have been made available on [Rx Training Games](https://julienmoumne.github.io/rx-training-games). They can be embedded in an iframe such as the one bellow.
+Games published on *Rx Training Games* can be embedded in an iframe such as the one bellow.
 
 Press start, then use the Left and Right arrows of your keyboard to aim and the Space bar to fire.
 
@@ -66,7 +70,7 @@ Find below one approach of generating the falling meteorites :
         src="https://julienmoumne.github.io/rx-training-games/#?title=rain-using-state&amp;preventstart=true">
 </iframe>
 
-More games and snippets are available on the main [site](https://julienmoumne.github.io/rx-training-games).
+More games and snippets are available in the [app](https://julienmoumne.github.io/rx-training-games).
 
 
 ## API
@@ -117,4 +121,4 @@ Please consult the [complete documentation](https://github.com/JulienMoumne/rx-t
 
 Do you think you can invent games with these simple elements? See [how to contribute](https://github.com/JulienMoumne/rx-training-games/#how-to-contribute).
 
-Please comment on this page if you think the project and the blog can be improved.
+Please comment on this page if you think the project or the blog can be improved.
