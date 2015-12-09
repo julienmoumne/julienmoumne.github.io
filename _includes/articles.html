@@ -1,0 +1,18 @@
+<p>
+    <strong>Articles</strong>
+</p>
+
+<ul>
+    {% for article in site.data.articles %}
+
+    <li>
+        <small>
+            <time datetime="{{ article.date | date_to_xmlschema }}">{{ article.date | date: "%m/%Y" }}</time> -
+        </small>
+
+        <a href="{{ article.link }}">
+            {{ article.title }}
+        </a>
+    </li>
+    {% endfor %}
+</ul>
