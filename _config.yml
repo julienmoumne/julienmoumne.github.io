@@ -1,0 +1,15 @@
+canonical:          http://moumne.com
+name :              &name Julien Moumné
+profession :        &profession Software Craftsman, Paris, France
+
+title:              *name
+tagline:            *profession
+
+permalink:           pretty
+
+# Assets
+#
+# We specify the directory for Jekyll so we can use @imports.
+sass:
+  sass_dir:          _sass
+  style:            :compressed
