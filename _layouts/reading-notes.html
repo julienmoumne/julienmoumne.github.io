@@ -1,0 +1,18 @@
+---
+layout: default
+---
+
+<article class="post">
+    <h1>Reading Notes</h1>
+
+    <h2 class="post-title">{{ page.title }}</h2>
+    <hr>
+    <ol>
+        {% for note in page.notes %}
+        <li>{{ note.teaser }}</li>
+        {% for quote in note.quotes %}
+        <blockquote><p>{{ quote.text }} | page {{ quote.page }}</p></blockquote>
+        {% endfor %}
+        {% endfor %}
+    </ol>
+</article>
