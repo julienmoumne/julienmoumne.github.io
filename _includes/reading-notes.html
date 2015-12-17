@@ -3,7 +3,8 @@
 </p>
 
 <ul>
-    {% for notes in site.reading-notes %}
+    {% assign reading-notes = site.reading-notes | where: "wip", null %}
+    {% for notes in reading-notes %}
 
     <li>
         <a href="{{ notes.url }}">
