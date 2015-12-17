@@ -1,4 +1,5 @@
 ---
+wip:            true
 short-title:    Software Craftsmanship
 title:          "Software Craftsmanship: The New Imperative - Pete McBreen, 2002"
 link:           http://www.mcbreen.ab.ca/SoftwareCraftsmanship/index.html
