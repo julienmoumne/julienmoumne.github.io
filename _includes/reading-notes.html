@@ -1,0 +1,15 @@
+<p>
+    <strong>Reading Notes</strong>
+</p>
+
+<ul>
+    {% assign reading-notes = site.reading-notes | where: "wip", null %}
+    {% for notes in reading-notes %}
+
+    <li>
+        <a href="{{ notes.url }}">
+            {{ notes.short-title }}
+        </a>
+    </li>
+    {% endfor %}
+</ul>
