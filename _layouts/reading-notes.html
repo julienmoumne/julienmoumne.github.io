@@ -2,23 +2,25 @@
 layout: default
 ---
 
-<article>
-    <h2>Reading Notes</h2>
+<div class="col-md-12">
+    <article>
+        <h2>Reading Notes</h2>
 
-    <h3>
-        <a href="{{page.link}}">{{ page.title }}</a>
-    </h3>
-    <hr>
-    <ul>
-        {% for note in page.notes %}
-        <li>{{ note.teaser }}</li>
-        {% for quote in note.quotes %}
-        <blockquote>
-            <p>{{ quote.text }}
-                <small>{{ quote.position }}</small>
-            </p>
-        </blockquote>
-        {% endfor %}
-        {% endfor %}
-    </ul>
-</article>
+        <h3>
+            <a href="{{page.link}}">{{ page.title }}</a>
+        </h3>
+        <hr>
+        <ul>
+            {% for note in page.notes %}
+            <li>{{ note.teaser }}</li>
+            {% for quote in note.quotes %}
+            <blockquote>
+                <p>{{ quote.text }}
+                    <small>{{ quote.position }}</small>
+                </p>
+            </blockquote>
+            {% endfor %}
+            {% endfor %}
+        </ul>
+    </article>
+</div>
