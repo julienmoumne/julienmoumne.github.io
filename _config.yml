@@ -22,10 +22,3 @@ defaults:
     values:
       layout: "reading-notes"
       type: "reading-notes"
-
-# Assets
-#
-# We specify the directory for Jekyll so we can use @imports.
-sass:
-  sass_dir:          _sass
-  style:            :compressed

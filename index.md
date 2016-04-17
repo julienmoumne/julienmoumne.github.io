@@ -3,11 +3,12 @@ layout: default
 title: Home
 ---   
 
-<div class="halves">
+<div class="col-md-6">
     {% include articles.html %}
     {% include reading-notes.html %}
+    {% include social.html %}    
 </div>
 
-<div class="halves">   
-    {% include twitter.html %}    
-</div>
+<div class="col-md-6">   
+    {% include twitter.html %}
+</div>    

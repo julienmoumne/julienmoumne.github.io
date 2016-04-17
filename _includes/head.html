@@ -2,7 +2,6 @@
   <meta charset="UTF-8">
   <link href="http://gmpg.org/xfn/11" rel="profile">
 
-  <!-- Enable responsiveness on mobile devices-->
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="keywords" content="Julien Moumné, Julien Moumne, resume, profile, articles, software, craftsmanship"/>
   <link rel="canonical" href="{{ site.canonical }}"/>
@@ -20,8 +19,30 @@
     {% endif %}
   </title>
 
-  <!-- CSS -->
-  <link rel="stylesheet" href="{{ site.baseurl }}/styles.css">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/octicons/3.3.0/octicons.min.css">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+
+  <style>
+    @media (min-width: 1200px) {
+      .container{
+        max-width: 90rem;
+      }
+    }
+
+    body {
+      font-size: 16px;
+    }
+
+    .title {
+      padding-bottom: 30px;
+    }
+
+    .date {
+      display: block;
+      margin-top: -.5rem;
+      margin-bottom: 1rem;
+      color: #9a9a9a;
+    }
+  </style>
 
 </head>
