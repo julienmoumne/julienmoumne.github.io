@@ -5,7 +5,7 @@ title: Introducing Rx Training Games
 *Rx Training Games* is a coding playground that can be used to 
 learn and practice [Reactive Extensions](http://reactivex.io/) coding [grid-based](https://github.com/JulienMoumne/rx-training-games/blob/master/API.md) games.
 
-See it in action [here](https://julienmoumne.github.io/rx-training-games).
+See it in action [here](http://julienmoumne.github.io/rx-training-games).
 
 The project ambitions are to :
 
@@ -55,7 +55,7 @@ Feel free to experiment with the code by editing it.
         width="100%"
         height="600px"
         frameborder="0"
-        src="https://julienmoumne.github.io/rx-training-games/#?title=meteorites&amp;preventstart=true">
+        src="http://julienmoumne.github.io/rx-training-games/#?title=meteorites&amp;preventstart=true">
 </iframe>
 
 A few snippets have also been published to take a closer look at specific parts of the game.
@@ -66,10 +66,10 @@ Find below one approach of generating the falling meteorites :
         width="100%"
         height="600px"
         frameborder="0"
-        src="https://julienmoumne.github.io/rx-training-games/#?title=rain-using-state&amp;preventstart=true">
+        src="http://julienmoumne.github.io/rx-training-games/#?title=rain-using-state&amp;preventstart=true">
 </iframe>
 
-More games and snippets are available in the [app](https://julienmoumne.github.io/rx-training-games).
+More games and snippets are available in the [app](http://julienmoumne.github.io/rx-training-games).
 
 
 ## API
