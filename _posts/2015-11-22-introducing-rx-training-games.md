@@ -1,8 +1,4 @@
----
-title: Introducing Rx Training Games
----
-
-*Rx Training Games* is a coding playground that can be used to 
+*Rx Training Games* is a coding playground that can be used to
 learn and practice [Reactive Extensions](http://reactivex.io/) coding [grid-based](https://github.com/JulienMoumne/rx-training-games/blob/master/API.md) games.
 
 See it in action [here](http://julienmoumne.github.io/rx-training-games).
