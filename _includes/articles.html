@@ -2,15 +2,19 @@
     <strong>Articles & Projects</strong>
 </p>
 
-<ul>
-    {% for article in site.data.articles %}
+{% assign articles = site.data.articles %}
+{% for post in site.posts %}
+{% assign articles = articles | push: post %}
+{% endfor %}
+{% assign articles = articles | sort: "date" | reverse %}
 
+<ul>
+    {% for article in articles %}
     <li>
         <small>
             <time datetime="{{ article.date | date_to_xmlschema }}">{{ article.date | date: "%m/%Y" }}</time> -
         </small>
-
-        <a href="{{ article.link }}">
+        <a href="{{ article.url }}">
             {{ article.title }}
         </a>
     </li>
