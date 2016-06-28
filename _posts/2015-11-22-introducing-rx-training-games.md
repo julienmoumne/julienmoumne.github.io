@@ -88,7 +88,7 @@ A layer exposes the following methods :
  
 The layer is also implemented as an Observable Collection and provides two [Observables](http://reactivex.io/documentation/observable.html) :
  
-{% highlight js %}
+```javascript
 // square activations
 layer.activations.subscribe(coord =>
     console.log(coord.x + ',' + coord.y + ' has been activated')
@@ -98,16 +98,16 @@ layer.activations.subscribe(coord =>
 layer.removals.subscribe(coord =>
     console.log(coord.x + ',' + coord.y + ' has been cleared')
 );
-{% endhighlight %}
+```
 
 Keyboard events are accessible using an Observable : 
 
-{% highlight js %}
+```javascript
 // keyboard events
 api.keyboard.subscribe(keyCode =>
     console.log(keyCode)
 );
-{% endhighlight %}
+```
 
 Please consult the [complete documentation](https://github.com/JulienMoumne/rx-training-games/blob/master/API.md) for more details.
 
