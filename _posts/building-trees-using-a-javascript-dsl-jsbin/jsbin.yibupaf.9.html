@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<!--
+Created using JS Bin
+http://jsbin.com
+
+Copyright (c) 2016 by julienmoumne (http://jsbin.com/yibupaf/9/edit)
+
+Released under the MIT license: http://jsbin.mit-license.org
+-->
+<meta name="robots" content="noindex">
+<html>
+<head>
+  <meta name="description" content="Building Trees using a JavaScript DSL - Coupling data and operations OOP style">
+  <title>Building Trees using a JavaScript DSL - Coupling data and operations OOP style</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <script src="https://d3js.org/d3.v3.min.js"></script>
+<style id="jsbin-css">
+.node circle {
+  fill: #fff;
+  stroke: steelblue;
+  stroke-width: 1.5px;
+}
+
+.node {
+  font: 10px sans-serif;
+}
+
+.link {
+  fill: none;
+  stroke: #ccc;
+  stroke-width: 1.5px;
+}
+</style>
+</head>
+<body>
+<pre id="tree"></pre>
+<script>
+  Array.prototype.peek = function () {
+      return this[this.length - 1];
+  }
+
+  // Tree visualization code found at https://bl.ocks.org/mbostock/4339184
+  function display(data) {
+
+      var data = JSON.parse(JSON.stringify(data), function (prop, value) {
+          switch (prop) {
+              case "forest":
+                  this.children = value;
+                  return;
+              case "value":
+                  this.name = value;
+                  return;
+              default:
+                  return value;
+          }
+      });
+
+      var width = 350,
+          height = 250;
+
+      var tree = d3.layout.tree()
+          .size([height, width - 150]);
+
+      var diagonal = d3.svg.diagonal()
+          .projection(function (d) {
+              return [d.y, d.x];
+          });
+
+      var svg = d3.select("body").append("svg")
+          .attr("width", width)
+          .attr("height", height)
+          .append("g")
+          .attr("transform", "translate(75,0)");
+
+      var nodes = tree.nodes(data),
+          links = tree.links(nodes);
+
+      var link = svg.selectAll("path.link")
+          .data(links)
+          .enter().append("path")
+          .attr("class", "link")
+          .attr("d", diagonal);
+
+      var node = svg.selectAll("g.node")
+          .data(nodes)
+          .enter().append("g")
+          .attr("class", "node")
+          .attr("transform", function (d) {
+              return "translate(" + d.y + "," + d.x + ")";
+          })
+
+      node.append("circle")
+          .attr("r", 4.5);
+
+      node.append("text")
+          .attr("dx", function (d) {
+              return d.children ? -8 : 8;
+          })
+          .attr("dy", 3)
+          .attr("text-anchor", function (d) {
+              return d.children ? "end" : "start";
+          })
+          .text(function (d) {
+              return d.name;
+          });
+
+      d3.select("body").style("height", height + "px");
+  }
+</script>
+<script id="jsbin-javascript">
+let tree = {forest: [], add: add}
+
+tree.add('A', (tree) => {      
+  tree.add('B', (tree) => {    
+    tree.add('C', (tree) => {      
+      tree.add('D')      
+      tree.add('E')      
+    })    
+    tree.add('F')    
+  })  
+  tree.add('G')
+})
+
+display(tree.forest[0]) 
+
+function add(value, closure = () => {}) {
+  let newTree = {
+    value: value,
+    forest: [],
+    add: add
+  }
+  // 'this' refers to the parent node
+  this.forest.push(newTree) 
+  
+  // 'closure()' is called with 
+  // the new parent node 'newTree'
+  closure(newTree)
+}    
+
+</script>
+</body>
+</html>
