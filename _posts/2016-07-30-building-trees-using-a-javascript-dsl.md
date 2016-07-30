@@ -1,5 +1,7 @@
 ---
 title: Building Trees using a JavaScript DSL
+keywords: DSL, Domain Specific Language, JavaScript, Tree, Builder, Hotshell
+description: An instructional sequence to a hack-free internal DSL for building trees in JavaScript
 ---
 
 In vanilla JavaScript, this is how you build a tree[^1][^2]:

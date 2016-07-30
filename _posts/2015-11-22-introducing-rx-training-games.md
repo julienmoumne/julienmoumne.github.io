@@ -1,3 +1,8 @@
+---
+keywords: Reactive Extensions, JavaScript, Asynchronous, Playground, Game, Snake, Rx Training Games
+description: An introduction to Rx Training Games, a coding playground to learn and practice Reactive Extensions
+---
+
 *Rx Training Games* is a coding playground that can be used to
 learn and practice [Reactive Extensions](http://reactivex.io/) coding [grid-based](https://github.com/JulienMoumne/rx-training-games/blob/master/API.md) games.
 

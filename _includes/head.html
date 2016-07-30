@@ -3,7 +3,15 @@
   <link href="http://gmpg.org/xfn/11" rel="profile">
 
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="keywords" content="Julien Moumné, Julien Moumne, resume, profile, articles, software, craftsmanship"/>
+
+  {% if page.description %}<meta name="description" content="{{ page.description }}">{% endif %}
+
+  {% if page.keywords %}
+    <meta name="keywords" content="{{ page.keywords }}">
+  {% else %}
+    <meta name="keywords" content="Julien Moumné, Julien Moumne, resume, profile, articles, software, craftsmanship"/>
+  {% endif %}
+
   <link rel="canonical" href="{{ site.canonical }}"/>
 
   <title>
