@@ -6,7 +6,7 @@ description: An instructional sequence to a hack-free internal DSL for building 
 
 In vanilla JavaScript, this is how you build a tree[^1][^2]:
  
-<a class="jsbin-embed" href="http://jsbin.com/hisumi/embed?js,output&height=450px">JS Bin on jsbin.com</a>
+<a class="jsbin-embed" href="http://jsbin.com/hisumi/embed?js,output&height=400px">JS Bin on jsbin.com</a>
 
 The article describes a way to build trees using an internal [DSL](http://martinfowler.com/bliki/InternalDslStyle.html):
 
@@ -22,9 +22,9 @@ tree('A', () => {
 })
 ~~~
 
-This approach reduces the syntactic noise and provides the ability
-to mixin arbitrary code while preserving a syntax that mirror the recursive nature
-of trees.
+This syntax mirrors the recursive structure of trees,
+reduces the noise and provides the ability
+to mixin arbitrary code.
 
 This makes it convenient to:
 
