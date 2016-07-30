@@ -299,7 +299,7 @@ This is the approach used in [Hotshell][hotshell-website] by using
 ---
 
 [^1]:
-    Property `forest` could have been named `trees` or `subtrees`.
+    Property `forest` could have been named `trees`, `subtrees` or `children`.
     `Forest` is used in this article to echoe the mutually recursive definition found in
     [Mutual recursion - Wikipedia](https://en.wikipedia.org/wiki/Mutual_recursion#Data_types).
     
