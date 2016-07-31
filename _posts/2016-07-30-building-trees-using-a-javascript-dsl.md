@@ -291,6 +291,7 @@ Here are some examples to illustrate the versatility of this approach: 
  [Sbt](http://www.scala-sbt.org/0.13/docs/Basic-Def.html))
  - Testing frameworks ([RSpec](http://rspec.info/), [Mocha][mocha-getting-started])
  - Virtual environment tools ([Vagrant](https://github.com/patrickdlee/vagrant-examples/blob/master/example1/Vagrantfile))
+ - Package Managers ([Homebrew](https://github.com/Homebrew/brew/blob/master/share/doc/homebrew/Formula-Cookbook.md))
    
 With the availability of embeddable interpreters I believe this approach can be 
 generalized further.
