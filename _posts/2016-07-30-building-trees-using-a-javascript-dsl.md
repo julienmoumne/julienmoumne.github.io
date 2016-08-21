@@ -36,18 +36,20 @@ Concepts found in this article are neither new nor restrained to JavaScript[^3].
 
 This article aims to provide an instructional sequence to a hack-free solution in JavaScript.
 
-Readers can jump to the final solution ['Forgo traditional calling convention'][final-solution]
+Readers can jump to the [final solution](#package-the-solution-in-a-javascript-module)
 or step through this sequence: 
 
  - [Naive solution](#naive-solution)
- - [Forwarding a bare variable][forwarding-bare-variable]
- - [Coupling data and operations OOP style][coupling-data-and-operations-oop-style]
+ - [Forwarding a bare variable](#forwarding-bare-variable)
+ - [Coupling data and operations OOP style](#coupling-data-and-operations-oop-style)
  - [Implicit context using `this`](#implicit-context-using-this)
     - [Forwarding a bare variable using `this`](#forwarding-bare-variable-using-this)
-    - [Coupling data and operations OOP style using `this`][coupling-data-and-operations-oop-style-using-this]
+    - [Coupling data and operations OOP style using `this`](#coupling-data-and-operations-oop-style-using-this)
     - [Hacking a way through the forest](#hacking-a-way-through-the-forest)
- - [Forgo traditional calling convention][final-solution]
-    
+ - [Forgo traditional calling convention](#forgo-traditional-calling-convention)
+    - [Reuse the existing stack](#reuse-the-existing-stack)
+    - [Package the solution in a JavaScript module](#package-the-solution-in-a-javascript-module)
+
 ## Naive Solution {#naive-solution}
 
 In this solution nodes are all children of the same parent node.
@@ -89,7 +91,7 @@ to use the implicit formal parameter [this](https://developer.mozilla.org/en/doc
 
 ### Forwarding a bare variable using `this` {#forwarding-bare-variable-using-this}
 
-Solution ['Forwarding a bare variable'][forwarding-bare-variable] can be
+Solution ['Forwarding a bare variable'](#forwarding-bare-variable) can be
 adapted by programmatically binding `this` using
 [apply()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/apply)
 and forwarding it the same way `ctx` was being forwarded.
@@ -103,7 +105,7 @@ We must revert to standard function definitions `function () { body }`.
 
 ### Coupling data and operations OOP style using `this` {#coupling-data-and-operations-oop-style-using-this}
 
-Solution ['Coupling data and operations OOP style'][coupling-data-and-operations-oop-style]
+Solution ['Coupling data and operations OOP style'](#coupling-data-and-operations-oop-style)
 can be rewritten the same way.
 
 <a class="jsbin-embed" href="http://jsbin.com/zupiwoh/embed?js,output&height=580px">JS Bin on jsbin.com</a>
@@ -115,7 +117,7 @@ In JavaScript, without hacks, it is mandatory to explicitly reference instance m
 
 ### Hacking a way through the forest {#hacking-a-way-through-the-forest}
 
-Solution ['Coupling data and operations OOP style using `this`'][coupling-data-and-operations-oop-style-using-this]
+Solution ['Coupling data and operations OOP style using `this`'](#coupling-data-and-operations-oop-style-using-this)
 can be hacked to remove the need to prefix calls to `tree()` with `this`.
 
 The scope chain must be altered using
@@ -207,7 +209,7 @@ In [stack-oriented programming languages](https://en.wikipedia.org/wiki/Stack-or
 parameters are stored in the [call stack](http://www.csee.umbc.edu/~chang/cs313.s02/stack.shtml)
 and their life cycle is regulated by a [calling convention](https://en.wikipedia.org/wiki/Calling_convention).
 
-We use solution ['Forwarding a bare variable'][forwarding-bare-variable]
+We use solution ['Forwarding a bare variable'](#forwarding-bare-variable)
 to illustrate the standard three step protocol.
 
 ~~~ javascript
@@ -263,7 +265,9 @@ function tree(ctx, value, closure = () => {}) {
 This approach is used in Mocha BDD interface to allow nested `describe()` calls.
 See [bdd.js](https://github.com/mochajs/mocha/blob/v2.5.3/lib/interfaces/bdd.js#L43).
 
-In a final simplification step we can avoid allocating an explicit stack by
+### Reuse the existing stack {#reuse-the-existing-stack}
+
+In a final simplification step we avoid allocating an explicit stack by
 using the local variable section of the existing stack.
 
 <a class="jsbin-embed" href="http://jsbin.com/rukuka/embed?js,output&height=610px">JS Bin on jsbin.com</a>
@@ -273,6 +277,8 @@ and in [Hotshell][hotshell-website].
 See [BuilderSupport.java](https://github.com/apache/groovy/blob/305131ff1b3e1350d4a2567c47e8ff41d74f51e9/src/main/groovy/util/BuilderSupport.java#L141)
 and
 [dslrunner.js](https://github.com/julienmoumne/hotshell/blob/7e7bb60/interpreter/dslrunner.js#L4).
+
+### Package the solution in a JavaScript module {#package-the-solution-in-a-javascript-module}
 
 The same solution can be coded as a module
 to provide namespace control and isolation of state.
@@ -317,10 +323,6 @@ This is the approach used in [Hotshell][hotshell-website] by using
 *[OOP]: Object-oriented programming
 *[BDD]: Behavior-driven development
 
-[forwarding-bare-variable]: #forwarding-bare-variable
-[coupling-data-and-operations-oop-style]: #coupling-data-and-operations-oop-style
-[coupling-data-and-operations-oop-style-using-this]: #coupling-data-and-operations-oop-style-using-this
-[final-solution]: #forgo-traditional-calling-convention 
 [mocha-getting-started]: https://mochajs.org/#getting-started
 [hotshell-website]: (http://julienmoumne.github.io/hotshell)
 
