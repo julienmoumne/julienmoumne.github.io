@@ -324,6 +324,6 @@ This is the approach used in [Hotshell][hotshell-website] by using
 *[BDD]: Behavior-driven development
 
 [mocha-getting-started]: https://mochajs.org/#getting-started
-[hotshell-website]: (http://julienmoumne.github.io/hotshell)
+[hotshell-website]: http://julienmoumne.github.io/hotshell
 
 <script src="http://static.jsbin.com/js/embed.min.js?3.36.11"></script>
