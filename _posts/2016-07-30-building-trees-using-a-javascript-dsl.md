@@ -287,7 +287,7 @@ to provide namespace control and isolation of state.
 
 # Thoughts on internal DSLs
 
-I find internal DSLs convenient to interact with tools I need on daily basis.
+I find internal DSLs convenient to interact with tools I need on a daily basis.
 
 They provide legibility as well as flexibility by being able to mixin arbitrary code.
 
