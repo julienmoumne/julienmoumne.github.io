@@ -3,7 +3,7 @@
 </p>
 
 <ul>
-    {% assign reading-notes = site.reading-notes | where: "wip", null %}
+    {% assign reading-notes = site.reading-notes | where: "wip", false %}
     {% for notes in reading-notes %}
 
     <li>

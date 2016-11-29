@@ -1,4 +1,5 @@
 ---
+wip:                false
 short-title:        Basics of the Unix Philosophy
 title:              "The Art of Unix Programming - Basics of the Unix Philosophy - Eric S. Raymond"
 link:               http://www.catb.org/esr/writings/taoup/html/ch01s06.html
