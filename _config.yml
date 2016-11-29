@@ -1,6 +1,6 @@
 canonical:          http://moumne.com
 name :              &name Julien Moumné
-profession :        &profession Software Craftsman, Paris, France
+profession :        &profession Software Engineer, Paris, France
 
 title:              *name
 tagline:            *profession
