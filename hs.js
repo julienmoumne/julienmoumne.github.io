@@ -1,3 +1,6 @@
+var item = require('hotshell').item
+var exec = require('hotshell').exec
+
 item({desc: 'julienmoumne.github.io'}, function () {
 
     var linux = exec('uname').indexOf('Linux') > -1
