@@ -1,7 +1,7 @@
-- title:  versiera-prod.com (visual art)
-  url:   http://versiera-prod.com
+- title:  versiera.fr (visual art)
+  url:   http://versiera.fr
   date:   2019-06-27 00:00:00
-  img: ./img/versiera-prod.png
+  img: ./img/versiera.png
 
 - title:  Hotshell - Interactive menus for the shell
   url:   http://julienmoumne.github.io/hotshell
