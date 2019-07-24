@@ -1,6 +1,6 @@
 canonical:          http://moumne.com
 name :              &name Julien Moumné
-profession :        &profession Visual Artist, Software Engineer, Paris, France
+profession :        &profession Software Engineer, Visual Artist, Paris, France
 
 title:              *name
 tagline:            *profession
