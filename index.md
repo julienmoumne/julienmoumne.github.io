@@ -11,4 +11,12 @@ title: Home
 
 <div class="col-md-6">   
     {% include twitter.html %}
+</div>
+
+<div class="col-md-6">   
+    {% include instagram.html %}
+</div>
+
+<div class="col-md-6">   
+    {% include youtube.html %}
 </div>    
