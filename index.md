@@ -9,14 +9,15 @@ title: Home
     {% include social.html %}    
 </div>
 
-<div class="col-md-6">   
-    {% include twitter.html %}
+<div class="col-md-6">
+    {% include youtube.html %}
 </div>
 
-<div class="col-md-6">   
+<div class="col-md-6">
     {% include instagram.html %}
 </div>
 
-<div class="col-md-6">   
-    {% include youtube.html %}
-</div>    
+<div class="col-md-6">
+    {% include twitter.html %}
+</div>
+
