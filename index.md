@@ -4,13 +4,14 @@ title: Home
 ---   
 
 <div class="col-md-12">
+<!-- <div class="col-md-6"> -->
     {% include social.html %}
     {% include articles.html %}
     {% include reading-notes.html %}
 <!--     {% include instagram.html %} -->
-<!-- </div> -->
+</div>
 
-<!-- <div class="col-md-6"> -->
+<div class="col-md-6">
 <!--     {% include youtube.html %} -->
     {% include twitter.html %}
 </div>
