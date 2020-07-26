@@ -11,6 +11,6 @@ title: Home
 </div>
 
 <div class="col-md-6">
-    {% include youtube.html %}
+<!--     {% include youtube.html %} -->
     {% include twitter.html %}
 </div>
