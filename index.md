@@ -7,7 +7,7 @@ title: Home
     {% include articles.html %}
     {% include reading-notes.html %}
     {% include social.html %}
-    {% include instagram.html %}
+<!--     {% include instagram.html %} -->
 </div>
 
 <div class="col-md-6">
