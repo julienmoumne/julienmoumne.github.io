@@ -7,7 +7,7 @@ description: An instructional sequence to a hack-free internal DSL for building 
 In vanilla JavaScript, this is how you build a tree[^1][^2]:
  
 
-<a class="jsbin-embed" href="https://jsbin.com/hisumi/embed?js,output&height=400px">JS Bin on jsbin.com</a>
+<a class="jsbin-embed" href="http://jsbin.com/hisumi/embed?js,output&height=400px">JS Bin on jsbin.com</a>
 
 
 The article describes a way to build trees using an internal [DSL](http://martinfowler.com/bliki/InternalDslStyle.html):
@@ -328,4 +328,4 @@ This is the approach used in [Hotshell][hotshell-website] by using
 [mocha-getting-started]: https://mochajs.org/#getting-started
 [hotshell-website]: http://julienmoumne.github.io/hotshell
 
-<script src="https://static.jsbin.com/js/embed.min.js?4.1.8"></script>
+<script src="http://static.jsbin.com/js/embed.min.js?4.1.8"></script>
