@@ -11,7 +11,7 @@ title: Home
 <!--     {% include instagram.html %} -->
 </div>
 
-<div class="col-md-6">
+<div class="col-md-12">
 <!--     {% include youtube.html %} -->
     {% include twitter.html %}
 </div>
