@@ -13,5 +13,7 @@ title: Home
 
 <div class="col-md-8">
 <!--     {% include youtube.html %} -->
-    {% include twitter.html %}
+{% comment %}
+{% include twitter.html %}
+{% endcomment %}
 </div>
