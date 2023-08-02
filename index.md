@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Home
-redirect_to: http://www.github.com
+redirect_to: https://www.linkedin.com/in/jmoumne
 
 ---   
 

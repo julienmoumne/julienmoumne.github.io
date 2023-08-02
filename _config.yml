@@ -1,5 +1,5 @@
 canonical:          http://julienmoumne.github.io
-redirect_to: http://www.github.com
+#redirect_to: http://www.github.com
 name :              &name Julien Moumné
 profession :        &profession Software Engineer, Paris, France
 
