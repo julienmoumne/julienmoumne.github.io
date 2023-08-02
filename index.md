@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Home
+redirect_to: http://www.github.com
+
 ---   
 
 <div class="col-md-12">
