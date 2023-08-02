@@ -8,6 +8,10 @@ tagline:            *profession
 
 permalink:           pretty
 
+plugins:
+  - jekyll-redirect-from
+
+
 collections:
   reading-notes:
     output: true
