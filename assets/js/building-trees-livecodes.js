@@ -6,19 +6,26 @@ const D3_URL = 'https://cdn.jsdelivr.net/npm/d3@3.5.17/d3.min.js';
 const MARKUP = `<pre id="tree"></pre>`;
 
 const STYLE = `
+html,
+body {
+  background-color: #212529;
+  color: #dee2e6;
+}
+
 .node circle {
-  fill: #fff;
-  stroke: steelblue;
+  fill: #212529;
+  stroke: #6ea8fe;
   stroke-width: 1.5px;
 }
 
 .node {
+  fill: #dee2e6;
   font: 10px sans-serif;
 }
 
 .link {
   fill: none;
-  stroke: #ccc;
+  stroke: #6c757d;
   stroke-width: 1.5px;
 }
 `;
@@ -419,7 +426,7 @@ for (const container of document.querySelectorAll('[data-livecodes-example]')) {
       layout: 'horizontal',
       activeEditor: 'script',
       editor: 'codemirror',
-      theme: 'light',
+      theme: 'dark',
       allowLangChange: false,
       autoupdate: true,
       autosave: false,

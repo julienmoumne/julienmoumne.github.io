@@ -5,8 +5,8 @@ title: Home
 
 ---   
 
-<div class="col-md-12">
-<!-- <div class="col-md-6"> -->
+<div class="col-lg-12">
+<!-- <div class="col-lg-6"> -->
     {% include social.html %}
     {% include articles.html %}
     {% comment %}
@@ -15,7 +15,7 @@ title: Home
 <!--     {% include instagram.html %} -->
 </div>
 
-<div class="col-md-8">
+<div class="col-lg-8">
 <!--     {% include youtube.html %} -->
 {% comment %}
 {% include twitter.html %}
