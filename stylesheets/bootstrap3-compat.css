@@ -198,3 +198,7 @@ pre code {
 .highlight pre {
   background-color: #0d1117;
 }
+/* Keep linked inline code using Bootstrap's code color instead of inheriting link blue. */
+a > code {
+  color: var(--bs-code-color);
+}
