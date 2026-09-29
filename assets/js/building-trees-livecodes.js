@@ -1,6 +1,6 @@
-import { createPlayground } from 'https://cdn.jsdelivr.net/npm/livecodes@0.14.1/livecodes.js';
+import { createPlayground } from '../vendor/livecodes-v49/sdk/livecodes.js';
 
-const APP_URL = 'https://v49.livecodes.io/';
+const APP_URL = new URL('../vendor/livecodes-v49/', import.meta.url).href;
 const D3_URL = 'https://cdn.jsdelivr.net/npm/d3@3.5.17/d3.min.js';
 
 const MARKUP = `<pre id="tree"></pre>`;

@@ -1,0 +1,66 @@
+<div id="assets-list-container" class="modal-container list-container">
+  <div class="modal-title" data-i18n="assets.heading">Assets</div>
+  <div class="modal-screen-container">
+    <div class="modal-message" id="assets-container" class="items-container">
+      <div class="buttons">
+        <button id="assets-add-asset-button" class="button" data-i18n="assets.add.heading">
+          Add Asset
+        </button>
+        <button id="assets-delete-all-button" class="button danger" data-i18n="assets.deleteAll">
+          Delete All
+        </button>
+      </div>
+
+      <div class="modal-search">
+        <div>
+          <span id="sort-by-label">
+            <i class="icon-arrow-sort"></i
+            ><span data-i18n="assets.sort.heading">Sort By:</span></span
+          >
+          <a href="#" id="assets-sort-by-last-modified" class="active"
+            ><i class="icon-calendar-sort"></i>
+            <span class="sort-time" data-i18n="assets.sort.date">Date</span></a
+          ><a href="#" id="assets-sort-by-title">
+            <i class="icon-arrow-text-sort"></i>
+            <span class="sort-title" data-i18n="assets.sort.fileName">File Name</span></a
+          ><a href="#" id="assets-sorted-asc" style="display: none"
+            ><i class="icon-arrow-sort-up"></i></a
+          ><a href="#" id="assets-sorted-desc"><i class="icon-arrow-sort-down"></i></a>
+          <select name="type-filter" id="assets-type-filter">
+            <option value="" data-i18n="assets.types.all">All types</option>
+          </select>
+        </div>
+        <div>
+          <input
+            id="search-assets"
+            type="text"
+            placeholder="Search"
+            data-i18n="assets.search"
+            data-i18n-prop="placeholder"
+          />
+          <a
+            href="#"
+            id="assets-reset-filters"
+            title="Reset"
+            data-i18n="assets.resetFilters"
+            data-i18n-prop="title"
+          >
+            <i class="icon-reset"></i>
+          </a>
+        </div>
+      </div>
+
+      <div class="modal-message no-data description alert" data-i18n="assets.noSavedAssets">
+        <div>You have no saved assets.</div>
+      </div>
+
+      <div
+        class="modal-message no-data description confirm"
+        id="assets-no-match"
+        data-i18n="assets.noMatch"
+      >
+        <div>No assets match these filters.</div>
+      </div>
+    </div>
+  </div>
+</div>

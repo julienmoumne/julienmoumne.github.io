@@ -1,0 +1,2253 @@
+{
+  "$comment": "ATTENTION: This file is auto-generated from source code. Do not edit manually!",
+  "about.blog.text": {
+    "translation": "بلاگ"
+  },
+  "about.blog.title": {
+    "translation": "LiveCodes بلاگ"
+  },
+  "about.configuration": {
+    "translation": "ترتیب"
+  },
+  "about.credits.heading": {
+    "translation": "کریڈٹس"
+  },
+  "about.credits.para1": {
+    "translation": "LiveCodes کو اوپن سورس پروجیکٹس، ویب سروسز اور تعاون کنندگان کے ذریعے ممکن بنایا گیا ہے۔ <tag-1> کریڈٹ دیکھیں </tag-1>"
+  },
+  "about.credits.para2": {
+    "translation": "© 2024 حاتم حسنی LiveCodes MIT لائسنس کے تحت لائسنس یافتہ ہے۔"
+  },
+  "about.documentations.heading": {
+    "translation": "دستاویزات"
+  },
+  "about.gettingStarted": {
+    "translation": "شروع کرنا"
+  },
+  "about.github.text": {
+    "translation": "گٹ ہب"
+  },
+  "about.github.title": {
+    "translation": "گٹ ہب"
+  },
+  "about.heading": {
+    "translation": "لائیو کوڈز کے بارے میں"
+  },
+  "about.livecodes.aboutUs": {
+    "translation": "لائیو کوڈز کے بارے میں"
+  },
+  "about.livecodes.para1": {
+    "translation": "<tag-1><tag-2>لائیو کوڈز</tag-2></tag-1> ایک <tag-3>اوپن سورس</tag-3>، <tag-4>خصوصیات سے بھرپور</tag-4>، <tag-5>کلائنٹ-سائیڈ</tag-5> کوڈ پلے گراؤنڈ ہے۔ فی الحال، <tag-6>90+ زبانیں/<tag-7></tag-7>فریم ورکس</tag-6> کو سپورٹ کیا جاتا ہے۔ اسے ایک خودمختار ایپ کے طور پر استعمال کیا جا سکتا ہے یا کسی بھی ویب صفحے میں <tag-8>ایمبیڈ</tag-8> کیا جا سکتا ہے۔ کوڈ کے ساتھ پلے گراؤنڈز کو <tag-9>پہلے سے بھرنے</tag-9> کے کئی طریقے ہیں۔"
+  },
+  "about.livecodes.para2": {
+    "translation": "ایک طاقتور SDK کھیل کے میدانوں کے ساتھ مربوط اور بات چیت کرنا آسان بناتا ہے۔ کوڈ کی مثالوں، لائیو ڈیمو، اور اسکرین شاٹس کے ساتھ وسیع دستاویزات دستیاب ہیں۔"
+  },
+  "about.sdk": {
+    "translation": "LiveCodes SDK"
+  },
+  "about.sponsor.text": {
+    "translation": "سپانسر"
+  },
+  "about.sponsor.title": {
+    "translation": "لائیو کوڈز کو سپانسر کریں"
+  },
+  "about.twitter.text": {
+    "translation": "𝕏 / ٹویٹر"
+  },
+  "about.twitter.title": {
+    "translation": "𝕏 / ٹویٹر"
+  },
+  "about.version.app": {
+    "translation": "ایپ ورژن: <tag-1> {{APP_VERSION}} </tag-1>"
+  },
+  "about.version.appPermanentUrl": {
+    "translation": "ایپ کا مستقل یو آر ایل"
+  },
+  "about.version.commit": {
+    "translation": "گٹ کمٹ: <tag-1> {{COMMIT_SHA}} </tag-1>"
+  },
+  "about.version.heading": {
+    "translation": "ورژن"
+  },
+  "about.version.sdk": {
+    "translation": "ایس ڈی کے ورژن: <tag-1>{{SDK_VERSION}}</tag-1>"
+  },
+  "about.version.sdkPermanentUrl": {
+    "translation": "ایس ڈی کے کا مستقل یو آر ایل"
+  },
+  "app.changeTheme.hint": {
+    "translation": "تھیم تبدیل کریں۔"
+  },
+  "app.codeToImage.hint": {
+    "translation": "تصویر کے لئے کوڈ"
+  },
+  "app.consoleMessage.appVersion": {
+    "translation": "ایپ ورژن: {{APP_VERSION}}"
+  },
+  "app.consoleMessage.commit": {
+    "translation": "گٹ کمٹ: {{COMMIT_SHA}}"
+  },
+  "app.consoleMessage.learnMore": {
+    "translation": "مزید جانیں! {{docsUrl}} 🚀"
+  },
+  "app.consoleMessage.sdkVersion": {
+    "translation": "ایس ڈی کے ورژن: {{SDK_VERSION}}"
+  },
+  "app.copy.hint": {
+    "translation": "کاپی (Ctrl/Cmd + A, Ctrl/Cmd + C)"
+  },
+  "app.copyAsUrl.hint": {
+    "translation": "کوڈ کو ڈیٹا یو آر ایل کے طور پر کاپی کریں"
+  },
+  "app.customSettings.hint": {
+    "translation": "حسب ضرورت ترتیبات"
+  },
+  "app.editorSettings.hint": {
+    "translation": "ایڈیٹر کی ترتیبات"
+  },
+  "app.externalResources.hint": {
+    "translation": "بیرونی وسائل"
+  },
+  "app.focus.hint": {
+    "translation": "فوکس موڈ کو ٹوگل کریں"
+  },
+  "app.format.hint": {
+    "translation": "فارمیٹ (Alt + Shift + F)"
+  },
+  "app.fullscreen.hint": {
+    "translation": "فل اسکرین"
+  },
+  "app.i18nButton.hint": {
+    "translation": "ایپ یو آئی زبان"
+  },
+  "app.i18nMenu.docs": {
+    "translation": "i18n دستاویزات"
+  },
+  "app.i18nMenu.helpTranslate": {
+    "translation": "ترجمہ کرنے میں ہماری مدد کریں۔"
+  },
+  "app.logo.title": {
+    "translation": "لائیو کوڈز: ایک کوڈ پلے گراؤنڈ جو بس کام کرتا ہے!"
+  },
+  "app.projectInfo.hint": {
+    "translation": "پروجیکٹ کی معلومات"
+  },
+  "app.redo.hint": {
+    "translation": "دوبارہ کریں (Ctrl/Cmd + Shift + Z)"
+  },
+  "app.result.hint": {
+    "translation": "نتیجہ کو ٹوگل کریں"
+  },
+  "app.run.hint": {
+    "translation": "چلائیں (Shift + Enter)"
+  },
+  "app.share.hint": {
+    "translation": "شیئر کریں"
+  },
+  "app.themeColors.custom": {
+    "translation": "حسب ضرورت"
+  },
+  "app.undo.hint": {
+    "translation": "واپس لیں (Ctrl/Cmd + Z)"
+  },
+  "app.untitledProject": {
+    "translation": "بے نام پروجیکٹ"
+  },
+  "assets.action.delete": {
+    "translation": "حذف کریں"
+  },
+  "assets.add.dataURL.desc": {
+    "translation": "اثاثے کو بیس64-انکوڈڈ <tag-1>ڈیٹا یو آر ایل</tag-1> کے طور پر شامل کریں۔"
+  },
+  "assets.add.dataURL.heading": {
+    "translation": "ڈیٹا یو آر ایل"
+  },
+  "assets.add.dataURL.label": {
+    "translation": "فائل شامل کریں"
+  },
+  "assets.add.githubPages.desc": {
+    "translation": "اثاثے کو گٹ ہب پیجز پر تعینات کریں۔ فائل کو آپ کے گٹ ہب اکاؤنٹ پر <tag-2>livecodes-assets</tag-2> ریپو کی <tag-1>gh-pages</tag-1> برانچ میں پش کیا جاتا ہے۔ اگر ریپو پہلے سے موجود نہیں ہے تو، ایک عوامی ریپو بنایا جائے گا۔"
+  },
+  "assets.add.githubPages.heading": {
+    "translation": "گٹ ہب پیجز"
+  },
+  "assets.add.githubPages.label": {
+    "translation": "فائل اپ لوڈ کریں"
+  },
+  "assets.add.heading": {
+    "translation": "اثاثہ شامل کریں"
+  },
+  "assets.delete.all": {
+    "translation": "{{assets}} اثاثے حذف کریں؟"
+  },
+  "assets.delete.one": {
+    "translation": "اثاثہ حذف کریں: {{asset}}؟"
+  },
+  "assets.deleteAll": {
+    "translation": "سب کو حذف کریں"
+  },
+  "assets.generic.clickToCopyURL": {
+    "translation": "یو آر ایل کاپی کرنے کے لیے کلک کریں"
+  },
+  "assets.heading": {
+    "translation": "اثاثے"
+  },
+  "assets.link.date": {
+    "translation": "تاریخ: {{modified}}"
+  },
+  "assets.link.type": {
+    "translation": "قسم: {{type}}"
+  },
+  "assets.link.url": {
+    "translation": "یو آر ایل: {{url}}"
+  },
+  "assets.loadFile.error.failedToUpload": {
+    "translation": "خرابی: فائل اپ لوڈ کرنے میں ناکام"
+  },
+  "assets.loadFile.error.unauthenticated": {
+    "translation": "خرابی: غیر تصدیق شدہ صارف"
+  },
+  "assets.loadFile.upload": {
+    "translation": "فائل اپ لوڈ کریں"
+  },
+  "assets.loadFile.uploading": {
+    "translation": "اپ لوڈ ہو رہا ہے..."
+  },
+  "assets.noMatch": {
+    "translation": "کوئی اثاثہ ان فلٹرز سے مطابقت نہیں رکھتا۔"
+  },
+  "assets.noSavedAssets": {
+    "translation": "آپ کے پاس کوئی محفوظ شدہ اثاثہ نہیں ہے۔"
+  },
+  "assets.processAsset.addFile": {
+    "translation": "فائل شامل کی گئی: "
+  },
+  "assets.processAsset.deployNotice": {
+    "translation": "اثاثہ جلد ہی اس یو آر ایل پر دستیاب ہونا چاہیے (~1 منٹ)۔"
+  },
+  "assets.processAsset.success": {
+    "translation": "فائل اثاثوں میں شامل کر دی گئی!"
+  },
+  "assets.processAsset.urlLabel": {
+    "translation": "یو آر ایل: "
+  },
+  "assets.resetFilters": {
+    "translation": "ری سیٹ کریں"
+  },
+  "assets.search": {
+    "translation": "تلاش کریں"
+  },
+  "assets.sort.date": {
+    "translation": "تاریخ"
+  },
+  "assets.sort.fileName": {
+    "translation": "فائل کا نام"
+  },
+  "assets.sort.heading": {
+    "translation": "ترتیب دیں:"
+  },
+  "assets.type.archive": {
+    "translation": "آرکائیو"
+  },
+  "assets.type.audio": {
+    "translation": "آڈیو"
+  },
+  "assets.type.csv": {
+    "translation": "سی ایس وی"
+  },
+  "assets.type.font": {
+    "translation": "فونٹ"
+  },
+  "assets.type.html": {
+    "translation": "ایچ ٹی ایم ایل"
+  },
+  "assets.type.icon": {
+    "translation": "آئیکن"
+  },
+  "assets.type.image": {
+    "translation": "تصویر"
+  },
+  "assets.type.json": {
+    "translation": "جے ایس او این"
+  },
+  "assets.type.other": {
+    "translation": "دیگر"
+  },
+  "assets.type.script": {
+    "translation": "اسکرپٹ"
+  },
+  "assets.type.stylesheet": {
+    "translation": "اسٹائل شیٹ"
+  },
+  "assets.type.text": {
+    "translation": "متن"
+  },
+  "assets.type.video": {
+    "translation": "ویڈیو"
+  },
+  "assets.type.xml": {
+    "translation": "ایکس ایم ایل"
+  },
+  "assets.types.all": {
+    "translation": "تمام اقسام"
+  },
+  "assets.url.fail": {
+    "translation": "یو آر ایل کاپی کرنے میں ناکام۔"
+  },
+  "assets.url.success": {
+    "translation": "یو آر ایل کلپ بورڈ پر کاپی کر دیا گیا ہے۔"
+  },
+  "backup.backup.assets": {
+    "translation": "اثاثے"
+  },
+  "backup.backup.button": {
+    "translation": "بیک اپ"
+  },
+  "backup.backup.desc": {
+    "translation": "لائیو کوڈز ڈیٹا کا بیک اپ لیں، تاکہ اسے بعد میں اس یا دوسرے آلات پر بحال کیا جا سکے۔ <tag-1></tag-1> تفصیلات کے لیے براہ کرم <tag-2>دستاویزات</tag-2> ملاحظہ کریں۔"
+  },
+  "backup.backup.heading": {
+    "translation": "بیک اپ"
+  },
+  "backup.backup.projects": {
+    "translation": "پروجیکٹس"
+  },
+  "backup.backup.settings": {
+    "translation": "صارف کی ترتیبات"
+  },
+  "backup.backup.snippets": {
+    "translation": "کوڈ اسنیپٹس"
+  },
+  "backup.backup.templates": {
+    "translation": "صارف کے ٹیمپلیٹس"
+  },
+  "backup.backupBtn": {
+    "translation": "بیک اپ"
+  },
+  "backup.error.atLeastOneStore": {
+    "translation": "براہ کرم بیک اپ کے لیے کم از کم ایک اسٹور منتخب کریں"
+  },
+  "backup.error.incorrectFileType": {
+    "translation": "خرابی: غلط فائل کی قسم"
+  },
+  "backup.fileInputLabel": {
+    "translation": "فائل سے بحال کریں"
+  },
+  "backup.heading": {
+    "translation": "بیک اپ / بحالی"
+  },
+  "backup.inProgress": {
+    "translation": "جاری ہے..."
+  },
+  "backup.restore.desc": {
+    "translation": "پہلے سے بیک اپ کیے گئے لائیو کوڈز ڈیٹا کو بحال کریں۔ <tag-1></tag-1> اگر آپ موجودہ مواد کو تبدیل کرنے کا انتخاب کرتے ہیں، تو آپ پہلے اس کا بیک اپ لینا چاہیں گے۔ <tag-2></tag-2> تفصیلات کے لیے براہ کرم <tag-3>دستاویزات</tag-3> ملاحظہ کریں۔"
+  },
+  "backup.restore.fromFile": {
+    "translation": "فائل سے بحال کریں"
+  },
+  "backup.restore.heading": {
+    "translation": "بحالی"
+  },
+  "backup.restore.mode.merge": {
+    "translation": "موجودہ مواد کے ساتھ ضم کریں"
+  },
+  "backup.restore.mode.replace": {
+    "translation": "موجودہ مواد کو تبدیل کریں"
+  },
+  "backup.restore.success": {
+    "translation": "کامیابی سے بحال کر دیا گیا!"
+  },
+  "broadcast.broadcastBtn.start": {
+    "translation": "نشر کریں"
+  },
+  "broadcast.broadcastBtn.stop": {
+    "translation": "نشریات روکیں"
+  },
+  "broadcast.broadcasting": {
+    "translation": "نشر ہو رہا ہے..."
+  },
+  "broadcast.channelURL": {
+    "translation": "چینل کا یو آر ایل"
+  },
+  "broadcast.connecting": {
+    "translation": "رابطہ ہو رہا ہے..."
+  },
+  "broadcast.desc": {
+    "translation": "نتیجے کے صفحے کو حقیقی وقت میں دوسرے براؤزرز/آلات پر نشر کریں۔ تفصیلات کے لیے براہ کرم <tag-1>دستاویزات</tag-1> ملاحظہ کریں۔"
+  },
+  "broadcast.error.generic": {
+    "translation": "نشریات ناکام ہو گئی!"
+  },
+  "broadcast.error.serverURLRequired": {
+    "translation": "سرور یو آر ایل درکار ہے!"
+  },
+  "broadcast.heading": {
+    "translation": "نشریات"
+  },
+  "broadcast.includeSourceCode": {
+    "translation": "سورس کوڈ شامل کریں"
+  },
+  "broadcast.serverURL.heading": {
+    "translation": "سرور یو آر ایل"
+  },
+  "codeToImage.background": {
+    "translation": "پس منظر"
+  },
+  "codeToImage.borderRadius": {
+    "translation": "سرحدی رداس"
+  },
+  "codeToImage.code": {
+    "translation": "کوڈ"
+  },
+  "codeToImage.copyCode": {
+    "translation": "کوڈ کاپی کریں"
+  },
+  "codeToImage.copyImage": {
+    "translation": "تصویر کاپی کریں۔"
+  },
+  "codeToImage.default": {
+    "translation": "ڈیفالٹ"
+  },
+  "codeToImage.direction": {
+    "translation": "سمت"
+  },
+  "codeToImage.fileName": {
+    "translation": "فائل کا نام"
+  },
+  "codeToImage.fontFamily": {
+    "translation": "فونٹ فیملی"
+  },
+  "codeToImage.fontSize": {
+    "translation": "فونٹ سائز"
+  },
+  "codeToImage.heading": {
+    "translation": "تصویر کے لئے کوڈ"
+  },
+  "codeToImage.image": {
+    "translation": "تصویر"
+  },
+  "codeToImage.imageFormat.jpg": {
+    "translation": "JPEG"
+  },
+  "codeToImage.imageFormat.label": {
+    "translation": "تصویری شکل"
+  },
+  "codeToImage.imageFormat.png": {
+    "translation": "PNG"
+  },
+  "codeToImage.imageFormat.svg": {
+    "translation": "SVG"
+  },
+  "codeToImage.layout": {
+    "translation": "لے آؤٹ"
+  },
+  "codeToImage.opacity": {
+    "translation": "دھندلاپن"
+  },
+  "codeToImage.padding": {
+    "translation": "پیڈنگ"
+  },
+  "codeToImage.presets": {
+    "translation": "پریسیٹس"
+  },
+  "codeToImage.preview": {
+    "translation": "پیش نظارہ"
+  },
+  "codeToImage.save": {
+    "translation": "تصویر محفوظ کریں۔"
+  },
+  "codeToImage.scale": {
+    "translation": "تصویری پیمانہ"
+  },
+  "codeToImage.shadow": {
+    "translation": "سایہ"
+  },
+  "codeToImage.shareImage": {
+    "translation": "تصویر شیئر کریں۔"
+  },
+  "codeToImage.shareTitle": {
+    "translation": "شیئر کریں"
+  },
+  "codeToImage.shareUrl": {
+    "translation": "URL کا اشتراک کریں۔"
+  },
+  "codeToImage.theme": {
+    "translation": "تھیم"
+  },
+  "codeToImage.width": {
+    "translation": "چوڑائی"
+  },
+  "codeToImage.windowStyle.label": {
+    "translation": "ونڈو اسٹائل"
+  },
+  "codeToImage.windowStyle.mac": {
+    "translation": "macOS"
+  },
+  "codeToImage.windowStyle.none": {
+    "translation": "کوئی نہیں"
+  },
+  "codeToImage.windowStyle.windows": {
+    "translation": "Windows"
+  },
+  "commandMenu.changeTheme.dark": {
+    "translation": "ڈارک تھیم میں تبدیل کریں۔"
+  },
+  "commandMenu.changeTheme.light": {
+    "translation": "ہلکی تھیم میں تبدیل کریں۔"
+  },
+  "commandMenu.changeTheme.title": {
+    "translation": "تھیم تبدیل کریں۔"
+  },
+  "commandMenu.changeUILanguage": {
+    "translation": "UI کی زبان تبدیل کریں۔"
+  },
+  "commandMenu.closeModalMenu": {
+    "translation": "موڈل/مینو بند کریں۔"
+  },
+  "commandMenu.contribute": {
+    "translation": "تعاون کریں"
+  },
+  "commandMenu.copy": {
+    "translation": "کوڈ کاپی کریں"
+  },
+  "commandMenu.copyAsDataUrl": {
+    "translation": "کوڈ کو ڈیٹا یو آر ایل کے طور پر کاپی کریں"
+  },
+  "commandMenu.disableAutoSave": {
+    "translation": "آٹو سیو کو غیر فعال کریں۔"
+  },
+  "commandMenu.disableAutoUpdate": {
+    "translation": "آٹو اپ ڈیٹ کو غیر فعال کریں۔"
+  },
+  "commandMenu.disableEmacs": {
+    "translation": "ایماکس موڈ کو غیر فعال کریں۔"
+  },
+  "commandMenu.disableFormatOnSave": {
+    "translation": "آن سیو فارمیٹ کو غیر فعال کریں۔"
+  },
+  "commandMenu.disableRecoverUnsaved": {
+    "translation": "غیر محفوظ شدہ بازیافت کو غیر فعال کریں۔"
+  },
+  "commandMenu.disableVim": {
+    "translation": "ویم موڈ کو غیر فعال کریں۔"
+  },
+  "commandMenu.enableAutoSave": {
+    "translation": "آٹو سیو کو فعال کریں۔"
+  },
+  "commandMenu.enableAutoUpdate": {
+    "translation": "آٹو اپ ڈیٹ کو فعال کریں۔"
+  },
+  "commandMenu.enableEmacs": {
+    "translation": "ایماکس موڈ کو فعال کریں۔"
+  },
+  "commandMenu.enableFormatOnSave": {
+    "translation": "آن سیو فارمیٹ کو فعال کریں۔"
+  },
+  "commandMenu.enableRecoverUnsaved": {
+    "translation": "غیر محفوظ شدہ بازیافت کو فعال کریں۔"
+  },
+  "commandMenu.enableVim": {
+    "translation": "ویم موڈ کو فعال کریں۔"
+  },
+  "commandMenu.focus.editor": {
+    "translation": "فوکس ایڈیٹر"
+  },
+  "commandMenu.focus.home": {
+    "translation": "فوکس کو گھر پر منتقل کریں۔"
+  },
+  "commandMenu.focus.outOfEditor": {
+    "translation": "فوکس کو ایڈیٹر سے باہر منتقل کریں۔"
+  },
+  "commandMenu.focus.toggleTabFocusMode": {
+    "translation": "ٹیب فوکس موڈ کو ٹوگل کریں۔"
+  },
+  "commandMenu.formatCode": {
+    "translation": "فارمیٹ کوڈ"
+  },
+  "commandMenu.home": {
+    "translation": "ہوم"
+  },
+  "commandMenu.horizontalLayout": {
+    "translation": "افقی لے آؤٹ"
+  },
+  "commandMenu.keyboardShortcuts": {
+    "translation": "کی بورڈ شارٹ کٹس"
+  },
+  "commandMenu.login": {
+    "translation": "لاگ ان"
+  },
+  "commandMenu.logout": {
+    "translation": "لاگ آؤٹ"
+  },
+  "commandMenu.moveToParent": {
+    "translation": "والدین کو منتقل کریں"
+  },
+  "commandMenu.placeholder": {
+    "translation": "کمانڈ ٹائپ کریں یا تلاش کریں..."
+  },
+  "commandMenu.processors": {
+    "translation": "پروسیسرز"
+  },
+  "commandMenu.responsiveLayout": {
+    "translation": "ریسپانسو لے آؤٹ"
+  },
+  "commandMenu.run": {
+    "translation": "چلائیں"
+  },
+  "commandMenu.saveAsFork": {
+    "translation": "ایک نئے پروجیکٹ کے طور پر محفوظ کریں۔"
+  },
+  "commandMenu.saveAsTemplate": {
+    "translation": "بطور ٹیمپلیٹ محفوظ کریں۔"
+  },
+  "commandMenu.selectLanguage": {
+    "translation": "زبان منتخب کریں۔"
+  },
+  "commandMenu.show.compiled": {
+    "translation": "مرتب شدہ کوڈ کو ٹوگل کریں۔"
+  },
+  "commandMenu.show.console": {
+    "translation": "کنسول ٹوگل کریں۔"
+  },
+  "commandMenu.show.focusMode": {
+    "translation": "فوکس موڈ ٹوگل کریں۔"
+  },
+  "commandMenu.show.fullscreen": {
+    "translation": "پوری اسکرین کو ٹوگل کریں۔"
+  },
+  "commandMenu.show.markup": {
+    "translation": "مارک اپ ایڈیٹر دکھائیں۔"
+  },
+  "commandMenu.show.maximizeCompiled": {
+    "translation": "مرتب شدہ کوڈ کو زیادہ سے زیادہ بنائیں"
+  },
+  "commandMenu.show.maximizeConsole": {
+    "translation": "کنسول کو زیادہ سے زیادہ بنائیں"
+  },
+  "commandMenu.show.maximizeTests": {
+    "translation": "زیادہ سے زیادہ ٹیسٹ"
+  },
+  "commandMenu.show.next": {
+    "translation": "اگلا ایڈیٹر دکھائیں۔"
+  },
+  "commandMenu.show.previous": {
+    "translation": "پچھلا ایڈیٹر دکھائیں۔"
+  },
+  "commandMenu.show.result": {
+    "translation": "نتیجہ کو ٹوگل کریں"
+  },
+  "commandMenu.show.runTests": {
+    "translation": "ٹیسٹ چلائیں۔"
+  },
+  "commandMenu.show.script": {
+    "translation": "اسکرپٹ ایڈیٹر دکھائیں۔"
+  },
+  "commandMenu.show.style": {
+    "translation": "اسٹائل ایڈیٹر دکھائیں۔"
+  },
+  "commandMenu.show.tests": {
+    "translation": "ٹوگل ٹیسٹ"
+  },
+  "commandMenu.show.title": {
+    "translation": "دکھائیں…"
+  },
+  "commandMenu.show.zoom": {
+    "translation": "ٹوگل رزلٹ زوم"
+  },
+  "commandMenu.starterTemplates": {
+    "translation": "شروعاتی سانچے"
+  },
+  "commandMenu.sync": {
+    "translation": "مطابقت پذیری (بی ٹا)…"
+  },
+  "commandMenu.template": {
+    "translation": "سانچہ"
+  },
+  "commandMenu.theme.color": {
+    "translation": "تھیم کا رنگ سیٹ کریں۔"
+  },
+  "commandMenu.theme.defaultColor": {
+    "translation": "ڈیفالٹ تھیم کا رنگ سیٹ کریں۔"
+  },
+  "commandMenu.title": {
+    "translation": "کمانڈ مینو"
+  },
+  "commandMenu.toClose": {
+    "translation": "بند کرنا"
+  },
+  "commandMenu.toNavigate": {
+    "translation": "نیویگیٹ کرنے کے لیے"
+  },
+  "commandMenu.toSelect": {
+    "translation": "منتخب کرنے کے لئے"
+  },
+  "commandMenu.toggle": {
+    "translation": "ٹوگل: "
+  },
+  "commandMenu.verticalLayout": {
+    "translation": "عمودی لے آؤٹ"
+  },
+  "core.broadcast.heading": {
+    "translation": "نشریات"
+  },
+  "core.broadcast.successSetToken": {
+    "translation": "نشریات صارف ٹوکن کامیابی سے سیٹ کر دیا گیا"
+  },
+  "core.changeLanguage.hint": {
+    "translation": "زبان تبدیل کریں"
+  },
+  "core.changeLanguage.message": {
+    "translation": "{{lang}} لوڈ ہو رہی ہے۔ اس میں کچھ وقت لگ سکتا ہے!"
+  },
+  "core.copy.copied": {
+    "translation": "کوڈ کلپ بورڈ پر کاپی کر دیا گیا"
+  },
+  "core.copy.copiedAsDataURL": {
+    "translation": "کوڈ ڈیٹا یو آر ایل کے طور پر کاپی کیا گیا"
+  },
+  "core.copy.copiedImage": {
+    "translation": "تصویر کلپ بورڈ پر کاپی ہو گئی۔"
+  },
+  "core.copy.hint": {
+    "translation": "کاپی ہو گیا!"
+  },
+  "core.copy.title": {
+    "translation": "کاپی کریں"
+  },
+  "core.error.couldNotLoadTemplate": {
+    "translation": "ٹیمپلیٹ لوڈ نہیں ہو سکا: {{template}}"
+  },
+  "core.error.failedToCopyCode": {
+    "translation": "کوڈ کاپی کرنے میں ناکام"
+  },
+  "core.error.failedToCopyImage": {
+    "translation": "تصویر کاپی کرنے میں ناکام"
+  },
+  "core.error.failedToLoadTemplate": {
+    "translation": "ٹیمپلیٹ لوڈ کرنے میں ناکام"
+  },
+  "core.error.failedToLoadTemplates": {
+    "translation": "شروعاتی ٹیمپلیٹس لوڈ کرنے میں ناکام"
+  },
+  "core.error.failedToParseSettings": {
+    "translation": "ترتیبات کو JSON کے طور پر پارس کرنے میں ناکام"
+  },
+  "core.error.failedToSaveImage": {
+    "translation": "تصویر محفوظ کرنے میں ناکام"
+  },
+  "core.error.failedToShareImage": {
+    "translation": "تصویر کا اشتراک کرنے میں ناکام"
+  },
+  "core.error.invalidCommand": {
+    "translation": "غلط کمانڈ!"
+  },
+  "core.error.invalidImport": {
+    "translation": "غلط درآمد یو آر ایل"
+  },
+  "core.error.invalidPanelId": {
+    "translation": "غلط پینل آئی ڈی"
+  },
+  "core.error.invalidToken": {
+    "translation": "غلط ٹوکن!"
+  },
+  "core.error.login": {
+    "translation": "لاگ ان میں خرابی!"
+  },
+  "core.error.logout": {
+    "translation": "لاگ آؤٹ میں خرابی!"
+  },
+  "core.error.noResultContainer": {
+    "translation": "نتیجے کا کنٹینر نہیں ملا"
+  },
+  "core.error.unavailable": {
+    "translation": "کمانڈ دستیاب نہیں ہے"
+  },
+  "core.error.unavailableForEmbeds": {
+    "translation": "ایمبیڈز کے لیے کمانڈ دستیاب نہیں ہے"
+  },
+  "core.export.gist": {
+    "translation": "ایک عوامی گٹ ہب گسٹ بنایا جا رہا ہے..."
+  },
+  "core.fork.success": {
+    "translation": "ایک نئے پروجیکٹ کے طور پر فورک کیا گیا"
+  },
+  "core.fullScreen.enter": {
+    "translation": "فل اسکرین"
+  },
+  "core.fullScreen.exit": {
+    "translation": "فل اسکرین سے باہر نکلیں"
+  },
+  "core.generating": {
+    "translation": "تیار کیا جا رہا ہے..."
+  },
+  "core.import.loading": {
+    "translation": "پروجیکٹ لوڈ ہو رہا ہے..."
+  },
+  "core.layout.horizontal": {
+    "translation": "افقی لے آؤٹ"
+  },
+  "core.layout.responsive": {
+    "translation": "ریسپانسو لے آؤٹ"
+  },
+  "core.layout.vertical": {
+    "translation": "عمودی لے آؤٹ"
+  },
+  "core.loadDefaults.template": {
+    "translation": "ڈیفالٹ ٹیمپلیٹ لوڈ ہو رہا ہے"
+  },
+  "core.login.success": {
+    "translation": "کامیابی سے لاگ ان ہو گیا"
+  },
+  "core.login.successWithName": {
+    "translation": "لاگ ان ہو گیا بطور: {{name}}"
+  },
+  "core.logout.success": {
+    "translation": "کامیابی سے لاگ آؤٹ ہو گیا"
+  },
+  "core.result.hint": {
+    "translation": "نتیجہ نئی ونڈو میں دکھائیں"
+  },
+  "core.save.success": {
+    "translation": "پروجیکٹ مقامی طور پر آلے پر محفوظ ہو گیا!"
+  },
+  "core.save.successWithName": {
+    "translation": "پروجیکٹ \"{{name}}\" آلے پر محفوظ ہو گیا۔"
+  },
+  "core.template.blank": {
+    "translation": "خالی پروجیکٹ"
+  },
+  "core.template.delete": {
+    "translation": "ٹیمپلیٹ \"{{item}}\" حذف کریں؟"
+  },
+  "core.template.javascript": {
+    "translation": "جاوا اسکرپٹ شروعاتی"
+  },
+  "core.template.react": {
+    "translation": "ری ایکٹ شروعاتی"
+  },
+  "core.template.saved": {
+    "translation": "ایک نئے ٹیمپلیٹ کے طور پر محفوظ کیا گیا"
+  },
+  "core.template.typescript": {
+    "translation": "ٹائپ اسکرپٹ شروعاتی"
+  },
+  "core.template.vue": {
+    "translation": "ویو 3 شروعاتی"
+  },
+  "core.unload.notSaved": {
+    "translation": "آپ کی کی گئی تبدیلیاں محفوظ نہیں ہو سکتی ہیں۔"
+  },
+  "core.zoom.hint": {
+    "translation": "زوم"
+  },
+  "customSettings.JSON": {
+    "translation": "حسب ضرورت ترتیبات JSON"
+  },
+  "customSettings.desc": {
+    "translation": "<tag-1> </tag-1> مزید تفصیلات کے لیے، براہ کرم <tag-2> دستاویزات </tag-2> دیکھیں۔"
+  },
+  "customSettings.heading": {
+    "translation": "حسب ضرورت ترتیبات"
+  },
+  "customSettings.load": {
+    "translation": "لوڈ کریں"
+  },
+  "deploy.create.desc": {
+    "translation": "ایک نیا <tag-1>عوامی</tag-1> ریپو بنایا جائے گا۔ نتیجے کا صفحہ <tag-2>gh-pages</tag-2> برانچ پر پش کیا جائے گا۔"
+  },
+  "deploy.create.heading": {
+    "translation": "نیا ریپو بنائیں"
+  },
+  "deploy.create.repoName": {
+    "translation": "ریپو کا نام <tag-1></tag-1>"
+  },
+  "deploy.error.generic": {
+    "translation": "تعیناتی ناکام ہو گئی!"
+  },
+  "deploy.error.repoNameExists": {
+    "translation": "ریپو کا نام پہلے سے موجود ہے"
+  },
+  "deploy.error.repoNameRequired": {
+    "translation": "ریپو کا نام درکار ہے"
+  },
+  "deploy.existing.desc": {
+    "translation": "<tag-1>gh-pages</tag-1> برانچ میں ایک نیا کمٹ شامل کیا جائے گا۔"
+  },
+  "deploy.existing.heading": {
+    "translation": "موجودہ ریپو"
+  },
+  "deploy.existing.repoName": {
+    "translation": "ریپو کا نام"
+  },
+  "deploy.generic.commitMessage": {
+    "translation": "کمٹ پیغام"
+  },
+  "deploy.generic.commitSourceCodePublic": {
+    "translation": "سورس کوڈ کمٹ کریں (عوامی)"
+  },
+  "deploy.generic.deployBtn": {
+    "translation": "تعینات کریں"
+  },
+  "deploy.generic.deploying": {
+    "translation": "تعینات ہو رہا ہے..."
+  },
+  "deploy.heading": {
+    "translation": "گٹ ہب پیجز پر تعینات کریں"
+  },
+  "deploy.searchRepo": {
+    "translation": "اپنے عوامی ریپوز میں تلاش کریں..."
+  },
+  "editorSettings.closeBrackets": {
+    "translation": "بریکٹس اور حوالہ جات خود بخود بند کریں"
+  },
+  "editorSettings.codeJarDesc": {
+    "translation": "<tag-1> </tag-1> * نشان زد خصوصیات CodeJar میں دستیاب نہیں ہیں۔"
+  },
+  "editorSettings.default": {
+    "translation": "ڈیفالٹ"
+  },
+  "editorSettings.desc": {
+    "translation": "تفصیلات کے لیے براہ کرم <tag-2>دستاویزات</tag-2> چیک کریں۔<tag-1></tag-1>"
+  },
+  "editorSettings.editor.codejar": {
+    "translation": "کوڈ جار"
+  },
+  "editorSettings.editor.codemirror": {
+    "translation": "کوڈ مرر"
+  },
+  "editorSettings.editor.heading": {
+    "translation": "ایڈیٹر"
+  },
+  "editorSettings.editor.monaco": {
+    "translation": "موناکو"
+  },
+  "editorSettings.editorMode.emacs": {
+    "translation": "ای میکس"
+  },
+  "editorSettings.editorMode.heading": {
+    "translation": "ایڈیٹر موڈ *"
+  },
+  "editorSettings.editorMode.vim": {
+    "translation": "وم"
+  },
+  "editorSettings.editorTheme": {
+    "translation": "ایڈیٹر تھیم"
+  },
+  "editorSettings.emmet": {
+    "translation": "ایمیٹ فعال کریں *"
+  },
+  "editorSettings.foldRegions": {
+    "translation": "فولڈ (سخت) علاقوں *"
+  },
+  "editorSettings.fontFamily": {
+    "translation": "فونٹ فیملی"
+  },
+  "editorSettings.fontSize": {
+    "translation": "فونٹ سائز"
+  },
+  "editorSettings.format": {
+    "translation": "فارمیٹ"
+  },
+  "editorSettings.heading": {
+    "translation": "ایڈیٹر کی ترتیبات"
+  },
+  "editorSettings.lineNumbers": {
+    "translation": "لائن نمبرز دکھائیں"
+  },
+  "editorSettings.lineNumbersRelative": {
+    "translation": "متعلقہ لائن نمبر *"
+  },
+  "editorSettings.minimap": {
+    "translation": "Minimap کو فعال کریں *"
+  },
+  "editorSettings.notAvailableInCodeJar": {
+    "translation": "کوڈ جار میں دستیاب نہیں"
+  },
+  "editorSettings.preview": {
+    "translation": "پیش نظارہ"
+  },
+  "editorSettings.semicolons": {
+    "translation": "فارمیٹ: سیمی کولن استعمال کریں"
+  },
+  "editorSettings.singleQuote": {
+    "translation": "فارمیٹ: سنگل کوٹس استعمال کریں"
+  },
+  "editorSettings.tabSize": {
+    "translation": "ٹیب سائز"
+  },
+  "editorSettings.theme": {
+    "translation": "ڈارک موڈ"
+  },
+  "editorSettings.trailingComma": {
+    "translation": "فارمیٹ: ٹریلنگ کوما استعمال کریں"
+  },
+  "editorSettings.useTabs.heading": {
+    "translation": "انڈینٹیشن"
+  },
+  "editorSettings.useTabs.spaces": {
+    "translation": "خالی جگہیں"
+  },
+  "editorSettings.useTabs.tabs": {
+    "translation": "ٹیبز"
+  },
+  "editorSettings.wordWrap": {
+    "translation": "ورڈ-ریپ"
+  },
+  "embed.activeEditor.heading": {
+    "translation": "فعال ایڈیٹر"
+  },
+  "embed.activeEditor.markup": {
+    "translation": "{{markup}}"
+  },
+  "embed.activeEditor.script": {
+    "translation": "{{script}}"
+  },
+  "embed.activeEditor.style": {
+    "translation": "{{style}}"
+  },
+  "embed.activeTool.compiled": {
+    "translation": "مرتب شدہ"
+  },
+  "embed.activeTool.console": {
+    "translation": "کنسول"
+  },
+  "embed.activeTool.heading": {
+    "translation": "فعال ٹول"
+  },
+  "embed.activeTool.tests": {
+    "translation": "ٹیسٹ"
+  },
+  "embed.code.copy": {
+    "translation": "کوڈ کاپی کریں"
+  },
+  "embed.code.heading": {
+    "translation": "کوڈ"
+  },
+  "embed.codeEditor.codeJar": {
+    "translation": "کوڈ جار"
+  },
+  "embed.codeEditor.codeMirror": {
+    "translation": "کوڈ مرر"
+  },
+  "embed.codeEditor.default": {
+    "translation": "ڈیفالٹ"
+  },
+  "embed.codeEditor.heading": {
+    "translation": "کوڈ ایڈیٹر"
+  },
+  "embed.codeEditor.monaco": {
+    "translation": "موناکو"
+  },
+  "embed.desc": {
+    "translation": "اعلی درجے کی ترتیبات کے لیے براہ کرم <tag-1>دستاویزات</tag-1> چیک کریں۔"
+  },
+  "embed.embedType.cdn": {
+    "translation": "اسکرپٹ (سی ڈی این)"
+  },
+  "embed.embedType.heading": {
+    "translation": "ایمبیڈ کی قسم"
+  },
+  "embed.embedType.html": {
+    "translation": "ایچ ٹی ایم ایل"
+  },
+  "embed.embedType.iframe": {
+    "translation": "آئی فریم"
+  },
+  "embed.embedType.npm": {
+    "translation": "جے ایس (این پی ایم)"
+  },
+  "embed.embedType.react": {
+    "translation": "ری ایکٹ"
+  },
+  "embed.embedType.svelte": {
+    "translation": "سویلٹ"
+  },
+  "embed.embedType.vue": {
+    "translation": "ویو"
+  },
+  "embed.heading": {
+    "translation": "پروجیکٹ ایمبیڈ کریں"
+  },
+  "embed.layout.heading": {
+    "translation": "لے آؤٹ"
+  },
+  "embed.layout.horizontal": {
+    "translation": "افقی"
+  },
+  "embed.layout.responsive": {
+    "translation": "جوابدہ"
+  },
+  "embed.layout.vertical": {
+    "translation": "عمودی"
+  },
+  "embed.lite": {
+    "translation": "لائٹ موڈ"
+  },
+  "embed.loading.click": {
+    "translation": "کلک پر"
+  },
+  "embed.loading.eager": {
+    "translation": "پرجوش"
+  },
+  "embed.loading.heading": {
+    "translation": "لوڈ ہو رہا ہے"
+  },
+  "embed.loading.lazy": {
+    "translation": "سست"
+  },
+  "embed.mode.codeblock": {
+    "translation": "کوڈ بلاک"
+  },
+  "embed.mode.editor": {
+    "translation": "ایڈیٹر"
+  },
+  "embed.mode.full": {
+    "translation": "مکمل"
+  },
+  "embed.mode.heading": {
+    "translation": "ڈسپلے موڈ"
+  },
+  "embed.mode.result": {
+    "translation": "نتیجہ"
+  },
+  "embed.mode.simple": {
+    "translation": "سادہ"
+  },
+  "embed.permanentUrl": {
+    "translation": "مستقل یو آر ایل"
+  },
+  "embed.preview": {
+    "translation": "پیش نظارہ"
+  },
+  "embed.previewLoading": {
+    "translation": "پیش نظارہ لوڈ ہو رہا ہے..."
+  },
+  "embed.readonly": {
+    "translation": "صرف پڑھنے کے لیے"
+  },
+  "embed.theme.dark": {
+    "translation": "تاریک"
+  },
+  "embed.theme.heading": {
+    "translation": "تھیم"
+  },
+  "embed.theme.light": {
+    "translation": "روشن"
+  },
+  "embed.tools.closed": {
+    "translation": "بند"
+  },
+  "embed.tools.full": {
+    "translation": "مکمل"
+  },
+  "embed.tools.heading": {
+    "translation": "ٹولز"
+  },
+  "embed.tools.none": {
+    "translation": "کوئی نہیں"
+  },
+  "embed.tools.open": {
+    "translation": "کھلا"
+  },
+  "embed.view.editor": {
+    "translation": "ایڈیٹر"
+  },
+  "embed.view.heading": {
+    "translation": "ڈیفالٹ منظر"
+  },
+  "embed.view.result": {
+    "translation": "نتیجہ"
+  },
+  "embed.view.split": {
+    "translation": "تقسیم"
+  },
+  "generic.about.blog": {
+    "translation": "بلاگ"
+  },
+  "generic.about.configuration": {
+    "translation": "ترتیب"
+  },
+  "generic.about.gettingStarted": {
+    "translation": "شروع کرنا"
+  },
+  "generic.about.github": {
+    "translation": "گٹ ہب"
+  },
+  "generic.about.sdk": {
+    "translation": "ایس ڈی کے"
+  },
+  "generic.about.sponsor": {
+    "translation": "سپانسر"
+  },
+  "generic.about.twitter": {
+    "translation": "𝕏 / ٹویٹر"
+  },
+  "generic.clickForInfo": {
+    "translation": "معلومات کے لیے کلک کریں..."
+  },
+  "generic.close": {
+    "translation": "بند کریں"
+  },
+  "generic.custom": {
+    "translation": "حسب ضرورت"
+  },
+  "generic.embed.logoHint": {
+    "translation": "لائیو کوڈ پر ترمیم کریں 🡕"
+  },
+  "generic.error.authentication": {
+    "translation": "تصدیق میں خرابی!"
+  },
+  "generic.error.exceededSize": {
+    "translation": "خرابی: سائز {{size}} ایم بی سے زیادہ ہو گیا"
+  },
+  "generic.error.failedToReadFile": {
+    "translation": "خرابی: فائل پڑھنے میں ناکام"
+  },
+  "generic.loading": {
+    "translation": "لوڈ ہو رہا ہے..."
+  },
+  "generic.more": {
+    "translation": "مزید..."
+  },
+  "generic.optional": {
+    "translation": "اختیاری"
+  },
+  "generic.required": {
+    "translation": "ضروری"
+  },
+  "generic.tagline": {
+    "translation": "!ایک کوڈ پلے گراؤنڈ جو بس کام کرتا ہے"
+  },
+  "import.bulk.desc": {
+    "translation": "اپنے محفوظ شدہ پروجیکٹس میں متعدد پروجیکٹس کو بلک درآمد کریں۔ پروجیکٹس کو <tag-1>محفوظ شدہ پروجیکٹس</tag-1> اسکرین سے برآمد کیا جا سکتا ہے۔"
+  },
+  "import.bulk.fromFile": {
+    "translation": "مقامی فائل سے بلک درآمد"
+  },
+  "import.bulk.fromURL": {
+    "translation": "یو آر ایل سے بلک درآمد"
+  },
+  "import.bulk.heading": {
+    "translation": "بلک درآمد"
+  },
+  "import.bulk.started": {
+    "translation": "بلک درآمد شروع ہو گیا..."
+  },
+  "import.code.desc": {
+    "translation": "سپورٹڈ ذرائع: <tag-1> <tag-2>گٹ ہب گسٹ</tag-2> <tag-3>گٹ ہب فائل</tag-3> <tag-4>گٹ ہب ریپو میں ڈائریکٹری</tag-4> <tag-5>گٹ لیب اسنپٹ</tag-5> <tag-6>گٹ لیب فائل</tag-6> <tag-7>گٹ لیب ریپو میں ڈائریکٹری</tag-7> <tag-8>جے ایس بن</tag-8> <tag-9>خام کوڈ</tag-9> <tag-10>ویب صفحہ ڈی او ایم میں کوڈ</tag-10> <tag-11>زپ فائل میں کوڈ</tag-11> <tag-12>تصویر میں کوڈ (او سی آر)</tag-12> <tag-13>سرکاری پلے گراؤنڈز<tag-14></tag-14>(ٹائپ اسکرپٹ اور ویو)</tag-13> </tag-1> تفصیلات کے لیے براہ کرم <tag-15>دستاویزات</tag-15> ملاحظہ کریں۔"
+  },
+  "import.code.fromFile": {
+    "translation": "مقامی فائلیں درآمد کریں"
+  },
+  "import.code.fromURL": {
+    "translation": "یو آر ایل سے درآمد کریں"
+  },
+  "import.code.heading": {
+    "translation": "کوڈ درآمد کریں"
+  },
+  "import.error.failedToLoadURL": {
+    "translation": "خرابی: یو آر ایل لوڈ کرنے میں ناکام"
+  },
+  "import.error.invalidConfigFile": {
+    "translation": "غلط ترتیب فائل"
+  },
+  "import.error.invalidFile": {
+    "translation": "خرابی: غلط فائل"
+  },
+  "import.generic.file": {
+    "translation": "مقامی فائل"
+  },
+  "import.generic.url": {
+    "translation": "یو آر ایل"
+  },
+  "import.heading": {
+    "translation": "درآمد"
+  },
+  "import.json.desc": {
+    "translation": "ایڈیٹر میں ایک واحد پروجیکٹ JSON درآمد کریں۔ ایک پروجیکٹ کو ایپ مینو → برآمد → پروجیکٹ برآمد کریں (JSON) سے برآمد کیا جا سکتا ہے۔"
+  },
+  "import.json.fromFile": {
+    "translation": "مقامی فائل سے پروجیکٹ درآمد کریں"
+  },
+  "import.json.fromURL": {
+    "translation": "یو آر ایل سے پروجیکٹ درآمد کریں"
+  },
+  "import.json.heading": {
+    "translation": "پروجیکٹ JSON درآمد کریں"
+  },
+  "import.success": {
+    "translation": "درآمد کامیاب!"
+  },
+  "keyboardShortcuts.command": {
+    "translation": "حکم"
+  },
+  "keyboardShortcuts.editorShortcuts": {
+    "translation": "کوڈ ایڈیٹر کی بورڈ شارٹ کٹس کی فہرست کے لیے، دیکھیں <tag-1> VS کوڈ شارٹ کٹس </tag-1>"
+  },
+  "keyboardShortcuts.heading": {
+    "translation": "کی بورڈ شارٹ کٹس"
+  },
+  "keyboardShortcuts.key": {
+    "translation": "چابی"
+  },
+  "login.accessAllowed": {
+    "translation": "رسائی کی اجازت دیں:"
+  },
+  "login.desc": {
+    "translation": "<tag-1>لاگ ان کر کے، آپ اس بات سے متفق ہیں کہ آپ کے آلے پر <tag-2>کوکیز</tag-2> محفوظ کی جا سکتی ہیں۔</tag-1> <tag-3> <tag-4>یہ اجازتیں کیوں ضروری ہیں؟</tag-4> </tag-3> <tag-5> <tag-6>اجازتوں کو کیسے تبدیل/منسوخ کریں؟</tag-6> </tag-5>"
+  },
+  "login.gist": {
+    "translation": "گسٹس"
+  },
+  "login.heading": {
+    "translation": "گٹ ہب کے ساتھ لاگ ان کریں"
+  },
+  "login.loginAs": {
+    "translation": "{{name}} کے طور پر لاگ ان"
+  },
+  "login.loginBtn": {
+    "translation": "لاگ ان"
+  },
+  "login.logout": {
+    "translation": "لاگ آؤٹ"
+  },
+  "login.privateRepo": {
+    "translation": "نجی ریپوز"
+  },
+  "login.publicRepo": {
+    "translation": "ریپوز"
+  },
+  "menu.about": {
+    "translation": "تعارف"
+  },
+  "menu.appHelp.heading": {
+    "translation": "مدد"
+  },
+  "menu.appHelp.hint": {
+    "translation": "مدد"
+  },
+  "menu.appProject.heading": {
+    "translation": "پروجیکٹ"
+  },
+  "menu.appProject.hint": {
+    "translation": "پروجیکٹ"
+  },
+  "menu.appSettings.heading": {
+    "translation": "ترتیبات"
+  },
+  "menu.appSettings.hint": {
+    "translation": "ایپ کی ترتیبات"
+  },
+  "menu.assets": {
+    "translation": "اثاثے …"
+  },
+  "menu.autoSave": {
+    "translation": "خود کار محفوظ"
+  },
+  "menu.autoUpdate": {
+    "translation": "خود کار اپ ڈیٹ"
+  },
+  "menu.backup": {
+    "translation": "بیک اپ / بحالی …"
+  },
+  "menu.blog": {
+    "translation": "LiveCodes بلاگ"
+  },
+  "menu.broadcast": {
+    "translation": "نشریات …"
+  },
+  "menu.commandMenu": {
+    "translation": "کمانڈ مینو"
+  },
+  "menu.config": {
+    "translation": "ترتیب"
+  },
+  "menu.customSettings": {
+    "translation": "حسب ضرورت ترتیبات …"
+  },
+  "menu.delay.heading": {
+    "translation": "تاخیر: <tag-1>1.5</tag-1> سیکنڈ"
+  },
+  "menu.delay.hint": {
+    "translation": "خود کار اپ ڈیٹ سے پہلے تاخیر"
+  },
+  "menu.deploy": {
+    "translation": "تعینات کریں …"
+  },
+  "menu.docs": {
+    "translation": "دستاویزی"
+  },
+  "menu.editorSettings": {
+    "translation": "ایڈیٹر کی ترتیبات …"
+  },
+  "menu.embed": {
+    "translation": "ایمبیڈ …"
+  },
+  "menu.export.codepen": {
+    "translation": "کوڈ پین میں ترمیم کریں"
+  },
+  "menu.export.gist": {
+    "translation": "گٹ ہب گسٹ میں برآمد کریں"
+  },
+  "menu.export.heading": {
+    "translation": "برآمد"
+  },
+  "menu.export.jsfiddle": {
+    "translation": "جے ایس فڈل میں ترمیم کریں"
+  },
+  "menu.export.json": {
+    "translation": "پروجیکٹ برآمد کریں (JSON)"
+  },
+  "menu.export.result": {
+    "translation": "نتیجہ برآمد کریں (HTML)"
+  },
+  "menu.export.src": {
+    "translation": "سورس برآمد کریں (ZIP)"
+  },
+  "menu.features": {
+    "translation": "خصوصیات"
+  },
+  "menu.formatOnsave": {
+    "translation": "محفوظ کرتے وقت فارمیٹ کریں"
+  },
+  "menu.getstart": {
+    "translation": "شروع کرنا"
+  },
+  "menu.import": {
+    "translation": "درآمد …"
+  },
+  "menu.keyboardShortcuts": {
+    "translation": "کی بورڈ شارٹ کٹس"
+  },
+  "menu.layout": {
+    "translation": "عمودی لے آؤٹ"
+  },
+  "menu.license": {
+    "translation": "لائسنس"
+  },
+  "menu.login": {
+    "translation": "لاگ ان …"
+  },
+  "menu.logout": {
+    "translation": "لاگ آؤٹ"
+  },
+  "menu.new": {
+    "translation": "نیا …"
+  },
+  "menu.open": {
+    "translation": "کھولیں …"
+  },
+  "menu.project": {
+    "translation": "پروجیکٹ کی معلومات …"
+  },
+  "menu.recoverUnsaved": {
+    "translation": "غیر محفوظ شدہ بحال کریں"
+  },
+  "menu.report": {
+    "translation": "کسی مسئلے کی اطلاع دیں۔"
+  },
+  "menu.resources": {
+    "translation": "بیرونی وسائل …"
+  },
+  "menu.save": {
+    "translation": "محفوظ کریں"
+  },
+  "menu.saveAs.fork": {
+    "translation": "فورک (نیا پروجیکٹ)"
+  },
+  "menu.saveAs.heading": {
+    "translation": "بطور محفوظ کریں"
+  },
+  "menu.saveAs.template": {
+    "translation": "سانچہ"
+  },
+  "menu.sdk": {
+    "translation": "ایس ڈی کے"
+  },
+  "menu.share": {
+    "translation": "شیئر کریں …"
+  },
+  "menu.showSpacing.heading": {
+    "translation": "خالی جگہ دکھائیں"
+  },
+  "menu.showSpacing.hint": {
+    "translation": "Alt/Option دبائیں اور اپنے کرسر کو نتیجے کے صفحے پر لے جائیں"
+  },
+  "menu.showWelcome.title": {
+    "translation": "شروع ہونے پر خوش آمدیدی اسکرین دکھائیں"
+  },
+  "menu.snippets": {
+    "translation": "کوڈ اسنیپٹس …"
+  },
+  "menu.source": {
+    "translation": "GitHub پر ماخذ کوڈ"
+  },
+  "menu.sync": {
+    "translation": "مطابقت پذیری (بیٹا) … <tag-1> ⏳</tag-1>"
+  },
+  "menu.theme": {
+    "translation": "ڈارک تھیم"
+  },
+  "menu.themeColor": {
+    "translation": "رنگ"
+  },
+  "menu.welcome.heading": {
+    "translation": "خوش آمدید …"
+  },
+  "open.action.delete": {
+    "translation": "حذف کریں"
+  },
+  "open.defaultTemplate": {
+    "translation": "ڈیفالٹ سانچہ "
+  },
+  "open.delete.all": {
+    "translation": "{{projects}} پروجیکٹس حذف کریں؟"
+  },
+  "open.delete.deleting": {
+    "translation": "پروجیکٹس حذف کیے جا رہے ہیں..."
+  },
+  "open.delete.one": {
+    "translation": "پروجیکٹ حذف کریں: {{project}}؟"
+  },
+  "open.deleteAll": {
+    "translation": "سب کو حذف کریں"
+  },
+  "open.exportAll": {
+    "translation": "سب کو برآمد کریں"
+  },
+  "open.filter.language": {
+    "translation": "زبان کے لحاظ سے فلٹر کریں"
+  },
+  "open.filter.tag": {
+    "translation": "ٹیگ کے لحاظ سے فلٹر کریں"
+  },
+  "open.heading": {
+    "translation": "محفوظ شدہ پروجیکٹس"
+  },
+  "open.import": {
+    "translation": "درآمد"
+  },
+  "open.lastModified": {
+    "translation": "آخری ترمیم: {{modified}}"
+  },
+  "open.noData.desc": {
+    "translation": "آپ (ترتیبات&nbsp;مینو&nbsp;&gt;&nbsp;محفوظ کریں) سے یا کی بورڈ شارٹ کٹ (Ctrl/Cmd&nbsp;+&nbsp;S) سے پروجیکٹ محفوظ کر سکتے ہیں۔"
+  },
+  "open.noData.heading": {
+    "translation": "آپ کے پاس کوئی محفوظ شدہ پروجیکٹ نہیں ہے۔"
+  },
+  "open.noMatch": {
+    "translation": "کوئی پروجیکٹ ان فلٹرز سے مطابقت نہیں رکھتا۔"
+  },
+  "open.placeholder.allLanguages": {
+    "translation": "تمام زبانیں"
+  },
+  "open.placeholder.filterByTags": {
+    "translation": "ٹیگز کے لحاظ سے فلٹر کریں"
+  },
+  "open.placeholder.search": {
+    "translation": "تلاش کریں"
+  },
+  "open.removeDefault": {
+    "translation": "(غیر سیٹ کریں)"
+  },
+  "open.reset": {
+    "translation": "دوبارہ ترتیب دیں"
+  },
+  "open.setAsDefault": {
+    "translation": "بطور ڈیفالٹ سیٹ کریں"
+  },
+  "open.sort.heading": {
+    "translation": "ترتیب دیں:"
+  },
+  "open.sort.lastModified": {
+    "translation": "آخری ترمیم"
+  },
+  "open.sort.title": {
+    "translation": "عنوان"
+  },
+  "project.desc": {
+    "translation": "تفصیل"
+  },
+  "project.head": {
+    "translation": "&lt;head&gt; میں شامل کریں"
+  },
+  "project.heading": {
+    "translation": "پروجیکٹ کی معلومات"
+  },
+  "project.htmlAttr": {
+    "translation": "&lt;html&gt; کے لیے خصوصیات"
+  },
+  "project.tags": {
+    "translation": "ٹیگز"
+  },
+  "project.title": {
+    "translation": "پروجیکٹ کا عنوان"
+  },
+  "recoverPrompt.desc": {
+    "translation": "آپ کے آخری پروجیکٹ میں غیر محفوظ شدہ تبدیلیاں ہیں!"
+  },
+  "recoverPrompt.heading": {
+    "translation": "غیر محفوظ شدہ پروجیکٹ بحال کریں؟"
+  },
+  "recoverPrompt.meta": {
+    "translation": "عنوان: <tag-1></tag-1> <tag-2></tag-2> آخری ترمیم: <tag-3></tag-3>"
+  },
+  "recoverPrompt.notShowAgain": {
+    "translation": "یہ دوبارہ نہ دکھائیں۔"
+  },
+  "recoverPrompt.prompt.discard": {
+    "translation": "غیر محفوظ شدہ پروجیکٹ کو رد کریں"
+  },
+  "recoverPrompt.prompt.heading": {
+    "translation": "<tag-1></tag-1>کیا آپ اسے ابھی بحال کرنا چاہتے ہیں؟"
+  },
+  "recoverPrompt.prompt.recover": {
+    "translation": "پروجیکٹ کو ایڈیٹر میں بحال کریں"
+  },
+  "recoverPrompt.prompt.save": {
+    "translation": "آلے پر محفوظ کریں اور جاری رکھیں"
+  },
+  "resources.browseOnJsDelivr": {
+    "translation": "jsDelivr پر پیکیج فائلیں براؤز کریں"
+  },
+  "resources.cssPresets.heading": {
+    "translation": "سی ایس ایس پریسیٹس"
+  },
+  "resources.cssPresets.none": {
+    "translation": "کوئی نہیں"
+  },
+  "resources.cssPresets.normalizeCss": {
+    "translation": "نارملائز سی ایس ایس"
+  },
+  "resources.cssPresets.resetCss": {
+    "translation": "ری سیٹ سی ایس ایس"
+  },
+  "resources.error.failedToLoadResults": {
+    "translation": "نتائج لوڈ کرنے میں ناکام!"
+  },
+  "resources.error.noResultsFound": {
+    "translation": "کوئی نتیجہ نہیں ملا: "
+  },
+  "resources.fonts.add": {
+    "translation": "شامل کریں"
+  },
+  "resources.fonts.heading": {
+    "translation": "فونٹس <tag-1>(گوگل فونٹس کی طرف سے طاقت یافتہ)</tag-1>"
+  },
+  "resources.fonts.select": {
+    "translation": "فونٹ منتخب کریں ..."
+  },
+  "resources.heading": {
+    "translation": "بیرونی وسائل"
+  },
+  "resources.scripts": {
+    "translation": "بیرونی اسکرپٹس"
+  },
+  "resources.search.heading": {
+    "translation": "پیکیجز تلاش کریں <tag-1>(jsDelivr کی طرف سے طاقت یافتہ)</tag-1>"
+  },
+  "resources.search.placeholder": {
+    "translation": "مثال کے طور پر jquery, lodash@4, bootstrap@5.2.3, ..."
+  },
+  "resources.stylesheets": {
+    "translation": "بیرونی اسٹائل شیٹس"
+  },
+  "resources.urlDesc": {
+    "translation": "اسٹائل شیٹ/اسکرپٹ یو آر ایلز شامل کریں۔ ہر یو آر ایل ایک الگ لائن میں ہونی چاہیے۔"
+  },
+  "resultMode.linkText": {
+    "translation": "لائیو کوڈ پر ترمیم کریں"
+  },
+  "savePrompt.heading": {
+    "translation": "غیر محفوظ شدہ تبدیلیاں"
+  },
+  "savePrompt.prompt.cancel": {
+    "translation": "منسوخ کریں"
+  },
+  "savePrompt.prompt.discard": {
+    "translation": "محفوظ نہ کریں"
+  },
+  "savePrompt.prompt.heading": {
+    "translation": "آپ کی کی گئی تبدیلیاں محفوظ نہیں ہو سکتی ہیں۔ <tag-1></tag-1> کیا آپ ابھی محفوظ کرنا چاہتے ہیں؟"
+  },
+  "savePrompt.prompt.save": {
+    "translation": "محفوظ کریں"
+  },
+  "share.characters": {
+    "translation": "{{urlLength}} حروف"
+  },
+  "share.copy.clickToCopy": {
+    "translation": "کاپی کرنے کے لیے کلک کریں"
+  },
+  "share.copy.copied": {
+    "translation": "یو آر ایل کلپ بورڈ پر کاپی ہو گیا"
+  },
+  "share.encodedURL": {
+    "translation": "انکوڈڈ یو آر ایل حاصل کریں"
+  },
+  "share.error.failedToCopy": {
+    "translation": "کلپ بورڈ پر کاپی کرنے میں ناکام!"
+  },
+  "share.error.failedToGenerateURL": {
+    "translation": "مختصر یو آر ایل بنانے میں ناکام!"
+  },
+  "share.expireInOneYear": {
+    "translation": "1 سال میں ختم ہو جائے گا"
+  },
+  "share.generateURL": {
+    "translation": "یو آر ایل بنایا جا رہا ہے …"
+  },
+  "share.heading": {
+    "translation": "شیئر کریں"
+  },
+  "share.permanentURL": {
+    "translation": "مستقل یو آر ایل"
+  },
+  "share.qrcode.clickToDownload": {
+    "translation": "ڈاؤن لوڈ کرنے کے لیے کلک کریں"
+  },
+  "share.qrcode.generating": {
+    "translation": "تیار کیا جا رہا ہے..."
+  },
+  "share.services.devTo": {
+    "translation": "Dev.to"
+  },
+  "share.services.email": {
+    "translation": "ای میل"
+  },
+  "share.services.facebook": {
+    "translation": "فیس بک"
+  },
+  "share.services.hackerNews": {
+    "translation": "ہیکر نیوز"
+  },
+  "share.services.linkedIn": {
+    "translation": "لنکڈ ان"
+  },
+  "share.services.pinterest": {
+    "translation": "پنٹریسٹ"
+  },
+  "share.services.pocket": {
+    "translation": "پاکٹ"
+  },
+  "share.services.qrCode": {
+    "translation": "کیو آر کوڈ"
+  },
+  "share.services.reddit": {
+    "translation": "ریڈٹ"
+  },
+  "share.services.share": {
+    "translation": "اس کے ذریعے شیئر کریں …"
+  },
+  "share.services.telegram": {
+    "translation": "ٹیلیگرام"
+  },
+  "share.services.tumblr": {
+    "translation": "ٹمبلر"
+  },
+  "share.services.twitter": {
+    "translation": "𝕏 / ٹویٹر"
+  },
+  "share.services.whatsApp": {
+    "translation": "واٹس ایپ"
+  },
+  "share.shortURL": {
+    "translation": "مختصر یو آر ایل حاصل کریں"
+  },
+  "snippets.action.copy": {
+    "translation": "کاپی کریں"
+  },
+  "snippets.action.delete": {
+    "translation": "حذف کریں"
+  },
+  "snippets.action.edit": {
+    "translation": "ترمیم کریں"
+  },
+  "snippets.add.code": {
+    "translation": "کوڈ"
+  },
+  "snippets.add.desc": {
+    "translation": "تفصیل"
+  },
+  "snippets.add.heading": {
+    "translation": "اسنیپٹ شامل کریں"
+  },
+  "snippets.add.language": {
+    "translation": "زبان"
+  },
+  "snippets.add.save": {
+    "translation": "محفوظ کریں"
+  },
+  "snippets.add.snippets": {
+    "translation": "اسنیپٹس"
+  },
+  "snippets.add.title": {
+    "translation": "عنوان"
+  },
+  "snippets.copy.clickToCopySnippet": {
+    "translation": "اسنیپٹ کاپی کرنے کے لیے کلک کریں"
+  },
+  "snippets.copy.copied": {
+    "translation": "اسنیپٹ کلپ بورڈ پر کاپی ہو گیا ہے۔"
+  },
+  "snippets.delete.all": {
+    "translation": "{{snippets}} اسنیپٹس حذف کریں؟"
+  },
+  "snippets.delete.one": {
+    "translation": "اسنیپٹ حذف کریں: {{snippet}}؟"
+  },
+  "snippets.deleteAll": {
+    "translation": "سب کو حذف کریں"
+  },
+  "snippets.error.failedToCopy": {
+    "translation": "یو آر ایل کاپی کرنے میں ناکام۔"
+  },
+  "snippets.error.noTitle": {
+    "translation": "براہ کرم اسنیپٹ کا عنوان شامل کریں۔"
+  },
+  "snippets.filter.language": {
+    "translation": "زبان کے لحاظ سے فلٹر کریں"
+  },
+  "snippets.heading": {
+    "translation": "کوڈ اسنیپٹس"
+  },
+  "snippets.lastModified": {
+    "translation": "آخری ترمیم: {{modified}}"
+  },
+  "snippets.noMatch": {
+    "translation": "کوئی اسنیپٹ ان فلٹرز سے مطابقت نہیں رکھتا۔"
+  },
+  "snippets.noSavedSnippets": {
+    "translation": "آپ کے پاس کوئی محفوظ شدہ اسنیپٹس نہیں ہیں۔"
+  },
+  "snippets.placeholder.allLanguages": {
+    "translation": "تمام زبانیں"
+  },
+  "snippets.placeholder.search": {
+    "translation": "تلاش کریں"
+  },
+  "snippets.reset": {
+    "translation": "دوبارہ ترتیب دیں"
+  },
+  "snippets.save.success": {
+    "translation": "اسنیپٹ مقامی طور پر آلے پر محفوظ ہو گیا!"
+  },
+  "snippets.sort.date": {
+    "translation": "تاریخ"
+  },
+  "snippets.sort.heading": {
+    "translation": "ترتیب دیں:"
+  },
+  "snippets.sort.title": {
+    "translation": "عنوان"
+  },
+  "snippets.text": {
+    "translation": "سادہ متن"
+  },
+  "splash.loading": {
+    "translation": "لائیو کوڈز لوڈ ہو رہا ہے…"
+  },
+  "sync.autoSync": {
+    "translation": "خود کار مطابقت پذیری"
+  },
+  "sync.create.desc": {
+    "translation": "ایک نیا <tag-1>نجی</tag-1> ریپو بنایا جائے گا۔ آپ کا لائیو کوڈز مقامی ڈیٹا <tag-2>مین</tag-2> برانچ کے ساتھ مطابقت پذیر ہو جائے گا۔"
+  },
+  "sync.create.heading": {
+    "translation": "نیا ریپو بنائیں"
+  },
+  "sync.create.repoName": {
+    "translation": "ریپو کا نام"
+  },
+  "sync.error.generic": {
+    "translation": "مطابقت پذیری ناکام ہو گئی!"
+  },
+  "sync.error.repoNameRequired": {
+    "translation": "ریپو کا نام درکار ہے"
+  },
+  "sync.existing.desc": {
+    "translation": "آپ کا لائیو کوڈز مقامی ڈیٹا <tag-1>مین</tag-1> برانچ کے ساتھ مطابقت پذیر ہو جائے گا۔"
+  },
+  "sync.existing.heading": {
+    "translation": "موجودہ ریپو"
+  },
+  "sync.existing.repoName": {
+    "translation": "ریپو کا نام"
+  },
+  "sync.heading": {
+    "translation": "گٹ ہب ریپو کے ساتھ مطابقت پذیر کریں"
+  },
+  "sync.searchRepos": {
+    "translation": "اپنے ریپوز میں تلاش کریں..."
+  },
+  "sync.success": {
+    "translation": "مطابقت پذیری مکمل!"
+  },
+  "sync.syncBtn": {
+    "translation": "مطابقت پذیر کریں"
+  },
+  "sync.syncInProgress": {
+    "translation": "مطابقت پذیری جاری ہے..."
+  },
+  "sync.syncStarted": {
+    "translation": "مطابقت پذیری شروع ہو گئی..."
+  },
+  "templates.heading": {
+    "translation": "نیا پروجیکٹ"
+  },
+  "templates.noUserTemplates.desc": {
+    "translation": "آپ کسی پروجیکٹ کو سانچے کے طور پر محفوظ کر سکتے ہیں <tag-1></tag-1>(ایپ&nbsp;مینو&nbsp;&gt;&nbsp;بطور&nbsp;محفوظ&nbsp;کریں&nbsp;&gt; سانچہ)۔"
+  },
+  "templates.noUserTemplates.heading": {
+    "translation": "آپ کے پاس کوئی محفوظ شدہ سانچے نہیں ہیں۔"
+  },
+  "templates.search.label": {
+    "translation": "ٹیمپلیٹس میں تلاش کریں"
+  },
+  "templates.search.placeholder": {
+    "translation": "ٹیمپلیٹس میں تلاش کریں..."
+  },
+  "templates.starter.angular": {
+    "translation": "اینگولر شروعاتی"
+  },
+  "templates.starter.assemblyscript": {
+    "translation": "اسمبلی اسکرپٹ شروعاتی"
+  },
+  "templates.starter.astro": {
+    "translation": "ایسٹرو شروعاتی"
+  },
+  "templates.starter.backbone": {
+    "translation": "بیک بون شروعاتی"
+  },
+  "templates.starter.blank": {
+    "translation": "خالی پروجیکٹ"
+  },
+  "templates.starter.blockly": {
+    "translation": "بلاکلی شروعاتی"
+  },
+  "templates.starter.bootstrap": {
+    "translation": "بوٹ اسٹریپ شروعاتی"
+  },
+  "templates.starter.civet": {
+    "translation": "سیویٹ شروعاتی"
+  },
+  "templates.starter.clio": {
+    "translation": "کلیو شروعاتی"
+  },
+  "templates.starter.clojurescript": {
+    "translation": "کلوجر اسکرپٹ شروعاتی"
+  },
+  "templates.starter.coffeescript": {
+    "translation": "کافی اسکرپٹ شروعاتی"
+  },
+  "templates.starter.commonlisp": {
+    "translation": "کامن لسپ شروعاتی"
+  },
+  "templates.starter.cpp": {
+    "translation": "سی++ شروعاتی"
+  },
+  "templates.starter.cpp-wasm": {
+    "translation": "سی++ (واسم) شروعاتی"
+  },
+  "templates.starter.csharp-wasm": {
+    "translation": "C# (واسم) شروعاتی"
+  },
+  "templates.starter.d3": {
+    "translation": "D3 شروعاتی"
+  },
+  "templates.starter.daisyui": {
+    "translation": "daisyUI شروعاتی"
+  },
+  "templates.starter.diagrams": {
+    "translation": "ڈایاگرامز شروعاتی"
+  },
+  "templates.starter.fennel": {
+    "translation": "فینل شروعاتی"
+  },
+  "templates.starter.gleam": {
+    "translation": "گلیم شروعاتی"
+  },
+  "templates.starter.go": {
+    "translation": "گو شروعاتی"
+  },
+  "templates.starter.go-wasm": {
+    "translation": "گو (واسم) شروعاتی"
+  },
+  "templates.starter.heading": {
+    "translation": "شروعاتی سانچے"
+  },
+  "templates.starter.imba": {
+    "translation": "امبا شروعاتی"
+  },
+  "templates.starter.java": {
+    "translation": "جاوا شروعاتی"
+  },
+  "templates.starter.javascript": {
+    "translation": "جاوا اسکرپٹ شروعاتی"
+  },
+  "templates.starter.jest": {
+    "translation": "جیسٹ شروعاتی"
+  },
+  "templates.starter.jest-react": {
+    "translation": "جیسٹ/ری ایکٹ شروعاتی"
+  },
+  "templates.starter.jquery": {
+    "translation": "جے کیوری شروعاتی"
+  },
+  "templates.starter.julia": {
+    "translation": "جولیا شروعاتی"
+  },
+  "templates.starter.knockout": {
+    "translation": "ناک آؤٹ شروعاتی"
+  },
+  "templates.starter.lit": {
+    "translation": "لٹ شروعاتی"
+  },
+  "templates.starter.livescript": {
+    "translation": "لائیو اسکرپٹ شروعاتی"
+  },
+  "templates.starter.loading": {
+    "translation": "شروعاتی سانچے لوڈ ہو رہے ہیں..."
+  },
+  "templates.starter.lua": {
+    "translation": "لوا شروعاتی"
+  },
+  "templates.starter.lua-wasm": {
+    "translation": "لوا (واسم) شروعاتی"
+  },
+  "templates.starter.malina": {
+    "translation": "ملینا.جے ایس شروعاتی"
+  },
+  "templates.starter.markdown": {
+    "translation": "مارک ڈاؤن شروعاتی"
+  },
+  "templates.starter.mdx": {
+    "translation": "ایم ڈی ایکس شروعاتی"
+  },
+  "templates.starter.minizinc": {
+    "translation": "MiniZinc شروعاتی"
+  },
+  "templates.starter.ocaml": {
+    "translation": "اوکامل شروعاتی"
+  },
+  "templates.starter.perl": {
+    "translation": "پرل شروعاتی"
+  },
+  "templates.starter.phaser": {
+    "translation": "فیزر شروعاتی"
+  },
+  "templates.starter.php": {
+    "translation": "پی ایچ پی شروعاتی"
+  },
+  "templates.starter.php-wasm": {
+    "translation": "پی ایچ پی (واسم) شروعاتی"
+  },
+  "templates.starter.postgresql": {
+    "translation": "پوسٹگریس کیو ایل شروعاتی"
+  },
+  "templates.starter.preact": {
+    "translation": "پری ایکٹ شروعاتی"
+  },
+  "templates.starter.prolog": {
+    "translation": "پرولوگ شروعاتی"
+  },
+  "templates.starter.python": {
+    "translation": "پائتھن شروعاتی"
+  },
+  "templates.starter.python-wasm": {
+    "translation": "پائتھن (واسم) شروعاتی"
+  },
+  "templates.starter.r": {
+    "translation": "آر شروعاتی"
+  },
+  "templates.starter.react": {
+    "translation": "ری ایکٹ شروعاتی"
+  },
+  "templates.starter.react-native": {
+    "translation": "ری ایکٹ نیٹیو شروعاتی"
+  },
+  "templates.starter.reason": {
+    "translation": "ریزن شروعاتی"
+  },
+  "templates.starter.rescript": {
+    "translation": "ری اسکرپٹ شروعاتی"
+  },
+  "templates.starter.riot": {
+    "translation": "رائٹ.جے ایس شروعاتی"
+  },
+  "templates.starter.ruby": {
+    "translation": "روبی شروعاتی"
+  },
+  "templates.starter.ruby-wasm": {
+    "translation": "روبی (واسم) شروعاتی"
+  },
+  "templates.starter.scheme": {
+    "translation": "اسکیم شروعاتی"
+  },
+  "templates.starter.shadcnui": {
+    "translation": "shadcn/ui شروعاتی"
+  },
+  "templates.starter.solid": {
+    "translation": "سالڈ شروعاتی"
+  },
+  "templates.starter.sql": {
+    "translation": "ایس کیو ایل شروعاتی"
+  },
+  "templates.starter.stencil": {
+    "translation": "اسٹینسل شروعاتی"
+  },
+  "templates.starter.svelte": {
+    "translation": "سویلٹ شروعاتی"
+  },
+  "templates.starter.tailwindcss": {
+    "translation": "ٹیل ونڈ سی ایس ایس شروعاتی"
+  },
+  "templates.starter.tcl": {
+    "translation": "ٹی سی ایل شروعاتی"
+  },
+  "templates.starter.teal": {
+    "translation": "ٹیل شروعاتی"
+  },
+  "templates.starter.typescript": {
+    "translation": "ٹائپ اسکرپٹ شروعاتی"
+  },
+  "templates.starter.vue": {
+    "translation": "ویو شروعاتی"
+  },
+  "templates.starter.vue2": {
+    "translation": "ویو 2 شروعاتی"
+  },
+  "templates.starter.wat": {
+    "translation": "ویب اسمبلی ٹیکسٹ شروعاتی"
+  },
+  "templates.user.heading": {
+    "translation": "میرے سانچے"
+  },
+  "templates.user.loading": {
+    "translation": "صارف کے سانچے لوڈ ہو رہے ہیں..."
+  },
+  "testEditor.heading": {
+    "translation": "ٹیسٹ میں ترمیم کریں"
+  },
+  "testEditor.load": {
+    "translation": "لوڈ کریں"
+  },
+  "testEditor.tests": {
+    "translation": "ٹیسٹ"
+  },
+  "testSettings.desc": {
+    "translation": "<tag-1> </tag-1> مزید تفصیلات کے لیے، براہ کرم <tag-2> دستاویزات </tag-2> دیکھیں۔"
+  },
+  "toolspane.close": {
+    "translation": "بند کریں"
+  },
+  "toolspane.compiled.title": {
+    "translation": "مرتب شدہ"
+  },
+  "toolspane.console.clear": {
+    "translation": "کنسول صاف کریں"
+  },
+  "toolspane.console.title": {
+    "translation": "کنسول"
+  },
+  "toolspane.test.edit": {
+    "translation": "ترمیم کریں"
+  },
+  "toolspane.test.error": {
+    "translation": "<tag-1><tag-2>ٹیسٹ میں خرابی!</tag-2></tag-1>"
+  },
+  "toolspane.test.loading": {
+    "translation": "<tag-1>ٹیسٹ لوڈ ہو رہے ہیں...</tag-1>"
+  },
+  "toolspane.test.noTest": {
+    "translation": "<tag-1>اس پروجیکٹ میں کوئی ٹیسٹ نہیں ہے!</tag-1>"
+  },
+  "toolspane.test.reset": {
+    "translation": "دوبارہ ترتیب دیں"
+  },
+  "toolspane.test.run.desc": {
+    "translation": "Ctrl/Cmd + Alt + T"
+  },
+  "toolspane.test.run.heading": {
+    "translation": "چلائیں"
+  },
+  "toolspane.test.summary.desc": {
+    "translation": "ٹیسٹ: {{failed}}\n       {{passed}}\n       {{skipped}}\n       {{total}}<tag-1></tag-1>\nوقت: {{duration}}s"
+  },
+  "toolspane.test.summary.failed": {
+    "translation": "{{failedNum}} ناکام"
+  },
+  "toolspane.test.summary.passed": {
+    "translation": "{{passedNum}} کامیاب"
+  },
+  "toolspane.test.summary.skipped": {
+    "translation": "{{skippedNum}} چھوڑ دیا گیا"
+  },
+  "toolspane.test.summary.total": {
+    "translation": "{{totalNum}} کل"
+  },
+  "toolspane.test.title": {
+    "translation": "ٹیسٹ"
+  },
+  "toolspane.test.watch.desc": {
+    "translation": "کوڈ تبدیل ہونے پر ٹیسٹ چلائیں"
+  },
+  "toolspane.test.watch.heading": {
+    "translation": "نگرانی"
+  },
+  "welcome.about.documentation": {
+    "translation": "دستاویزات"
+  },
+  "welcome.about.heading": {
+    "translation": "لائیو کوڈز کے بارے میں"
+  },
+  "welcome.heading": {
+    "translation": "خوش آمدید"
+  },
+  "welcome.recent.heading": {
+    "translation": "حالیہ"
+  },
+  "welcome.recover.cancel": {
+    "translation": "منسوخ کریں"
+  },
+  "welcome.recover.heading": {
+    "translation": "بحال کریں"
+  },
+  "welcome.recover.lastModified": {
+    "translation": "آخری ترمیم:"
+  },
+  "welcome.recover.recover": {
+    "translation": "بحال کریں"
+  },
+  "welcome.recover.save": {
+    "translation": "محفوظ کریں"
+  },
+  "welcome.recover.unsavedChanges": {
+    "translation": "آپ کے آخری پروجیکٹ میں غیر محفوظ شدہ تبدیلیاں تھیں:"
+  },
+  "welcome.showOnStartup": {
+    "translation": "شروع ہونے پر دکھائیں"
+  },
+  "welcome.start.heading": {
+    "translation": "شروع کریں"
+  },
+  "welcome.start.import": {
+    "translation": "درآمد کریں..."
+  },
+  "welcome.start.loadDefaultTemplate": {
+    "translation": "ڈیفالٹ سانچہ لوڈ کریں"
+  },
+  "welcome.start.new": {
+    "translation": "نیا..."
+  },
+  "welcome.start.noDefaultTemplate": {
+    "translation": "کوئی ڈیفالٹ سانچہ نہیں"
+  },
+  "welcome.start.open": {
+    "translation": "کھولیں..."
+  },
+  "welcome.templates.heading": {
+    "translation": "شروعاتی سانچے"
+  }
+}

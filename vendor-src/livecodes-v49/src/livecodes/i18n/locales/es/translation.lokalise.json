@@ -1,0 +1,2253 @@
+{
+  "$comment": "ATTENTION: This file is auto-generated from source code. Do not edit manually!",
+  "about.blog.text": {
+    "translation": "Blog"
+  },
+  "about.blog.title": {
+    "translation": "Blog de LiveCodes"
+  },
+  "about.configuration": {
+    "translation": "Configuración"
+  },
+  "about.credits.heading": {
+    "translation": "Créditos"
+  },
+  "about.credits.para1": {
+    "translation": "LiveCodes es posible gracias a proyectos de código abierto, servicios web y colaboradores. <tag-1> Ver créditos </tag-1>"
+  },
+  "about.credits.para2": {
+    "translation": "© 2024 Hatem Hosny. LiveCodes tiene licencia MIT."
+  },
+  "about.documentations.heading": {
+    "translation": "Documentación"
+  },
+  "about.gettingStarted": {
+    "translation": "Primeros pasos"
+  },
+  "about.github.text": {
+    "translation": "GitHub"
+  },
+  "about.github.title": {
+    "translation": "GitHub"
+  },
+  "about.heading": {
+    "translation": "Acerca de LiveCodes"
+  },
+  "about.livecodes.aboutUs": {
+    "translation": "Acerca de LiveCodes"
+  },
+  "about.livecodes.para1": {
+    "translation": "<tag-1><tag-2>LiveCodes</tag-2></tag-1> es un área de juego de código <tag-3>de código abierto</tag-3>, <tag-4>rico en características</tag-4> y <tag-5>del lado del cliente</tag-5>. Actualmente, se admiten <tag-6>más de 90 lenguajes/<tag-7></tag-7>frameworks</tag-6>. Se puede usar como una aplicación independiente o se puede <tag-8>incrustar</tag-8> en cualquier página web. Hay muchas formas de <tag-9>precargar los campos de juego</tag-9> con código."
+  },
+  "about.livecodes.para2": {
+    "translation": "Un potente SDK facilita la integración y la comunicación con editores de código. Hay disponible una amplia documentación con ejemplos de código, demostraciones en vivo y capturas de pantalla."
+  },
+  "about.sdk": {
+    "translation": "LiveCodes SDK"
+  },
+  "about.sponsor.text": {
+    "translation": "Patrocinar"
+  },
+  "about.sponsor.title": {
+    "translation": "Patrocinar LiveCodes"
+  },
+  "about.twitter.text": {
+    "translation": "𝕏 / Twitter"
+  },
+  "about.twitter.title": {
+    "translation": "𝕏 / Twitter"
+  },
+  "about.version.app": {
+    "translation": "Versión de la aplicación: <tag-1> {{APP_VERSION}} </tag-1>"
+  },
+  "about.version.appPermanentUrl": {
+    "translation": "URL permanente de la aplicación"
+  },
+  "about.version.commit": {
+    "translation": "Commit de Git: <tag-1>{{COMMIT_SHA}}</tag-1>"
+  },
+  "about.version.heading": {
+    "translation": "Versión"
+  },
+  "about.version.sdk": {
+    "translation": "Versión del SDK: <tag-1> {{SDK_VERSION}} </tag-1>"
+  },
+  "about.version.sdkPermanentUrl": {
+    "translation": "URL permanente del SDK"
+  },
+  "app.changeTheme.hint": {
+    "translation": "Cambiar tema"
+  },
+  "app.codeToImage.hint": {
+    "translation": "Código a imagen"
+  },
+  "app.consoleMessage.appVersion": {
+    "translation": "Versión de la aplicación: {{APP_VERSION}}"
+  },
+  "app.consoleMessage.commit": {
+    "translation": "Commit de Git: {{COMMIT_SHA}}"
+  },
+  "app.consoleMessage.learnMore": {
+    "translation": "¡Aprende más! {{docsUrl}} 🚀"
+  },
+  "app.consoleMessage.sdkVersion": {
+    "translation": "Versión del SDK: {{SDK_VERSION}}"
+  },
+  "app.copy.hint": {
+    "translation": "Copiar (Ctrl/Cmd + A, Ctrl/Cmd + C)"
+  },
+  "app.copyAsUrl.hint": {
+    "translation": "Copiar código como URL de datos"
+  },
+  "app.customSettings.hint": {
+    "translation": "Configuraciones personalizadas"
+  },
+  "app.editorSettings.hint": {
+    "translation": "Configuración del editor"
+  },
+  "app.externalResources.hint": {
+    "translation": "Recursos externos"
+  },
+  "app.focus.hint": {
+    "translation": "Alternar modo de enfoque"
+  },
+  "app.format.hint": {
+    "translation": "Formatear (Alt + Shift + F)"
+  },
+  "app.fullscreen.hint": {
+    "translation": "Pantalla completa"
+  },
+  "app.i18nButton.hint": {
+    "translation": "Idioma de la interfaz de la aplicación"
+  },
+  "app.i18nMenu.docs": {
+    "translation": "Documentación de i18n"
+  },
+  "app.i18nMenu.helpTranslate": {
+    "translation": "Ayúdenos a traducir"
+  },
+  "app.logo.title": {
+    "translation": "LiveCodes: un editor de código que se ejecuta en su navegador!"
+  },
+  "app.projectInfo.hint": {
+    "translation": "Información del proyecto"
+  },
+  "app.redo.hint": {
+    "translation": "Rehacer (Ctrl/Cmd + Shift + Z)"
+  },
+  "app.result.hint": {
+    "translation": "Mostrar resultado"
+  },
+  "app.run.hint": {
+    "translation": "Ejecutar (Shift + Enter)"
+  },
+  "app.share.hint": {
+    "translation": "Compartir"
+  },
+  "app.themeColors.custom": {
+    "translation": "Costumbre"
+  },
+  "app.undo.hint": {
+    "translation": "Deshacer (Ctrl/Cmd + Z)"
+  },
+  "app.untitledProject": {
+    "translation": "Proyecto sin título"
+  },
+  "assets.action.delete": {
+    "translation": "Eliminar"
+  },
+  "assets.add.dataURL.desc": {
+    "translation": "Agregar activo como <tag-1>URL de datos</tag-1> codificada en base64."
+  },
+  "assets.add.dataURL.heading": {
+    "translation": "URL de datos"
+  },
+  "assets.add.dataURL.label": {
+    "translation": "Agregar archivo"
+  },
+  "assets.add.githubPages.desc": {
+    "translation": "Desplegar activo en GitHub Pages. El archivo se envía a la rama <tag-1>gh-pages</tag-1> del repositorio <tag-2>livecodes-assets</tag-2> en tu cuenta de GitHub. Si el repositorio aún no existe, se creará un repositorio público."
+  },
+  "assets.add.githubPages.heading": {
+    "translation": "GitHub Pages"
+  },
+  "assets.add.githubPages.label": {
+    "translation": "Subir archivo"
+  },
+  "assets.add.heading": {
+    "translation": "Agregar activo"
+  },
+  "assets.delete.all": {
+    "translation": "¿Eliminar {{assets}} activos?"
+  },
+  "assets.delete.one": {
+    "translation": "¿Eliminar activo: {{asset}}?"
+  },
+  "assets.deleteAll": {
+    "translation": "Eliminar todo"
+  },
+  "assets.generic.clickToCopyURL": {
+    "translation": "Haz clic para copiar la URL"
+  },
+  "assets.heading": {
+    "translation": "Activos"
+  },
+  "assets.link.date": {
+    "translation": "Fecha: {{modified}}"
+  },
+  "assets.link.type": {
+    "translation": "Tipo: {{type}}"
+  },
+  "assets.link.url": {
+    "translation": "URL: {{url}}"
+  },
+  "assets.loadFile.error.failedToUpload": {
+    "translation": "Error: No se pudo cargar el archivo"
+  },
+  "assets.loadFile.error.unauthenticated": {
+    "translation": "Error: Usuario no autenticado"
+  },
+  "assets.loadFile.upload": {
+    "translation": "Subir archivo"
+  },
+  "assets.loadFile.uploading": {
+    "translation": "Subiendo..."
+  },
+  "assets.noMatch": {
+    "translation": "Ningún activo coincide con estos filtros."
+  },
+  "assets.noSavedAssets": {
+    "translation": "No tienes activos guardados."
+  },
+  "assets.processAsset.addFile": {
+    "translation": "Archivo añadido: "
+  },
+  "assets.processAsset.deployNotice": {
+    "translation": "El activo debería estar disponible en esta URL pronto (~1 min)."
+  },
+  "assets.processAsset.success": {
+    "translation": "¡Archivo añadido a los activos!"
+  },
+  "assets.processAsset.urlLabel": {
+    "translation": "URL: "
+  },
+  "assets.resetFilters": {
+    "translation": "Restablecer"
+  },
+  "assets.search": {
+    "translation": "Buscar"
+  },
+  "assets.sort.date": {
+    "translation": "Fecha"
+  },
+  "assets.sort.fileName": {
+    "translation": "Nombre del archivo"
+  },
+  "assets.sort.heading": {
+    "translation": "Ordenar por:"
+  },
+  "assets.type.archive": {
+    "translation": "Archivo"
+  },
+  "assets.type.audio": {
+    "translation": "Audio"
+  },
+  "assets.type.csv": {
+    "translation": "CSV"
+  },
+  "assets.type.font": {
+    "translation": "Fuente"
+  },
+  "assets.type.html": {
+    "translation": "HTML"
+  },
+  "assets.type.icon": {
+    "translation": "Icono"
+  },
+  "assets.type.image": {
+    "translation": "Imagen"
+  },
+  "assets.type.json": {
+    "translation": "JSON"
+  },
+  "assets.type.other": {
+    "translation": "Otro"
+  },
+  "assets.type.script": {
+    "translation": "Script"
+  },
+  "assets.type.stylesheet": {
+    "translation": "Hoja de estilos"
+  },
+  "assets.type.text": {
+    "translation": "Texto"
+  },
+  "assets.type.video": {
+    "translation": "Video"
+  },
+  "assets.type.xml": {
+    "translation": "XML"
+  },
+  "assets.types.all": {
+    "translation": "Todos los tipos"
+  },
+  "assets.url.fail": {
+    "translation": "No se pudo copiar la URL."
+  },
+  "assets.url.success": {
+    "translation": "La URL se ha copiado al portapapeles."
+  },
+  "backup.backup.assets": {
+    "translation": "Activos"
+  },
+  "backup.backup.button": {
+    "translation": "Respaldar"
+  },
+  "backup.backup.desc": {
+    "translation": "Respalda los datos de LiveCodes para que puedan restaurarse más tarde en este u otros dispositivos. <tag-1></tag-1> Por favor, visita la <tag-2>documentación</tag-2> para más detalles."
+  },
+  "backup.backup.heading": {
+    "translation": "Respaldo"
+  },
+  "backup.backup.projects": {
+    "translation": "Proyectos"
+  },
+  "backup.backup.settings": {
+    "translation": "Configuraciones de usuario"
+  },
+  "backup.backup.snippets": {
+    "translation": "Fragmentos de código"
+  },
+  "backup.backup.templates": {
+    "translation": "Plantillas de usuario"
+  },
+  "backup.backupBtn": {
+    "translation": "Respaldar"
+  },
+  "backup.error.atLeastOneStore": {
+    "translation": "Por favor, selecciona al menos un almacén para respaldar"
+  },
+  "backup.error.incorrectFileType": {
+    "translation": "Error: Tipo de archivo incorrecto"
+  },
+  "backup.fileInputLabel": {
+    "translation": "Restaurar desde archivo"
+  },
+  "backup.heading": {
+    "translation": "Respaldo / Restauración"
+  },
+  "backup.inProgress": {
+    "translation": "En progreso..."
+  },
+  "backup.restore.desc": {
+    "translation": "Restaura los datos de LiveCodes previamente respaldados. <tag-1></tag-1> Si eliges reemplazar el contenido actual, es posible que desees respaldarlo primero. <tag-2></tag-2> Por favor, visita la <tag-3>documentación</tag-3> para más detalles."
+  },
+  "backup.restore.fromFile": {
+    "translation": "Restaurar desde archivo"
+  },
+  "backup.restore.heading": {
+    "translation": "Restaurar"
+  },
+  "backup.restore.mode.merge": {
+    "translation": "Combinar con el contenido actual"
+  },
+  "backup.restore.mode.replace": {
+    "translation": "Reemplazar el contenido actual"
+  },
+  "backup.restore.success": {
+    "translation": "¡Restaurado con éxito!"
+  },
+  "broadcast.broadcastBtn.start": {
+    "translation": "Transmitir"
+  },
+  "broadcast.broadcastBtn.stop": {
+    "translation": "Detener transmisión"
+  },
+  "broadcast.broadcasting": {
+    "translation": "Transmitiendo..."
+  },
+  "broadcast.channelURL": {
+    "translation": "URL del canal"
+  },
+  "broadcast.connecting": {
+    "translation": "Conectando..."
+  },
+  "broadcast.desc": {
+    "translation": "Transmite la página de resultados a otros navegadores/dispositivos en tiempo real. Por favor, visita la <tag-1>documentación</tag-1> para más detalles."
+  },
+  "broadcast.error.generic": {
+    "translation": "¡La transmisión falló!"
+  },
+  "broadcast.error.serverURLRequired": {
+    "translation": "¡Se requiere la URL del servidor!"
+  },
+  "broadcast.heading": {
+    "translation": "Transmisión"
+  },
+  "broadcast.includeSourceCode": {
+    "translation": "Incluir código fuente"
+  },
+  "broadcast.serverURL.heading": {
+    "translation": "URL del servidor"
+  },
+  "codeToImage.background": {
+    "translation": "Fondo"
+  },
+  "codeToImage.borderRadius": {
+    "translation": "Radio del borde"
+  },
+  "codeToImage.code": {
+    "translation": "Código"
+  },
+  "codeToImage.copyCode": {
+    "translation": "Copiar código"
+  },
+  "codeToImage.copyImage": {
+    "translation": "Copiar imagen"
+  },
+  "codeToImage.default": {
+    "translation": "Predeterminado"
+  },
+  "codeToImage.direction": {
+    "translation": "Dirección"
+  },
+  "codeToImage.fileName": {
+    "translation": "Nombre del archivo"
+  },
+  "codeToImage.fontFamily": {
+    "translation": "Familia de fuentes"
+  },
+  "codeToImage.fontSize": {
+    "translation": "Tamaño de fuente"
+  },
+  "codeToImage.heading": {
+    "translation": "Código a imagen"
+  },
+  "codeToImage.image": {
+    "translation": "Imagen"
+  },
+  "codeToImage.imageFormat.jpg": {
+    "translation": "JPEG"
+  },
+  "codeToImage.imageFormat.label": {
+    "translation": "Formato de imagen"
+  },
+  "codeToImage.imageFormat.png": {
+    "translation": "PNG"
+  },
+  "codeToImage.imageFormat.svg": {
+    "translation": "SVG"
+  },
+  "codeToImage.layout": {
+    "translation": "Diseño"
+  },
+  "codeToImage.opacity": {
+    "translation": "Opacidad"
+  },
+  "codeToImage.padding": {
+    "translation": "Acolchado"
+  },
+  "codeToImage.presets": {
+    "translation": "Preajustes"
+  },
+  "codeToImage.preview": {
+    "translation": "Vista previa"
+  },
+  "codeToImage.save": {
+    "translation": "Guardar imagen"
+  },
+  "codeToImage.scale": {
+    "translation": "Escala de imágenes"
+  },
+  "codeToImage.shadow": {
+    "translation": "Sombra"
+  },
+  "codeToImage.shareImage": {
+    "translation": "Compartir imagen"
+  },
+  "codeToImage.shareTitle": {
+    "translation": "Compartir"
+  },
+  "codeToImage.shareUrl": {
+    "translation": "Compartir URL"
+  },
+  "codeToImage.theme": {
+    "translation": "Tema"
+  },
+  "codeToImage.width": {
+    "translation": "Anchura"
+  },
+  "codeToImage.windowStyle.label": {
+    "translation": "Estilo de ventana"
+  },
+  "codeToImage.windowStyle.mac": {
+    "translation": "macOS"
+  },
+  "codeToImage.windowStyle.none": {
+    "translation": "Ninguno"
+  },
+  "codeToImage.windowStyle.windows": {
+    "translation": "Windows"
+  },
+  "commandMenu.changeTheme.dark": {
+    "translation": "Cambiar a tema oscuro"
+  },
+  "commandMenu.changeTheme.light": {
+    "translation": "Cambiar al tema de la luz"
+  },
+  "commandMenu.changeTheme.title": {
+    "translation": "Cambiar tema"
+  },
+  "commandMenu.changeUILanguage": {
+    "translation": "Cambiar el idioma de la interfaz de usuario"
+  },
+  "commandMenu.closeModalMenu": {
+    "translation": "Cerrar Modal/Menú"
+  },
+  "commandMenu.contribute": {
+    "translation": "Contribuir"
+  },
+  "commandMenu.copy": {
+    "translation": "Copiar código"
+  },
+  "commandMenu.copyAsDataUrl": {
+    "translation": "Copiar código como URL de datos"
+  },
+  "commandMenu.disableAutoSave": {
+    "translation": "Desactivar guardado automático"
+  },
+  "commandMenu.disableAutoUpdate": {
+    "translation": "Desactivar actualización automática"
+  },
+  "commandMenu.disableEmacs": {
+    "translation": "Desactivar el modo Emacs"
+  },
+  "commandMenu.disableFormatOnSave": {
+    "translation": "Desactivar formato al guardar"
+  },
+  "commandMenu.disableRecoverUnsaved": {
+    "translation": "Desactivar Recuperar no guardados"
+  },
+  "commandMenu.disableVim": {
+    "translation": "Desactivar el modo Vim"
+  },
+  "commandMenu.enableAutoSave": {
+    "translation": "Activar guardado automático"
+  },
+  "commandMenu.enableAutoUpdate": {
+    "translation": "Activar actualización automática"
+  },
+  "commandMenu.enableEmacs": {
+    "translation": "Activar el modo Emacs"
+  },
+  "commandMenu.enableFormatOnSave": {
+    "translation": "Activar formato al guardar"
+  },
+  "commandMenu.enableRecoverUnsaved": {
+    "translation": "Activar la recuperación de archivos no guardados"
+  },
+  "commandMenu.enableVim": {
+    "translation": "Activar el modo Vim"
+  },
+  "commandMenu.focus.editor": {
+    "translation": "centrarse en el editor"
+  },
+  "commandMenu.focus.home": {
+    "translation": "Desplazar el foco a casa"
+  },
+  "commandMenu.focus.outOfEditor": {
+    "translation": "Mover el foco fuera del editor"
+  },
+  "commandMenu.focus.toggleTabFocusMode": {
+    "translation": "Cambiar el modo de enfoque de la pestaña"
+  },
+  "commandMenu.formatCode": {
+    "translation": "formatear el código"
+  },
+  "commandMenu.home": {
+    "translation": "Inicio"
+  },
+  "commandMenu.horizontalLayout": {
+    "translation": "Diseño horizontal"
+  },
+  "commandMenu.keyboardShortcuts": {
+    "translation": "Atajos de teclado"
+  },
+  "commandMenu.login": {
+    "translation": "Iniciar sesión"
+  },
+  "commandMenu.logout": {
+    "translation": "Cierre de sesión"
+  },
+  "commandMenu.moveToParent": {
+    "translation": "pasar a padre"
+  },
+  "commandMenu.placeholder": {
+    "translation": "Escribe un comando o busca..."
+  },
+  "commandMenu.processors": {
+    "translation": "Procesadores"
+  },
+  "commandMenu.responsiveLayout": {
+    "translation": "Diseño responsivo"
+  },
+  "commandMenu.run": {
+    "translation": "Ejecutar"
+  },
+  "commandMenu.saveAsFork": {
+    "translation": "Guardar como un nuevo proyecto"
+  },
+  "commandMenu.saveAsTemplate": {
+    "translation": "Guardar como plantilla"
+  },
+  "commandMenu.selectLanguage": {
+    "translation": "Seleccionar idioma"
+  },
+  "commandMenu.show.compiled": {
+    "translation": "Alternar código compilado"
+  },
+  "commandMenu.show.console": {
+    "translation": "Consola Toggle"
+  },
+  "commandMenu.show.focusMode": {
+    "translation": "Conmutar el modo de enfoque"
+  },
+  "commandMenu.show.fullscreen": {
+    "translation": "Pantalla completa"
+  },
+  "commandMenu.show.markup": {
+    "translation": "Mostrar editor de marcas"
+  },
+  "commandMenu.show.maximizeCompiled": {
+    "translation": "Maximizar el código compilado"
+  },
+  "commandMenu.show.maximizeConsole": {
+    "translation": "Maximizar la consola"
+  },
+  "commandMenu.show.maximizeTests": {
+    "translation": "Maximizar las pruebas"
+  },
+  "commandMenu.show.next": {
+    "translation": "Mostrar siguiente editor"
+  },
+  "commandMenu.show.previous": {
+    "translation": "Mostrar editor anterior"
+  },
+  "commandMenu.show.result": {
+    "translation": "Alternar resultado"
+  },
+  "commandMenu.show.runTests": {
+    "translation": "Ejecutar pruebas"
+  },
+  "commandMenu.show.script": {
+    "translation": "Mostrar editor de guiones"
+  },
+  "commandMenu.show.style": {
+    "translation": "Mostrar editor de estilos"
+  },
+  "commandMenu.show.tests": {
+    "translation": "Alternar pruebas"
+  },
+  "commandMenu.show.title": {
+    "translation": "Mostrar ..."
+  },
+  "commandMenu.show.zoom": {
+    "translation": "Alternar zoom de resultados"
+  },
+  "commandMenu.starterTemplates": {
+    "translation": "Plantillas de Inicio"
+  },
+  "commandMenu.sync": {
+    "translation": "Sync (beta) ..."
+  },
+  "commandMenu.template": {
+    "translation": "Plantilla"
+  },
+  "commandMenu.theme.color": {
+    "translation": "Definir color del tema"
+  },
+  "commandMenu.theme.defaultColor": {
+    "translation": "Establecer el color predeterminado del tema"
+  },
+  "commandMenu.title": {
+    "translation": "Menú de comandos"
+  },
+  "commandMenu.toClose": {
+    "translation": "cerrar"
+  },
+  "commandMenu.toNavigate": {
+    "translation": "para navegar"
+  },
+  "commandMenu.toSelect": {
+    "translation": "para seleccionar"
+  },
+  "commandMenu.toggle": {
+    "translation": "Toggle: "
+  },
+  "commandMenu.verticalLayout": {
+    "translation": "Diseño vertical"
+  },
+  "core.broadcast.heading": {
+    "translation": "Transmisión"
+  },
+  "core.broadcast.successSetToken": {
+    "translation": "Token de usuario de transmisión establecido con éxito"
+  },
+  "core.changeLanguage.hint": {
+    "translation": "Cambiar idioma"
+  },
+  "core.changeLanguage.message": {
+    "translation": "Cargando {{lang}}. ¡Esto puede tardar un poco!"
+  },
+  "core.copy.copied": {
+    "translation": "Código copiado al portapapeles"
+  },
+  "core.copy.copiedAsDataURL": {
+    "translation": "Código copiado como URL de datos"
+  },
+  "core.copy.copiedImage": {
+    "translation": "Imagen copiada en el portapapeles."
+  },
+  "core.copy.hint": {
+    "translation": "¡Copiado!"
+  },
+  "core.copy.title": {
+    "translation": "Copiar"
+  },
+  "core.error.couldNotLoadTemplate": {
+    "translation": "No se pudo cargar la plantilla: {{template}}"
+  },
+  "core.error.failedToCopyCode": {
+    "translation": "No se pudo copiar el código"
+  },
+  "core.error.failedToCopyImage": {
+    "translation": "Error al copiar la imagen"
+  },
+  "core.error.failedToLoadTemplate": {
+    "translation": "Fallo al cargar la plantilla"
+  },
+  "core.error.failedToLoadTemplates": {
+    "translation": "Fallo al cargar las plantillas iniciales"
+  },
+  "core.error.failedToParseSettings": {
+    "translation": "Fallo al analizar las configuraciones como JSON"
+  },
+  "core.error.failedToSaveImage": {
+    "translation": "Error al guardar la imagen"
+  },
+  "core.error.failedToShareImage": {
+    "translation": "Error al compartir imagen"
+  },
+  "core.error.invalidCommand": {
+    "translation": "¡Comando inválido!"
+  },
+  "core.error.invalidImport": {
+    "translation": "URL de importación inválida"
+  },
+  "core.error.invalidPanelId": {
+    "translation": "ID de panel inválido"
+  },
+  "core.error.invalidToken": {
+    "translation": "¡Token inválido!"
+  },
+  "core.error.login": {
+    "translation": "¡Error de inicio de sesión!"
+  },
+  "core.error.logout": {
+    "translation": "¡Error de cierre de sesión!"
+  },
+  "core.error.noResultContainer": {
+    "translation": "Contenedor de resultados no encontrado"
+  },
+  "core.error.unavailable": {
+    "translation": "Comando no disponible"
+  },
+  "core.error.unavailableForEmbeds": {
+    "translation": "Comando no disponible para incrustaciones"
+  },
+  "core.export.gist": {
+    "translation": "Creando un gist público de GitHub..."
+  },
+  "core.fork.success": {
+    "translation": "Bifurcado como un nuevo proyecto"
+  },
+  "core.fullScreen.enter": {
+    "translation": "Pantalla completa"
+  },
+  "core.fullScreen.exit": {
+    "translation": "Salir de pantalla completa"
+  },
+  "core.generating": {
+    "translation": "Generando..."
+  },
+  "core.import.loading": {
+    "translation": "Cargando proyecto..."
+  },
+  "core.layout.horizontal": {
+    "translation": "Diseño horizontal"
+  },
+  "core.layout.responsive": {
+    "translation": "Diseño responsivo"
+  },
+  "core.layout.vertical": {
+    "translation": "Diseño vertical"
+  },
+  "core.loadDefaults.template": {
+    "translation": "Cargando plantilla predeterminada"
+  },
+  "core.login.success": {
+    "translation": "Inicio de sesión exitoso"
+  },
+  "core.login.successWithName": {
+    "translation": "Sesión iniciada como: {{name}}"
+  },
+  "core.logout.success": {
+    "translation": "Cierre de sesión exitoso"
+  },
+  "core.result.hint": {
+    "translation": "Mostrar resultado en una nueva ventana"
+  },
+  "core.save.success": {
+    "translation": "¡Proyecto guardado localmente en el dispositivo!"
+  },
+  "core.save.successWithName": {
+    "translation": "Proyecto \"{{name}}\" guardado en el dispositivo."
+  },
+  "core.template.blank": {
+    "translation": "Proyecto en blanco"
+  },
+  "core.template.delete": {
+    "translation": "¿Eliminar plantilla \"{{item}}\"?"
+  },
+  "core.template.javascript": {
+    "translation": "Plantilla inicial de JavaScript"
+  },
+  "core.template.react": {
+    "translation": "Plantilla inicial de React"
+  },
+  "core.template.saved": {
+    "translation": "Guardado como una nueva plantilla"
+  },
+  "core.template.typescript": {
+    "translation": "Plantilla inicial de TypeScript"
+  },
+  "core.template.vue": {
+    "translation": "Plantilla inicial de Vue 3"
+  },
+  "core.unload.notSaved": {
+    "translation": "Los cambios que has realizado pueden no guardarse."
+  },
+  "core.zoom.hint": {
+    "translation": "Zoom"
+  },
+  "customSettings.JSON": {
+    "translation": "JSON de configuraciones personalizadas"
+  },
+  "customSettings.desc": {
+    "translation": "<tag-1></tag-1> Para más información, consulte la <tag-2>documentación</tag-2>"
+  },
+  "customSettings.heading": {
+    "translation": "Configuraciones personalizadas"
+  },
+  "customSettings.load": {
+    "translation": "Cargar"
+  },
+  "deploy.create.desc": {
+    "translation": "Se creará un nuevo repositorio <tag-1>público</tag-1>. La página de resultados se enviará a la rama <tag-2>gh-pages</tag-2>."
+  },
+  "deploy.create.heading": {
+    "translation": "Crear nuevo repositorio"
+  },
+  "deploy.create.repoName": {
+    "translation": "Nombre del repositorio <tag-1></tag-1>"
+  },
+  "deploy.error.generic": {
+    "translation": "¡Falló el despliegue!"
+  },
+  "deploy.error.repoNameExists": {
+    "translation": "El nombre del repositorio ya existe"
+  },
+  "deploy.error.repoNameRequired": {
+    "translation": "Se requiere el nombre del repositorio"
+  },
+  "deploy.existing.desc": {
+    "translation": "Se añadirá un nuevo commit a la rama <tag-1>gh-pages</tag-1>."
+  },
+  "deploy.existing.heading": {
+    "translation": "Repositorio existente"
+  },
+  "deploy.existing.repoName": {
+    "translation": "Nombre del repositorio"
+  },
+  "deploy.generic.commitMessage": {
+    "translation": "Mensaje del commit"
+  },
+  "deploy.generic.commitSourceCodePublic": {
+    "translation": "Commit del código fuente (público)"
+  },
+  "deploy.generic.deployBtn": {
+    "translation": "Desplegar"
+  },
+  "deploy.generic.deploying": {
+    "translation": "Desplegando..."
+  },
+  "deploy.heading": {
+    "translation": "Desplegar en GitHub Pages"
+  },
+  "deploy.searchRepo": {
+    "translation": "Buscar en tus repositorios públicos..."
+  },
+  "editorSettings.closeBrackets": {
+    "translation": "Cerrar automáticamente paréntesis y comillas"
+  },
+  "editorSettings.codeJarDesc": {
+    "translation": "<tag-1> </tag-1> * Las características marcadas no están disponibles en CodeJar."
+  },
+  "editorSettings.default": {
+    "translation": "Predeterminado"
+  },
+  "editorSettings.desc": {
+    "translation": "<tag-1></tag-1>Por favor, consulta la <tag-2>documentación</tag-2> para más detalles."
+  },
+  "editorSettings.editor.codejar": {
+    "translation": "CodeJar"
+  },
+  "editorSettings.editor.codemirror": {
+    "translation": "CodeMirror"
+  },
+  "editorSettings.editor.heading": {
+    "translation": "Editor"
+  },
+  "editorSettings.editor.monaco": {
+    "translation": "Monaco"
+  },
+  "editorSettings.editorMode.emacs": {
+    "translation": "Emacs"
+  },
+  "editorSettings.editorMode.heading": {
+    "translation": "Modo del editor *"
+  },
+  "editorSettings.editorMode.vim": {
+    "translation": "Vim"
+  },
+  "editorSettings.editorTheme": {
+    "translation": "Tema del editor"
+  },
+  "editorSettings.emmet": {
+    "translation": "Habilitar Emmet *"
+  },
+  "editorSettings.foldRegions": {
+    "translation": "Plegar (colapsar) regiones *"
+  },
+  "editorSettings.fontFamily": {
+    "translation": "Familia de fuentes"
+  },
+  "editorSettings.fontSize": {
+    "translation": "Tamaño de fuente"
+  },
+  "editorSettings.format": {
+    "translation": "Formato"
+  },
+  "editorSettings.heading": {
+    "translation": "Configuración del editor"
+  },
+  "editorSettings.lineNumbers": {
+    "translation": "Mostrar números de línea"
+  },
+  "editorSettings.lineNumbersRelative": {
+    "translation": "Números de línea relativos *"
+  },
+  "editorSettings.minimap": {
+    "translation": "Activar Minimapa *"
+  },
+  "editorSettings.notAvailableInCodeJar": {
+    "translation": "No disponible en CodeJar"
+  },
+  "editorSettings.preview": {
+    "translation": "Vista previa"
+  },
+  "editorSettings.semicolons": {
+    "translation": "Formato: Usar punto y coma"
+  },
+  "editorSettings.singleQuote": {
+    "translation": "Formato: Usar comillas simples"
+  },
+  "editorSettings.tabSize": {
+    "translation": "Tamaño de tabulación"
+  },
+  "editorSettings.theme": {
+    "translation": "Modo oscuro"
+  },
+  "editorSettings.trailingComma": {
+    "translation": "Formato: Usar comas finales"
+  },
+  "editorSettings.useTabs.heading": {
+    "translation": "Indentación"
+  },
+  "editorSettings.useTabs.spaces": {
+    "translation": "Espacios"
+  },
+  "editorSettings.useTabs.tabs": {
+    "translation": "Tabulaciones"
+  },
+  "editorSettings.wordWrap": {
+    "translation": "Ajuste de línea"
+  },
+  "embed.activeEditor.heading": {
+    "translation": "Editor activo"
+  },
+  "embed.activeEditor.markup": {
+    "translation": "{{markup}}"
+  },
+  "embed.activeEditor.script": {
+    "translation": "{{script}}"
+  },
+  "embed.activeEditor.style": {
+    "translation": "{{style}}"
+  },
+  "embed.activeTool.compiled": {
+    "translation": "Compilado"
+  },
+  "embed.activeTool.console": {
+    "translation": "Consola"
+  },
+  "embed.activeTool.heading": {
+    "translation": "Herramienta activa"
+  },
+  "embed.activeTool.tests": {
+    "translation": "Pruebas"
+  },
+  "embed.code.copy": {
+    "translation": "Copiar código"
+  },
+  "embed.code.heading": {
+    "translation": "Código"
+  },
+  "embed.codeEditor.codeJar": {
+    "translation": "CodeJar"
+  },
+  "embed.codeEditor.codeMirror": {
+    "translation": "CodeMirror"
+  },
+  "embed.codeEditor.default": {
+    "translation": "Predeterminado"
+  },
+  "embed.codeEditor.heading": {
+    "translation": "Editor de código"
+  },
+  "embed.codeEditor.monaco": {
+    "translation": "Monaco"
+  },
+  "embed.desc": {
+    "translation": "Por favor, consulta la <tag-1>documentación</tag-1> para configuraciones avanzadas."
+  },
+  "embed.embedType.cdn": {
+    "translation": "Script (CDN)"
+  },
+  "embed.embedType.heading": {
+    "translation": "Tipo de incrustación"
+  },
+  "embed.embedType.html": {
+    "translation": "HTML"
+  },
+  "embed.embedType.iframe": {
+    "translation": "Iframe"
+  },
+  "embed.embedType.npm": {
+    "translation": "JS (npm)"
+  },
+  "embed.embedType.react": {
+    "translation": "React"
+  },
+  "embed.embedType.svelte": {
+    "translation": "Svelte"
+  },
+  "embed.embedType.vue": {
+    "translation": "Vue"
+  },
+  "embed.heading": {
+    "translation": "Incrustar proyecto"
+  },
+  "embed.layout.heading": {
+    "translation": "Diseño"
+  },
+  "embed.layout.horizontal": {
+    "translation": "Horizontal"
+  },
+  "embed.layout.responsive": {
+    "translation": "Respuesta"
+  },
+  "embed.layout.vertical": {
+    "translation": "Vertical"
+  },
+  "embed.lite": {
+    "translation": "Modo ligero"
+  },
+  "embed.loading.click": {
+    "translation": "Al hacer clic"
+  },
+  "embed.loading.eager": {
+    "translation": "Inmediato"
+  },
+  "embed.loading.heading": {
+    "translation": "Carga"
+  },
+  "embed.loading.lazy": {
+    "translation": "Perezoso"
+  },
+  "embed.mode.codeblock": {
+    "translation": "Bloque de código"
+  },
+  "embed.mode.editor": {
+    "translation": "Editor"
+  },
+  "embed.mode.full": {
+    "translation": "Completo"
+  },
+  "embed.mode.heading": {
+    "translation": "Modo de visualización"
+  },
+  "embed.mode.result": {
+    "translation": "Resultado"
+  },
+  "embed.mode.simple": {
+    "translation": "Simple"
+  },
+  "embed.permanentUrl": {
+    "translation": "URL permanente"
+  },
+  "embed.preview": {
+    "translation": "Vista previa"
+  },
+  "embed.previewLoading": {
+    "translation": "Cargando vista previa..."
+  },
+  "embed.readonly": {
+    "translation": "Solo lectura"
+  },
+  "embed.theme.dark": {
+    "translation": "Oscuro"
+  },
+  "embed.theme.heading": {
+    "translation": "Tema"
+  },
+  "embed.theme.light": {
+    "translation": "Claro"
+  },
+  "embed.tools.closed": {
+    "translation": "Cerrado"
+  },
+  "embed.tools.full": {
+    "translation": "Completo"
+  },
+  "embed.tools.heading": {
+    "translation": "Herramientas"
+  },
+  "embed.tools.none": {
+    "translation": "Ninguno"
+  },
+  "embed.tools.open": {
+    "translation": "Abierto"
+  },
+  "embed.view.editor": {
+    "translation": "Editor"
+  },
+  "embed.view.heading": {
+    "translation": "Vista predeterminada"
+  },
+  "embed.view.result": {
+    "translation": "Resultado"
+  },
+  "embed.view.split": {
+    "translation": "Dividido"
+  },
+  "generic.about.blog": {
+    "translation": "Blog"
+  },
+  "generic.about.configuration": {
+    "translation": "Configuración"
+  },
+  "generic.about.gettingStarted": {
+    "translation": "Primeros pasos"
+  },
+  "generic.about.github": {
+    "translation": "GitHub"
+  },
+  "generic.about.sdk": {
+    "translation": "SDK"
+  },
+  "generic.about.sponsor": {
+    "translation": "Patrocinar"
+  },
+  "generic.about.twitter": {
+    "translation": "𝕏 / Twitter"
+  },
+  "generic.clickForInfo": {
+    "translation": "Clic para información..."
+  },
+  "generic.close": {
+    "translation": "Cerrar"
+  },
+  "generic.custom": {
+    "translation": "Costumbre"
+  },
+  "generic.embed.logoHint": {
+    "translation": "Editar en LiveCodes 🡕"
+  },
+  "generic.error.authentication": {
+    "translation": "¡Error de autenticación!"
+  },
+  "generic.error.exceededSize": {
+    "translation": "Error: Tamaño excedido {{size}} MB"
+  },
+  "generic.error.failedToReadFile": {
+    "translation": "Error: No se pudo leer el archivo"
+  },
+  "generic.loading": {
+    "translation": "Cargando..."
+  },
+  "generic.more": {
+    "translation": "Más..."
+  },
+  "generic.optional": {
+    "translation": "Opcional"
+  },
+  "generic.required": {
+    "translation": "Requerido"
+  },
+  "generic.tagline": {
+    "translation": "¡Un Patio de Código Que Simplemente Funciona!"
+  },
+  "import.bulk.desc": {
+    "translation": "Importar en masa múltiples proyectos a tus proyectos guardados. Los proyectos se pueden exportar desde la pantalla de <tag-1>Proyectos guardados</tag-1>."
+  },
+  "import.bulk.fromFile": {
+    "translation": "Importación masiva desde archivo local"
+  },
+  "import.bulk.fromURL": {
+    "translation": "Importación masiva desde URL"
+  },
+  "import.bulk.heading": {
+    "translation": "Importación masiva"
+  },
+  "import.bulk.started": {
+    "translation": "Importación masiva iniciada..."
+  },
+  "import.code.desc": {
+    "translation": "Fuentes compatibles: <tag-1> <tag-2>GitHub gist</tag-2> <tag-3>Archivo de GitHub</tag-3> <tag-4>Directorio en un repositorio de GitHub</tag-4> <tag-5>Fragmento de Gitlab</tag-5> <tag-6>Archivo de Gitlab</tag-6> <tag-7>Directorio en un repositorio de Gitlab</tag-7> <tag-8>JS Bin</tag-8> <tag-9>Código en bruto</tag-9> <tag-10>Código en el DOM de la página web</tag-10> <tag-11>Código en archivo zip</tag-11> <tag-12>Código en imagen (OCR)</tag-12> <tag-13>Entornos oficiales<tag-14></tag-14>(TypeScript y Vue)</tag-13> </tag-1> Por favor, visita la <tag-15>documentación</tag-15> para más detalles."
+  },
+  "import.code.fromFile": {
+    "translation": "Importar archivos locales"
+  },
+  "import.code.fromURL": {
+    "translation": "Importar desde URL"
+  },
+  "import.code.heading": {
+    "translation": "Importar código"
+  },
+  "import.error.failedToLoadURL": {
+    "translation": "Error: no se pudo cargar la URL"
+  },
+  "import.error.invalidConfigFile": {
+    "translation": "Archivo de configuración no válido"
+  },
+  "import.error.invalidFile": {
+    "translation": "Error: Archivo no válido"
+  },
+  "import.generic.file": {
+    "translation": "Archivo local"
+  },
+  "import.generic.url": {
+    "translation": "URL"
+  },
+  "import.heading": {
+    "translation": "Importar"
+  },
+  "import.json.desc": {
+    "translation": "Importar un único JSON de proyecto al editor. Un proyecto se puede exportar desde el menú de la aplicación → Exportar → Exportar proyecto (JSON)."
+  },
+  "import.json.fromFile": {
+    "translation": "Importar proyecto desde archivo local"
+  },
+  "import.json.fromURL": {
+    "translation": "Importar proyecto desde URL"
+  },
+  "import.json.heading": {
+    "translation": "Importar JSON de proyecto"
+  },
+  "import.success": {
+    "translation": "¡Importación exitosa!"
+  },
+  "keyboardShortcuts.command": {
+    "translation": "Comando"
+  },
+  "keyboardShortcuts.editorShortcuts": {
+    "translation": "Para ver la lista de métodos abreviados de teclado del editor de código, consulte <tag-1> Métodos abreviados de VS Code</tag-1>"
+  },
+  "keyboardShortcuts.heading": {
+    "translation": "Atajos de teclado"
+  },
+  "keyboardShortcuts.key": {
+    "translation": "Clave"
+  },
+  "login.accessAllowed": {
+    "translation": "Permitir acceso a:"
+  },
+  "login.desc": {
+    "translation": "<tag-1>Al iniciar sesión, aceptas que se pueden almacenar <tag-2>cookies</tag-2> en tu dispositivo.</tag-1> <tag-3> <tag-4>¿Por qué se requieren estos permisos?</tag-4> </tag-3> <tag-5> <tag-6>¿Cómo cambiar/revocar permisos?</tag-6> </tag-5>"
+  },
+  "login.gist": {
+    "translation": "Gists"
+  },
+  "login.heading": {
+    "translation": "Iniciar sesión con GitHub"
+  },
+  "login.loginAs": {
+    "translation": "Sesión iniciada como {{name}}"
+  },
+  "login.loginBtn": {
+    "translation": "Iniciar sesión"
+  },
+  "login.logout": {
+    "translation": "Cerrar sesión"
+  },
+  "login.privateRepo": {
+    "translation": "Repositorios privados"
+  },
+  "login.publicRepo": {
+    "translation": "Repositorios"
+  },
+  "menu.about": {
+    "translation": "Acerca ..."
+  },
+  "menu.appHelp.heading": {
+    "translation": "Ayuda"
+  },
+  "menu.appHelp.hint": {
+    "translation": "Ayuda"
+  },
+  "menu.appProject.heading": {
+    "translation": "Proyecto"
+  },
+  "menu.appProject.hint": {
+    "translation": "Proyecto"
+  },
+  "menu.appSettings.heading": {
+    "translation": "Ajustes"
+  },
+  "menu.appSettings.hint": {
+    "translation": "Configuración de la aplicación"
+  },
+  "menu.assets": {
+    "translation": "Activos …"
+  },
+  "menu.autoSave": {
+    "translation": "Guardado automático"
+  },
+  "menu.autoUpdate": {
+    "translation": "Actualización automática"
+  },
+  "menu.backup": {
+    "translation": "Copia de seguridad / Restaurar …"
+  },
+  "menu.blog": {
+    "translation": "Blog de LiveCodes"
+  },
+  "menu.broadcast": {
+    "translation": "Transmitir …"
+  },
+  "menu.commandMenu": {
+    "translation": "Menú de comandos"
+  },
+  "menu.config": {
+    "translation": "Configuración"
+  },
+  "menu.customSettings": {
+    "translation": "Configuraciones personalizadas …"
+  },
+  "menu.delay.heading": {
+    "translation": "Retraso: <tag-1>1.5</tag-1>s"
+  },
+  "menu.delay.hint": {
+    "translation": "Retraso antes de la actualización automática"
+  },
+  "menu.deploy": {
+    "translation": "Desplegar …"
+  },
+  "menu.docs": {
+    "translation": "Documentación"
+  },
+  "menu.editorSettings": {
+    "translation": "Configuración del editor …"
+  },
+  "menu.embed": {
+    "translation": "Incrustar …"
+  },
+  "menu.export.codepen": {
+    "translation": "Editar en CodePen"
+  },
+  "menu.export.gist": {
+    "translation": "Exportar a GitHub Gist"
+  },
+  "menu.export.heading": {
+    "translation": "Exportar"
+  },
+  "menu.export.jsfiddle": {
+    "translation": "Editar en JSFiddle"
+  },
+  "menu.export.json": {
+    "translation": "Exportar proyecto (JSON)"
+  },
+  "menu.export.result": {
+    "translation": "Exportar resultado (HTML)"
+  },
+  "menu.export.src": {
+    "translation": "Exportar código fuente (ZIP)"
+  },
+  "menu.features": {
+    "translation": "Características"
+  },
+  "menu.formatOnsave": {
+    "translation": "Formatear al guardar"
+  },
+  "menu.getstart": {
+    "translation": "Primeros pasos"
+  },
+  "menu.import": {
+    "translation": "Importar …"
+  },
+  "menu.keyboardShortcuts": {
+    "translation": "Atajos de teclado"
+  },
+  "menu.layout": {
+    "translation": "Diseño vertical"
+  },
+  "menu.license": {
+    "translation": "Licencia"
+  },
+  "menu.login": {
+    "translation": "Iniciar sesión …"
+  },
+  "menu.logout": {
+    "translation": "Cerrar sesión"
+  },
+  "menu.new": {
+    "translation": "Nuevo …"
+  },
+  "menu.open": {
+    "translation": "Abrir …"
+  },
+  "menu.project": {
+    "translation": "Información del proyecto …"
+  },
+  "menu.recoverUnsaved": {
+    "translation": "Recuperar no guardado"
+  },
+  "menu.report": {
+    "translation": "Informar de un problema"
+  },
+  "menu.resources": {
+    "translation": "Recursos externos …"
+  },
+  "menu.save": {
+    "translation": "Guardar"
+  },
+  "menu.saveAs.fork": {
+    "translation": "Bifurcar (Nuevo proyecto)"
+  },
+  "menu.saveAs.heading": {
+    "translation": "Guardar como …"
+  },
+  "menu.saveAs.template": {
+    "translation": "Plantilla"
+  },
+  "menu.sdk": {
+    "translation": "SDK"
+  },
+  "menu.share": {
+    "translation": "Compartir …"
+  },
+  "menu.showSpacing.heading": {
+    "translation": "Mostrar espaciado"
+  },
+  "menu.showSpacing.hint": {
+    "translation": "Presiona Alt/Opción y mueve el cursor sobre la página de resultados"
+  },
+  "menu.showWelcome.title": {
+    "translation": "Mostrar pantalla de bienvenida al inicio"
+  },
+  "menu.snippets": {
+    "translation": "Fragmentos de código …"
+  },
+  "menu.source": {
+    "translation": "Código fuente en GitHub"
+  },
+  "menu.sync": {
+    "translation": "Sincronizar (beta) … <tag-1> ⏳</tag-1>"
+  },
+  "menu.theme": {
+    "translation": "Tema oscuro"
+  },
+  "menu.themeColor": {
+    "translation": "Color"
+  },
+  "menu.welcome.heading": {
+    "translation": "Bienvenida …"
+  },
+  "open.action.delete": {
+    "translation": "Eliminar"
+  },
+  "open.defaultTemplate": {
+    "translation": "Plantilla predeterminada "
+  },
+  "open.delete.all": {
+    "translation": "¿Eliminar {{projects}} proyectos?"
+  },
+  "open.delete.deleting": {
+    "translation": "Eliminando proyectos..."
+  },
+  "open.delete.one": {
+    "translation": "¿Eliminar proyecto: {{project}}?"
+  },
+  "open.deleteAll": {
+    "translation": "Eliminar todo"
+  },
+  "open.exportAll": {
+    "translation": "Exportar todo"
+  },
+  "open.filter.language": {
+    "translation": "filtrar por idioma"
+  },
+  "open.filter.tag": {
+    "translation": "filtrar por etiqueta"
+  },
+  "open.heading": {
+    "translation": "Proyectos guardados"
+  },
+  "open.import": {
+    "translation": "Importar"
+  },
+  "open.lastModified": {
+    "translation": "Última modificación: {{modified}}"
+  },
+  "open.noData.desc": {
+    "translation": "Puedes guardar un proyecto desde (menú&nbsp;de&nbsp;configuración&nbsp;&gt;&nbsp;Guardar) o con el atajo de teclado (Ctrl/Cmd&nbsp;+&nbsp;S)."
+  },
+  "open.noData.heading": {
+    "translation": "No tienes proyectos guardados."
+  },
+  "open.noMatch": {
+    "translation": "Ningún proyecto coincide con estos filtros."
+  },
+  "open.placeholder.allLanguages": {
+    "translation": "Todos los idiomas"
+  },
+  "open.placeholder.filterByTags": {
+    "translation": "Filtrar por etiquetas"
+  },
+  "open.placeholder.search": {
+    "translation": "Buscar"
+  },
+  "open.removeDefault": {
+    "translation": "(desmarcar)"
+  },
+  "open.reset": {
+    "translation": "Restablecer"
+  },
+  "open.setAsDefault": {
+    "translation": "Establecer como predeterminado"
+  },
+  "open.sort.heading": {
+    "translation": "Ordenar por:"
+  },
+  "open.sort.lastModified": {
+    "translation": "Última modificación"
+  },
+  "open.sort.title": {
+    "translation": "Título"
+  },
+  "project.desc": {
+    "translation": "Descripción"
+  },
+  "project.head": {
+    "translation": "Añadir a &lt;head&gt;"
+  },
+  "project.heading": {
+    "translation": "Información del proyecto"
+  },
+  "project.htmlAttr": {
+    "translation": "Atributos para &lt;html&gt;"
+  },
+  "project.tags": {
+    "translation": "Etiquetas"
+  },
+  "project.title": {
+    "translation": "Título del proyecto"
+  },
+  "recoverPrompt.desc": {
+    "translation": "¡Tu último proyecto tiene cambios sin guardar!"
+  },
+  "recoverPrompt.heading": {
+    "translation": "¿Recuperar proyecto no guardado?"
+  },
+  "recoverPrompt.meta": {
+    "translation": "Título: <tag-1></tag-1> <tag-2></tag-2> Última modificación: <tag-3></tag-3>"
+  },
+  "recoverPrompt.notShowAgain": {
+    "translation": "No mostrar esto de nuevo."
+  },
+  "recoverPrompt.prompt.discard": {
+    "translation": "Descartar proyecto no guardado"
+  },
+  "recoverPrompt.prompt.heading": {
+    "translation": "<tag-1></tag-1>¿Quieres recuperarlo ahora?"
+  },
+  "recoverPrompt.prompt.recover": {
+    "translation": "Recuperar proyecto en el editor"
+  },
+  "recoverPrompt.prompt.save": {
+    "translation": "Guardar en el dispositivo y continuar"
+  },
+  "resources.browseOnJsDelivr": {
+    "translation": "Explorar archivos del paquete en jsDelivr"
+  },
+  "resources.cssPresets.heading": {
+    "translation": "Preajustes CSS"
+  },
+  "resources.cssPresets.none": {
+    "translation": "Ninguno"
+  },
+  "resources.cssPresets.normalizeCss": {
+    "translation": "Normalize.css"
+  },
+  "resources.cssPresets.resetCss": {
+    "translation": "Reset CSS"
+  },
+  "resources.error.failedToLoadResults": {
+    "translation": "¡Error al cargar los resultados!"
+  },
+  "resources.error.noResultsFound": {
+    "translation": "No se encontraron resultados para: "
+  },
+  "resources.fonts.add": {
+    "translation": "Agregar"
+  },
+  "resources.fonts.heading": {
+    "translation": "Fuentes <tag-1>(proporcionado por Google Fonts)</tag-1>"
+  },
+  "resources.fonts.select": {
+    "translation": "Seleccionar fuente ..."
+  },
+  "resources.heading": {
+    "translation": "Recursos externos"
+  },
+  "resources.scripts": {
+    "translation": "Scripts externos"
+  },
+  "resources.search.heading": {
+    "translation": "Buscar paquetes <tag-1>(proporcionado por jsDelivr)</tag-1>"
+  },
+  "resources.search.placeholder": {
+    "translation": "p. ej. jquery, lodash@4, bootstrap@5.2.3, ..."
+  },
+  "resources.stylesheets": {
+    "translation": "Hojas de estilo externas"
+  },
+  "resources.urlDesc": {
+    "translation": "Agrega URLs de hojas de estilo/scripts. Cada URL debe estar en una línea separada."
+  },
+  "resultMode.linkText": {
+    "translation": "Editar en LiveCodes"
+  },
+  "savePrompt.heading": {
+    "translation": "Cambios sin guardar"
+  },
+  "savePrompt.prompt.cancel": {
+    "translation": "Cancelar"
+  },
+  "savePrompt.prompt.discard": {
+    "translation": "No guardar"
+  },
+  "savePrompt.prompt.heading": {
+    "translation": "Los cambios que has realizado pueden no guardarse. <tag-1></tag-1> ¿Quieres guardar ahora?"
+  },
+  "savePrompt.prompt.save": {
+    "translation": "Guardar"
+  },
+  "share.characters": {
+    "translation": "{{urlLength}} caracteres"
+  },
+  "share.copy.clickToCopy": {
+    "translation": "Haz clic para copiar"
+  },
+  "share.copy.copied": {
+    "translation": "URL copiada al portapapeles"
+  },
+  "share.encodedURL": {
+    "translation": "Obtener URL codificada"
+  },
+  "share.error.failedToCopy": {
+    "translation": "¡Falló la copia al portapapeles!"
+  },
+  "share.error.failedToGenerateURL": {
+    "translation": "¡Error al generar URL corta!"
+  },
+  "share.expireInOneYear": {
+    "translation": "Expira en 1 año"
+  },
+  "share.generateURL": {
+    "translation": "Generando URL …"
+  },
+  "share.heading": {
+    "translation": "Compartir"
+  },
+  "share.permanentURL": {
+    "translation": "URL permanente"
+  },
+  "share.qrcode.clickToDownload": {
+    "translation": "Haz clic para descargar"
+  },
+  "share.qrcode.generating": {
+    "translation": "Generando..."
+  },
+  "share.services.devTo": {
+    "translation": "Dev.to"
+  },
+  "share.services.email": {
+    "translation": "Correo electrónico"
+  },
+  "share.services.facebook": {
+    "translation": "Facebook"
+  },
+  "share.services.hackerNews": {
+    "translation": "Hacker News"
+  },
+  "share.services.linkedIn": {
+    "translation": "LinkedIn"
+  },
+  "share.services.pinterest": {
+    "translation": "Pinterest"
+  },
+  "share.services.pocket": {
+    "translation": "Pocket"
+  },
+  "share.services.qrCode": {
+    "translation": "Código QR"
+  },
+  "share.services.reddit": {
+    "translation": "Reddit"
+  },
+  "share.services.share": {
+    "translation": "Compartir vía …"
+  },
+  "share.services.telegram": {
+    "translation": "Telegram"
+  },
+  "share.services.tumblr": {
+    "translation": "Tumblr"
+  },
+  "share.services.twitter": {
+    "translation": "𝕏 / Twitter"
+  },
+  "share.services.whatsApp": {
+    "translation": "WhatsApp"
+  },
+  "share.shortURL": {
+    "translation": "Obtener URL corta"
+  },
+  "snippets.action.copy": {
+    "translation": "Copiar"
+  },
+  "snippets.action.delete": {
+    "translation": "Eliminar"
+  },
+  "snippets.action.edit": {
+    "translation": "Editar"
+  },
+  "snippets.add.code": {
+    "translation": "Código"
+  },
+  "snippets.add.desc": {
+    "translation": "Descripción"
+  },
+  "snippets.add.heading": {
+    "translation": "Agregar fragmento"
+  },
+  "snippets.add.language": {
+    "translation": "Idioma"
+  },
+  "snippets.add.save": {
+    "translation": "Guardar"
+  },
+  "snippets.add.snippets": {
+    "translation": "Fragmentos"
+  },
+  "snippets.add.title": {
+    "translation": "Título"
+  },
+  "snippets.copy.clickToCopySnippet": {
+    "translation": "Haz clic para copiar el fragmento"
+  },
+  "snippets.copy.copied": {
+    "translation": "El fragmento se ha copiado al portapapeles."
+  },
+  "snippets.delete.all": {
+    "translation": "¿Eliminar {{snippets}} fragmentos?"
+  },
+  "snippets.delete.one": {
+    "translation": "¿Eliminar fragmento: {{snippet}}?"
+  },
+  "snippets.deleteAll": {
+    "translation": "Eliminar todo"
+  },
+  "snippets.error.failedToCopy": {
+    "translation": "No se pudo copiar la URL."
+  },
+  "snippets.error.noTitle": {
+    "translation": "Por favor, agrega un título al fragmento."
+  },
+  "snippets.filter.language": {
+    "translation": "filtrar por idioma"
+  },
+  "snippets.heading": {
+    "translation": "Fragmentos de código"
+  },
+  "snippets.lastModified": {
+    "translation": "Última modificación: {{modified}}"
+  },
+  "snippets.noMatch": {
+    "translation": "Ningún fragmento coincide con estos filtros."
+  },
+  "snippets.noSavedSnippets": {
+    "translation": "No tienes fragmentos guardados."
+  },
+  "snippets.placeholder.allLanguages": {
+    "translation": "Todos los idiomas"
+  },
+  "snippets.placeholder.search": {
+    "translation": "Buscar"
+  },
+  "snippets.reset": {
+    "translation": "Restablecer"
+  },
+  "snippets.save.success": {
+    "translation": "¡Fragmento guardado localmente en el dispositivo!"
+  },
+  "snippets.sort.date": {
+    "translation": "Fecha"
+  },
+  "snippets.sort.heading": {
+    "translation": "Ordenar por:"
+  },
+  "snippets.sort.title": {
+    "translation": "Título"
+  },
+  "snippets.text": {
+    "translation": "Texto plano"
+  },
+  "splash.loading": {
+    "translation": "Cargando LiveCodes…"
+  },
+  "sync.autoSync": {
+    "translation": "Sincronización automática"
+  },
+  "sync.create.desc": {
+    "translation": "Se creará un nuevo repositorio <tag-1>privado</tag-1>. Tus datos locales de LiveCodes se sincronizarán con la rama <tag-2>main</tag-2>."
+  },
+  "sync.create.heading": {
+    "translation": "Crear nuevo repositorio"
+  },
+  "sync.create.repoName": {
+    "translation": "Nombre del repositorio"
+  },
+  "sync.error.generic": {
+    "translation": "¡Falló la sincronización!"
+  },
+  "sync.error.repoNameRequired": {
+    "translation": "Se requiere el nombre del repositorio"
+  },
+  "sync.existing.desc": {
+    "translation": "Tus datos locales de LiveCodes se sincronizarán con la rama <tag-1>main</tag-1>."
+  },
+  "sync.existing.heading": {
+    "translation": "Repositorio existente"
+  },
+  "sync.existing.repoName": {
+    "translation": "Nombre del repositorio"
+  },
+  "sync.heading": {
+    "translation": "Sincronizar con repositorio de GitHub"
+  },
+  "sync.searchRepos": {
+    "translation": "Buscar en tus repositorios..."
+  },
+  "sync.success": {
+    "translation": "¡Sincronización completa!"
+  },
+  "sync.syncBtn": {
+    "translation": "Sincronizar"
+  },
+  "sync.syncInProgress": {
+    "translation": "Sincronización en progreso..."
+  },
+  "sync.syncStarted": {
+    "translation": "Sincronización iniciada..."
+  },
+  "templates.heading": {
+    "translation": "Nuevo Proyecto"
+  },
+  "templates.noUserTemplates.desc": {
+    "translation": "Puedes guardar un proyecto como plantilla desde <tag-1></tag-1>(Menú de la aplicación &gt; Guardar como &gt; Plantilla)."
+  },
+  "templates.noUserTemplates.heading": {
+    "translation": "No tienes plantillas guardadas."
+  },
+  "templates.search.label": {
+    "translation": "Buscar en plantillas"
+  },
+  "templates.search.placeholder": {
+    "translation": "Buscar en plantillas..."
+  },
+  "templates.starter.angular": {
+    "translation": "Inicio Angular"
+  },
+  "templates.starter.assemblyscript": {
+    "translation": "Inicio AssemblyScript"
+  },
+  "templates.starter.astro": {
+    "translation": "Inicio Astro"
+  },
+  "templates.starter.backbone": {
+    "translation": "Inicio Backbone"
+  },
+  "templates.starter.blank": {
+    "translation": "Proyecto en Blanco"
+  },
+  "templates.starter.blockly": {
+    "translation": "Inicio Blockly"
+  },
+  "templates.starter.bootstrap": {
+    "translation": "Inicio Bootstrap"
+  },
+  "templates.starter.civet": {
+    "translation": "Inicio Civet"
+  },
+  "templates.starter.clio": {
+    "translation": "Inicio Clio"
+  },
+  "templates.starter.clojurescript": {
+    "translation": "Inicio ClojureScript"
+  },
+  "templates.starter.coffeescript": {
+    "translation": "Inicio CoffeeScript"
+  },
+  "templates.starter.commonlisp": {
+    "translation": "Inicio Common Lisp"
+  },
+  "templates.starter.cpp": {
+    "translation": "Inicio C++"
+  },
+  "templates.starter.cpp-wasm": {
+    "translation": "Inicio C++ (Wasm)"
+  },
+  "templates.starter.csharp-wasm": {
+    "translation": "Inicio C# (Wasm)"
+  },
+  "templates.starter.d3": {
+    "translation": "Inicio D3"
+  },
+  "templates.starter.daisyui": {
+    "translation": "Inicio daisyUI"
+  },
+  "templates.starter.diagrams": {
+    "translation": "Inicio Diagramas"
+  },
+  "templates.starter.fennel": {
+    "translation": "Inicio Fennel"
+  },
+  "templates.starter.gleam": {
+    "translation": "Inicio Gleam"
+  },
+  "templates.starter.go": {
+    "translation": "Inicio Go"
+  },
+  "templates.starter.go-wasm": {
+    "translation": "Inicio Go (Wasm)"
+  },
+  "templates.starter.heading": {
+    "translation": "Plantillas de Inicio"
+  },
+  "templates.starter.imba": {
+    "translation": "Inicio Imba"
+  },
+  "templates.starter.java": {
+    "translation": "Inicio Java"
+  },
+  "templates.starter.javascript": {
+    "translation": "Inicio JavaScript"
+  },
+  "templates.starter.jest": {
+    "translation": "Inicio Jest"
+  },
+  "templates.starter.jest-react": {
+    "translation": "Inicio Jest/React"
+  },
+  "templates.starter.jquery": {
+    "translation": "Inicio jQuery"
+  },
+  "templates.starter.julia": {
+    "translation": "Inicio Julia"
+  },
+  "templates.starter.knockout": {
+    "translation": "Inicio Knockout"
+  },
+  "templates.starter.lit": {
+    "translation": "Inicio Lit"
+  },
+  "templates.starter.livescript": {
+    "translation": "Inicio LiveScript"
+  },
+  "templates.starter.loading": {
+    "translation": "Cargando plantillas de inicio..."
+  },
+  "templates.starter.lua": {
+    "translation": "Inicio Lua"
+  },
+  "templates.starter.lua-wasm": {
+    "translation": "Inicio Lua (Wasm)"
+  },
+  "templates.starter.malina": {
+    "translation": "Inicio Malina.js"
+  },
+  "templates.starter.markdown": {
+    "translation": "Inicio Markdown"
+  },
+  "templates.starter.mdx": {
+    "translation": "Inicio MDX"
+  },
+  "templates.starter.minizinc": {
+    "translation": "Inicio MiniZinc"
+  },
+  "templates.starter.ocaml": {
+    "translation": "Inicio Ocaml"
+  },
+  "templates.starter.perl": {
+    "translation": "Inicio Perl"
+  },
+  "templates.starter.phaser": {
+    "translation": "Inicio Phaser"
+  },
+  "templates.starter.php": {
+    "translation": "Inicio PHP"
+  },
+  "templates.starter.php-wasm": {
+    "translation": "Inicio PHP (Wasm)"
+  },
+  "templates.starter.postgresql": {
+    "translation": "Inicio PostgreSQL"
+  },
+  "templates.starter.preact": {
+    "translation": "Inicio Preact"
+  },
+  "templates.starter.prolog": {
+    "translation": "Inicio Prolog"
+  },
+  "templates.starter.python": {
+    "translation": "Inicio Python"
+  },
+  "templates.starter.python-wasm": {
+    "translation": "Inicio Python (Wasm)"
+  },
+  "templates.starter.r": {
+    "translation": "Inicio R"
+  },
+  "templates.starter.react": {
+    "translation": "Inicio React"
+  },
+  "templates.starter.react-native": {
+    "translation": "Inicio React Native"
+  },
+  "templates.starter.reason": {
+    "translation": "Inicio Reason"
+  },
+  "templates.starter.rescript": {
+    "translation": "Inicio ReScript"
+  },
+  "templates.starter.riot": {
+    "translation": "Inicio Riot.js"
+  },
+  "templates.starter.ruby": {
+    "translation": "Inicio Ruby"
+  },
+  "templates.starter.ruby-wasm": {
+    "translation": "Inicio Ruby (Wasm)"
+  },
+  "templates.starter.scheme": {
+    "translation": "Inicio Scheme"
+  },
+  "templates.starter.shadcnui": {
+    "translation": "Inicio shadcn/ui"
+  },
+  "templates.starter.solid": {
+    "translation": "Inicio Solid"
+  },
+  "templates.starter.sql": {
+    "translation": "Inicio SQL"
+  },
+  "templates.starter.stencil": {
+    "translation": "Inicio Stencil"
+  },
+  "templates.starter.svelte": {
+    "translation": "Inicio Svelte"
+  },
+  "templates.starter.tailwindcss": {
+    "translation": "Inicio Tailwind CSS"
+  },
+  "templates.starter.tcl": {
+    "translation": "Inicio Tcl"
+  },
+  "templates.starter.teal": {
+    "translation": "Inicio Teal"
+  },
+  "templates.starter.typescript": {
+    "translation": "Inicio TypeScript"
+  },
+  "templates.starter.vue": {
+    "translation": "Inicio Vue"
+  },
+  "templates.starter.vue2": {
+    "translation": "Inicio Vue 2"
+  },
+  "templates.starter.wat": {
+    "translation": "Inicio WebAssembly Text"
+  },
+  "templates.user.heading": {
+    "translation": "Mis Plantillas"
+  },
+  "templates.user.loading": {
+    "translation": "Cargando plantillas de usuario..."
+  },
+  "testEditor.heading": {
+    "translation": "Editar Pruebas"
+  },
+  "testEditor.load": {
+    "translation": "Cargar"
+  },
+  "testEditor.tests": {
+    "translation": "Pruebas"
+  },
+  "testSettings.desc": {
+    "translation": "<tag-1></tag-1> Para más información, consulte la <tag-2>documentación</tag-2>"
+  },
+  "toolspane.close": {
+    "translation": "Cerrar"
+  },
+  "toolspane.compiled.title": {
+    "translation": "Compilado"
+  },
+  "toolspane.console.clear": {
+    "translation": "Limpiar consola"
+  },
+  "toolspane.console.title": {
+    "translation": "Consola"
+  },
+  "toolspane.test.edit": {
+    "translation": "Editar"
+  },
+  "toolspane.test.error": {
+    "translation": "<tag-1><tag-2>¡Error en la prueba!</tag-2></tag-1>"
+  },
+  "toolspane.test.loading": {
+    "translation": "<tag-1>Cargando pruebas...</tag-1>"
+  },
+  "toolspane.test.noTest": {
+    "translation": "<tag-1>¡Este proyecto no tiene pruebas!</tag-1>"
+  },
+  "toolspane.test.reset": {
+    "translation": "Reiniciar"
+  },
+  "toolspane.test.run.desc": {
+    "translation": "Ctrl/Cmd + Alt + T"
+  },
+  "toolspane.test.run.heading": {
+    "translation": "Ejecutar"
+  },
+  "toolspane.test.summary.desc": {
+    "translation": "Pruebas: {{failed}}\n         {{passed}}\n         {{skipped}}\n         {{total}}<tag-1></tag-1>\nTiempo: {{duration}}s"
+  },
+  "toolspane.test.summary.failed": {
+    "translation": "{{failedNum}} fallidas"
+  },
+  "toolspane.test.summary.passed": {
+    "translation": "{{passedNum}} pasadas"
+  },
+  "toolspane.test.summary.skipped": {
+    "translation": "{{skippedNum}} omitidas"
+  },
+  "toolspane.test.summary.total": {
+    "translation": "{{totalNum}} total"
+  },
+  "toolspane.test.title": {
+    "translation": "Pruebas"
+  },
+  "toolspane.test.watch.desc": {
+    "translation": "Ejecutar pruebas cuando el código cambie"
+  },
+  "toolspane.test.watch.heading": {
+    "translation": "Observar"
+  },
+  "welcome.about.documentation": {
+    "translation": "Documentación"
+  },
+  "welcome.about.heading": {
+    "translation": "Acerca de LiveCodes"
+  },
+  "welcome.heading": {
+    "translation": "Bienvenido"
+  },
+  "welcome.recent.heading": {
+    "translation": "Reciente"
+  },
+  "welcome.recover.cancel": {
+    "translation": "Cancelar"
+  },
+  "welcome.recover.heading": {
+    "translation": "Recuperar"
+  },
+  "welcome.recover.lastModified": {
+    "translation": "Última modificación:"
+  },
+  "welcome.recover.recover": {
+    "translation": "Recuperar"
+  },
+  "welcome.recover.save": {
+    "translation": "Guardar"
+  },
+  "welcome.recover.unsavedChanges": {
+    "translation": "Tu último proyecto tenía cambios sin guardar:"
+  },
+  "welcome.showOnStartup": {
+    "translation": "Mostrar al inicio"
+  },
+  "welcome.start.heading": {
+    "translation": "Comenzar"
+  },
+  "welcome.start.import": {
+    "translation": "Importar..."
+  },
+  "welcome.start.loadDefaultTemplate": {
+    "translation": "Cargar plantilla predeterminada"
+  },
+  "welcome.start.new": {
+    "translation": "Nuevo..."
+  },
+  "welcome.start.noDefaultTemplate": {
+    "translation": "Sin plantilla predeterminada"
+  },
+  "welcome.start.open": {
+    "translation": "Abrir..."
+  },
+  "welcome.templates.heading": {
+    "translation": "Plantillas de Inicio"
+  }
+}

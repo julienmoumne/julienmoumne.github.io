@@ -1,0 +1,2253 @@
+{
+  "$comment": "ATTENTION: This file is auto-generated from source code. Do not edit manually!",
+  "about.blog.text": {
+    "translation": "博客"
+  },
+  "about.blog.title": {
+    "translation": "LiveCodes 博客"
+  },
+  "about.configuration": {
+    "translation": "配置"
+  },
+  "about.credits.heading": {
+    "translation": "致谢"
+  },
+  "about.credits.para1": {
+    "translation": "LiveCodes 的实现得益于开源项目、网络服务和贡献者的支持。 <tag-1>查看致谢</tag-1>"
+  },
+  "about.credits.para2": {
+    "translation": "© 2024 Hatem Hosny。LiveCodes 已获得 MIT 许可。"
+  },
+  "about.documentations.heading": {
+    "translation": "文档"
+  },
+  "about.gettingStarted": {
+    "translation": "快速开始"
+  },
+  "about.github.text": {
+    "translation": "GitHub"
+  },
+  "about.github.title": {
+    "translation": "GitHub"
+  },
+  "about.heading": {
+    "translation": "关于 LiveCodes"
+  },
+  "about.livecodes.aboutUs": {
+    "translation": "关于 LiveCodes"
+  },
+  "about.livecodes.para1": {
+    "translation": "<tag-1><tag-2>LiveCodes</tag-2></tag-1> 是一个开源的、功能丰富的、客户端侧的代码运行环境。目前支持超过 90 种语言 / 框架。它可以作为独立应用使用，亦可嵌入到任意网页中。"
+  },
+  "about.livecodes.para2": {
+    "translation": "功能强大的 SDK 可轻松整合代码运行环境并与其进行通信。文档内容详细完整，代码示例、实时演示和屏幕截图一应俱全。"
+  },
+  "about.sdk": {
+    "translation": "LiveCodes SDK"
+  },
+  "about.sponsor.text": {
+    "translation": "赞助"
+  },
+  "about.sponsor.title": {
+    "translation": "赞助 LiveCodes"
+  },
+  "about.twitter.text": {
+    "translation": "𝕏 / Twitter"
+  },
+  "about.twitter.title": {
+    "translation": "𝕏 / Twitter"
+  },
+  "about.version.app": {
+    "translation": "应用版本：<tag-1>{{APP_VERSION}}</tag-1>"
+  },
+  "about.version.appPermanentUrl": {
+    "translation": "应用永久 URL"
+  },
+  "about.version.commit": {
+    "translation": "Git 提交： <tag-1> {{COMMIT_SHA}} </tag-1>"
+  },
+  "about.version.heading": {
+    "translation": "版本"
+  },
+  "about.version.sdk": {
+    "translation": "SDK 版本： <tag-1> {{SDK_VERSION}} </tag-1>"
+  },
+  "about.version.sdkPermanentUrl": {
+    "translation": "SDK 永久 URL"
+  },
+  "app.changeTheme.hint": {
+    "translation": "更改主题"
+  },
+  "app.codeToImage.hint": {
+    "translation": "代码转图片"
+  },
+  "app.consoleMessage.appVersion": {
+    "translation": "应用版本：{{APP_VERSION}}"
+  },
+  "app.consoleMessage.commit": {
+    "translation": "Git 提交：{{COMMIT_SHA}}"
+  },
+  "app.consoleMessage.learnMore": {
+    "translation": "了解更多！ {{docsUrl}} 🚀"
+  },
+  "app.consoleMessage.sdkVersion": {
+    "translation": "SDK 版本：{{SDK_VERSION}}"
+  },
+  "app.copy.hint": {
+    "translation": "复制（Ctrl/⌘ + A, Ctrl/⌘ + C）"
+  },
+  "app.copyAsUrl.hint": {
+    "translation": "将代码复制为 Data URL"
+  },
+  "app.customSettings.hint": {
+    "translation": "自定义设置"
+  },
+  "app.editorSettings.hint": {
+    "translation": "编辑器设置"
+  },
+  "app.externalResources.hint": {
+    "translation": "外部资源"
+  },
+  "app.focus.hint": {
+    "translation": "切换聚焦模式（Ctrl/⌘ + K, Z）"
+  },
+  "app.format.hint": {
+    "translation": "格式化（Alt + Shift + F）"
+  },
+  "app.fullscreen.hint": {
+    "translation": "全屏"
+  },
+  "app.i18nButton.hint": {
+    "translation": "应用界面语言"
+  },
+  "app.i18nMenu.docs": {
+    "translation": "i18n 文档"
+  },
+  "app.i18nMenu.helpTranslate": {
+    "translation": "帮助我们翻译"
+  },
+  "app.logo.title": {
+    "translation": "LiveCodes: 一个简单实用的代码运行环境！"
+  },
+  "app.projectInfo.hint": {
+    "translation": "项目信息"
+  },
+  "app.redo.hint": {
+    "translation": "重做（Ctrl/⌘ + Shift + Z）"
+  },
+  "app.result.hint": {
+    "translation": "结果（Ctrl/⌘ + Alt + R）"
+  },
+  "app.run.hint": {
+    "translation": "运行（Shift + Enter）"
+  },
+  "app.share.hint": {
+    "translation": "分享（Ctrl/⌘ + Alt + S）"
+  },
+  "app.themeColors.custom": {
+    "translation": "自定义"
+  },
+  "app.undo.hint": {
+    "translation": "撤消（Ctrl/⌘ + Z）"
+  },
+  "app.untitledProject": {
+    "translation": "未命名项目"
+  },
+  "assets.action.delete": {
+    "translation": "删除"
+  },
+  "assets.add.dataURL.desc": {
+    "translation": "将资产添加为 base64 编码的 <tag-1>Data URL</tag-1> 。"
+  },
+  "assets.add.dataURL.heading": {
+    "translation": "Data URL"
+  },
+  "assets.add.dataURL.label": {
+    "translation": "添加文件"
+  },
+  "assets.add.githubPages.desc": {
+    "translation": "将资产部署到 GitHub Pages。该文件将推送至您 GitHub 帐户上 <tag-2> livecodes-assets</tag-2> 仓库的 <tag-1>gh-pages</tag-1> 分支。如果该仓库尚不存在，则将创建一个公开仓库。"
+  },
+  "assets.add.githubPages.heading": {
+    "translation": "GitHub Pages"
+  },
+  "assets.add.githubPages.label": {
+    "translation": "上传文件"
+  },
+  "assets.add.heading": {
+    "translation": "添加资产"
+  },
+  "assets.delete.all": {
+    "translation": "删除 {{assets}} 个资产？"
+  },
+  "assets.delete.one": {
+    "translation": "删除资产：{{asset}} ？"
+  },
+  "assets.deleteAll": {
+    "translation": "删除全部"
+  },
+  "assets.generic.clickToCopyURL": {
+    "translation": "点击以复制 URL"
+  },
+  "assets.heading": {
+    "translation": "资产"
+  },
+  "assets.link.date": {
+    "translation": "日期：{{modified}}"
+  },
+  "assets.link.type": {
+    "translation": "类型：{{type}}"
+  },
+  "assets.link.url": {
+    "translation": "URL：{{url}}"
+  },
+  "assets.loadFile.error.failedToUpload": {
+    "translation": "错误：无法上传文件"
+  },
+  "assets.loadFile.error.unauthenticated": {
+    "translation": "错误：用户未经身份验证"
+  },
+  "assets.loadFile.upload": {
+    "translation": "上传文件"
+  },
+  "assets.loadFile.uploading": {
+    "translation": "正在上传..."
+  },
+  "assets.noMatch": {
+    "translation": "没有符合筛选条件的资产。"
+  },
+  "assets.noSavedAssets": {
+    "translation": "您没有已保存的资产。"
+  },
+  "assets.processAsset.addFile": {
+    "translation": "已添加文件："
+  },
+  "assets.processAsset.deployNotice": {
+    "translation": "该资产将很快在此 URL 上可用（约 1 分钟）。"
+  },
+  "assets.processAsset.success": {
+    "translation": "文件已添加到资产！"
+  },
+  "assets.processAsset.urlLabel": {
+    "translation": "URL："
+  },
+  "assets.resetFilters": {
+    "translation": "重置"
+  },
+  "assets.search": {
+    "translation": "搜索"
+  },
+  "assets.sort.date": {
+    "translation": "日期"
+  },
+  "assets.sort.fileName": {
+    "translation": "文件名"
+  },
+  "assets.sort.heading": {
+    "translation": "排序方式："
+  },
+  "assets.type.archive": {
+    "translation": "归档文件"
+  },
+  "assets.type.audio": {
+    "translation": "音频"
+  },
+  "assets.type.csv": {
+    "translation": "CSV"
+  },
+  "assets.type.font": {
+    "translation": "字体"
+  },
+  "assets.type.html": {
+    "translation": "HTML"
+  },
+  "assets.type.icon": {
+    "translation": "图标"
+  },
+  "assets.type.image": {
+    "translation": "图像"
+  },
+  "assets.type.json": {
+    "translation": "JSON"
+  },
+  "assets.type.other": {
+    "translation": "其他"
+  },
+  "assets.type.script": {
+    "translation": "脚本"
+  },
+  "assets.type.stylesheet": {
+    "translation": "样式表"
+  },
+  "assets.type.text": {
+    "translation": "文本"
+  },
+  "assets.type.video": {
+    "translation": "视频"
+  },
+  "assets.type.xml": {
+    "translation": "XML"
+  },
+  "assets.types.all": {
+    "translation": "所有类型"
+  },
+  "assets.url.fail": {
+    "translation": "复制 URL 失败。"
+  },
+  "assets.url.success": {
+    "translation": "URL 已复制到剪贴板"
+  },
+  "backup.backup.assets": {
+    "translation": "资产"
+  },
+  "backup.backup.button": {
+    "translation": "备份"
+  },
+  "backup.backup.desc": {
+    "translation": "备份 LiveCodes 数据，以便稍后在此设备上或其他设备上恢复。 <tag-1> </tag-1>请访问<tag-2>文档</tag-2>以了解详情。"
+  },
+  "backup.backup.heading": {
+    "translation": "备份"
+  },
+  "backup.backup.projects": {
+    "translation": "项目"
+  },
+  "backup.backup.settings": {
+    "translation": "用户设置"
+  },
+  "backup.backup.snippets": {
+    "translation": "代码片段"
+  },
+  "backup.backup.templates": {
+    "translation": "用户模板"
+  },
+  "backup.backupBtn": {
+    "translation": "备份"
+  },
+  "backup.error.atLeastOneStore": {
+    "translation": "请至少选择一个需要备份的存储"
+  },
+  "backup.error.incorrectFileType": {
+    "translation": "错误：文件类型不正确"
+  },
+  "backup.fileInputLabel": {
+    "translation": "从文件恢复"
+  },
+  "backup.heading": {
+    "translation": "备份 / 恢复"
+  },
+  "backup.inProgress": {
+    "translation": "进行中 ..."
+  },
+  "backup.restore.desc": {
+    "translation": "恢复先前备份的 LiveCodes 数据。<tag-1></tag-1>如果您选择替换当前内容，可能需要先将其备份。<tag-2></tag-2>请访问<tag-3>文档</tag-3> 以了解详情。"
+  },
+  "backup.restore.fromFile": {
+    "translation": "从文件恢复"
+  },
+  "backup.restore.heading": {
+    "translation": "恢复"
+  },
+  "backup.restore.mode.merge": {
+    "translation": "与当前内容合并"
+  },
+  "backup.restore.mode.replace": {
+    "translation": "替换当前内容"
+  },
+  "backup.restore.success": {
+    "translation": "恢复成功！"
+  },
+  "broadcast.broadcastBtn.start": {
+    "translation": "播送"
+  },
+  "broadcast.broadcastBtn.stop": {
+    "translation": "停止播送"
+  },
+  "broadcast.broadcasting": {
+    "translation": "正在播送 ..."
+  },
+  "broadcast.channelURL": {
+    "translation": "频道 URL"
+  },
+  "broadcast.connecting": {
+    "translation": "正在连接 ..."
+  },
+  "broadcast.desc": {
+    "translation": "将结果页面实时播送到其他浏览器 / 设备。请访问<tag-1>文档</tag-1>以了解详情。"
+  },
+  "broadcast.error.generic": {
+    "translation": "播送失败！"
+  },
+  "broadcast.error.serverURLRequired": {
+    "translation": "必须填写服务器 URL！"
+  },
+  "broadcast.heading": {
+    "translation": "播送"
+  },
+  "broadcast.includeSourceCode": {
+    "translation": "包含源代码"
+  },
+  "broadcast.serverURL.heading": {
+    "translation": "服务器 URL"
+  },
+  "codeToImage.background": {
+    "translation": "背景色"
+  },
+  "codeToImage.borderRadius": {
+    "translation": "边框半径"
+  },
+  "codeToImage.code": {
+    "translation": "代码"
+  },
+  "codeToImage.copyCode": {
+    "translation": "复制代码"
+  },
+  "codeToImage.copyImage": {
+    "translation": "复制图像"
+  },
+  "codeToImage.default": {
+    "translation": "默认"
+  },
+  "codeToImage.direction": {
+    "translation": "方向"
+  },
+  "codeToImage.fileName": {
+    "translation": "文件名"
+  },
+  "codeToImage.fontFamily": {
+    "translation": "字体"
+  },
+  "codeToImage.fontSize": {
+    "translation": "字体大小"
+  },
+  "codeToImage.heading": {
+    "translation": "代码转图片"
+  },
+  "codeToImage.image": {
+    "translation": "图像"
+  },
+  "codeToImage.imageFormat.jpg": {
+    "translation": "JPEG"
+  },
+  "codeToImage.imageFormat.label": {
+    "translation": "图像格式"
+  },
+  "codeToImage.imageFormat.png": {
+    "translation": "PNG"
+  },
+  "codeToImage.imageFormat.svg": {
+    "translation": "SVG"
+  },
+  "codeToImage.layout": {
+    "translation": "布局"
+  },
+  "codeToImage.opacity": {
+    "translation": "不透明度"
+  },
+  "codeToImage.padding": {
+    "translation": "内边距"
+  },
+  "codeToImage.presets": {
+    "translation": "预设"
+  },
+  "codeToImage.preview": {
+    "translation": "预览"
+  },
+  "codeToImage.save": {
+    "translation": "保存图片"
+  },
+  "codeToImage.scale": {
+    "translation": "图像缩放比例"
+  },
+  "codeToImage.shadow": {
+    "translation": "阴影"
+  },
+  "codeToImage.shareImage": {
+    "translation": "分享图片"
+  },
+  "codeToImage.shareTitle": {
+    "translation": "分享"
+  },
+  "codeToImage.shareUrl": {
+    "translation": "分享 URL"
+  },
+  "codeToImage.theme": {
+    "translation": "主题"
+  },
+  "codeToImage.width": {
+    "translation": "宽度"
+  },
+  "codeToImage.windowStyle.label": {
+    "translation": "窗口样式"
+  },
+  "codeToImage.windowStyle.mac": {
+    "translation": "macOS"
+  },
+  "codeToImage.windowStyle.none": {
+    "translation": "无"
+  },
+  "codeToImage.windowStyle.windows": {
+    "translation": "Windows"
+  },
+  "commandMenu.changeTheme.dark": {
+    "translation": "切换为深色主题"
+  },
+  "commandMenu.changeTheme.light": {
+    "translation": "切换为浅色主题"
+  },
+  "commandMenu.changeTheme.title": {
+    "translation": "切换主题"
+  },
+  "commandMenu.changeUILanguage": {
+    "translation": "切换界面语言"
+  },
+  "commandMenu.closeModalMenu": {
+    "translation": "关闭模式/菜单"
+  },
+  "commandMenu.contribute": {
+    "translation": "贡献"
+  },
+  "commandMenu.copy": {
+    "translation": "复制代码"
+  },
+  "commandMenu.copyAsDataUrl": {
+    "translation": "将代码复制为 Data URL"
+  },
+  "commandMenu.disableAutoSave": {
+    "translation": "禁用自动保存"
+  },
+  "commandMenu.disableAutoUpdate": {
+    "translation": "禁用自动更新"
+  },
+  "commandMenu.disableEmacs": {
+    "translation": "禁用 Emacs 模式"
+  },
+  "commandMenu.disableFormatOnSave": {
+    "translation": "禁用保存时格式化"
+  },
+  "commandMenu.disableRecoverUnsaved": {
+    "translation": "禁用恢复未保存的内容"
+  },
+  "commandMenu.disableVim": {
+    "translation": "禁用 Vim 模式"
+  },
+  "commandMenu.enableAutoSave": {
+    "translation": "启用自动保存"
+  },
+  "commandMenu.enableAutoUpdate": {
+    "translation": "启用自动更新"
+  },
+  "commandMenu.enableEmacs": {
+    "translation": "启用 Emacs 模式"
+  },
+  "commandMenu.enableFormatOnSave": {
+    "translation": "启用保存时格式化"
+  },
+  "commandMenu.enableRecoverUnsaved": {
+    "translation": "启用恢复未保存的内容"
+  },
+  "commandMenu.enableVim": {
+    "translation": "启用 Vim 模式"
+  },
+  "commandMenu.focus.editor": {
+    "translation": "聚焦编辑器"
+  },
+  "commandMenu.focus.home": {
+    "translation": "将焦点移至主页"
+  },
+  "commandMenu.focus.outOfEditor": {
+    "translation": "将焦点移出编辑器"
+  },
+  "commandMenu.focus.toggleTabFocusMode": {
+    "translation": "切换标签聚焦模式"
+  },
+  "commandMenu.formatCode": {
+    "translation": "格式化代码"
+  },
+  "commandMenu.home": {
+    "translation": "主页"
+  },
+  "commandMenu.horizontalLayout": {
+    "translation": "水平布局"
+  },
+  "commandMenu.keyboardShortcuts": {
+    "translation": "键盘快捷键"
+  },
+  "commandMenu.login": {
+    "translation": "登录"
+  },
+  "commandMenu.logout": {
+    "translation": "登出"
+  },
+  "commandMenu.moveToParent": {
+    "translation": "转至父级"
+  },
+  "commandMenu.placeholder": {
+    "translation": "输入命令或搜索 ..."
+  },
+  "commandMenu.processors": {
+    "translation": "处理器"
+  },
+  "commandMenu.responsiveLayout": {
+    "translation": "响应式布局"
+  },
+  "commandMenu.run": {
+    "translation": "运行"
+  },
+  "commandMenu.saveAsFork": {
+    "translation": "另存为 Fork（新项目）"
+  },
+  "commandMenu.saveAsTemplate": {
+    "translation": "另存为模板"
+  },
+  "commandMenu.selectLanguage": {
+    "translation": "选择语言"
+  },
+  "commandMenu.show.compiled": {
+    "translation": "切换编译结果页面显示"
+  },
+  "commandMenu.show.console": {
+    "translation": "切换控制台页面显示"
+  },
+  "commandMenu.show.focusMode": {
+    "translation": "切换聚焦模式"
+  },
+  "commandMenu.show.fullscreen": {
+    "translation": "切换全屏"
+  },
+  "commandMenu.show.markup": {
+    "translation": "显示标记编辑器"
+  },
+  "commandMenu.show.maximizeCompiled": {
+    "translation": "最大化编译结果页面"
+  },
+  "commandMenu.show.maximizeConsole": {
+    "translation": "最大化控制台页面"
+  },
+  "commandMenu.show.maximizeTests": {
+    "translation": "最大化测试页面"
+  },
+  "commandMenu.show.next": {
+    "translation": "显示下一个编辑器"
+  },
+  "commandMenu.show.previous": {
+    "translation": "显示前一个编辑器"
+  },
+  "commandMenu.show.result": {
+    "translation": "切换结果页面显示"
+  },
+  "commandMenu.show.runTests": {
+    "translation": "运行测试"
+  },
+  "commandMenu.show.script": {
+    "translation": "显示脚本编辑器"
+  },
+  "commandMenu.show.style": {
+    "translation": "显示样式编辑器"
+  },
+  "commandMenu.show.tests": {
+    "translation": "切换测试页面显示"
+  },
+  "commandMenu.show.title": {
+    "translation": "显示 …"
+  },
+  "commandMenu.show.zoom": {
+    "translation": "切换结果页面缩放"
+  },
+  "commandMenu.starterTemplates": {
+    "translation": "启动模板"
+  },
+  "commandMenu.sync": {
+    "translation": "同步（Beta 版）..."
+  },
+  "commandMenu.template": {
+    "translation": "模板"
+  },
+  "commandMenu.theme.color": {
+    "translation": "设置主题颜色"
+  },
+  "commandMenu.theme.defaultColor": {
+    "translation": "设置默认主题颜色"
+  },
+  "commandMenu.title": {
+    "translation": "命令菜单"
+  },
+  "commandMenu.toClose": {
+    "translation": "以关闭"
+  },
+  "commandMenu.toNavigate": {
+    "translation": "以导航"
+  },
+  "commandMenu.toSelect": {
+    "translation": "以选择"
+  },
+  "commandMenu.toggle": {
+    "translation": "切换："
+  },
+  "commandMenu.verticalLayout": {
+    "translation": "垂直布局"
+  },
+  "core.broadcast.heading": {
+    "translation": "播送"
+  },
+  "core.broadcast.successSetToken": {
+    "translation": "播送用户令牌设置成功"
+  },
+  "core.changeLanguage.hint": {
+    "translation": "更改语言"
+  },
+  "core.changeLanguage.message": {
+    "translation": "正在加载 {{lang}} 。这可能需要一些时间！"
+  },
+  "core.copy.copied": {
+    "translation": "代码已复制到剪贴板"
+  },
+  "core.copy.copiedAsDataURL": {
+    "translation": "将代码复制为 Data URL"
+  },
+  "core.copy.copiedImage": {
+    "translation": "图像已复制到剪贴板"
+  },
+  "core.copy.hint": {
+    "translation": "已复制！"
+  },
+  "core.copy.title": {
+    "translation": "复制"
+  },
+  "core.error.couldNotLoadTemplate": {
+    "translation": "无法加载模板：{{template}}"
+  },
+  "core.error.failedToCopyCode": {
+    "translation": "复制代码失败"
+  },
+  "core.error.failedToCopyImage": {
+    "translation": "复制图像失败"
+  },
+  "core.error.failedToLoadTemplate": {
+    "translation": "加载模板失败"
+  },
+  "core.error.failedToLoadTemplates": {
+    "translation": "加载启动模板失败"
+  },
+  "core.error.failedToParseSettings": {
+    "translation": "无法将设置解析为 JSON"
+  },
+  "core.error.failedToSaveImage": {
+    "translation": "保存图像失败"
+  },
+  "core.error.failedToShareImage": {
+    "translation": "分享图像失败"
+  },
+  "core.error.invalidCommand": {
+    "translation": "命令无效！"
+  },
+  "core.error.invalidImport": {
+    "translation": "导入 URL 无效"
+  },
+  "core.error.invalidPanelId": {
+    "translation": "面板 ID 无效"
+  },
+  "core.error.invalidToken": {
+    "translation": "令牌无效！"
+  },
+  "core.error.login": {
+    "translation": "登录错误！"
+  },
+  "core.error.logout": {
+    "translation": "登出错误！"
+  },
+  "core.error.noResultContainer": {
+    "translation": "未找到结果容器"
+  },
+  "core.error.unavailable": {
+    "translation": "命令不可用"
+  },
+  "core.error.unavailableForEmbeds": {
+    "translation": "嵌入中命令不可用"
+  },
+  "core.export.gist": {
+    "translation": "创建公开 GitHub gist..."
+  },
+  "core.fork.success": {
+    "translation": "Fork 为新项目"
+  },
+  "core.fullScreen.enter": {
+    "translation": "全屏"
+  },
+  "core.fullScreen.exit": {
+    "translation": "退出全屏"
+  },
+  "core.generating": {
+    "translation": "正在生成 ..."
+  },
+  "core.import.loading": {
+    "translation": "正在加载项目 ..."
+  },
+  "core.layout.horizontal": {
+    "translation": "水平布局"
+  },
+  "core.layout.responsive": {
+    "translation": "响应式布局"
+  },
+  "core.layout.vertical": {
+    "translation": "垂直布局"
+  },
+  "core.loadDefaults.template": {
+    "translation": "加载默认模板中"
+  },
+  "core.login.success": {
+    "translation": "登录成功"
+  },
+  "core.login.successWithName": {
+    "translation": "以 {{name}} 的身份登录"
+  },
+  "core.logout.success": {
+    "translation": "登出成功"
+  },
+  "core.result.hint": {
+    "translation": "在新窗口中显示结果"
+  },
+  "core.save.success": {
+    "translation": "项目已本地保存至设备！"
+  },
+  "core.save.successWithName": {
+    "translation": "项目 \"{{name}}\" 已保存至设备。"
+  },
+  "core.template.blank": {
+    "translation": "空白项目"
+  },
+  "core.template.delete": {
+    "translation": "删除模板 \"{{item}}\" ？"
+  },
+  "core.template.javascript": {
+    "translation": "JavaScript 启动模板"
+  },
+  "core.template.react": {
+    "translation": "React 启动模板"
+  },
+  "core.template.saved": {
+    "translation": "另存为新模板"
+  },
+  "core.template.typescript": {
+    "translation": "TypeScript 启动模板"
+  },
+  "core.template.vue": {
+    "translation": "Vue 3 启动模板"
+  },
+  "core.unload.notSaved": {
+    "translation": "您所做的更改可能无法保存。"
+  },
+  "core.zoom.hint": {
+    "translation": "缩放"
+  },
+  "customSettings.JSON": {
+    "translation": "自定义设置 JSON"
+  },
+  "customSettings.desc": {
+    "translation": "<tag-1></tag-1> 请查看 <tag-2>文档</tag-2> 以了解详情。"
+  },
+  "customSettings.heading": {
+    "translation": "自定义设置"
+  },
+  "customSettings.load": {
+    "translation": "加载"
+  },
+  "deploy.create.desc": {
+    "translation": "将创建一个新的<tag-1>公开</tag-1>仓库。结果页面将被推送到 <tag-2>gh-pages</tag-2> 分支。"
+  },
+  "deploy.create.heading": {
+    "translation": "创建新仓库"
+  },
+  "deploy.create.repoName": {
+    "translation": "仓库名称<tag-1></tag-1>"
+  },
+  "deploy.error.generic": {
+    "translation": "部署失败！"
+  },
+  "deploy.error.repoNameExists": {
+    "translation": "仓库名称已存在"
+  },
+  "deploy.error.repoNameRequired": {
+    "translation": "必须填写仓库名称"
+  },
+  "deploy.existing.desc": {
+    "translation": "新提交将被添加到 <tag-1>gh-pages</tag-1> 分支。"
+  },
+  "deploy.existing.heading": {
+    "translation": "现有仓库"
+  },
+  "deploy.existing.repoName": {
+    "translation": "仓库名称"
+  },
+  "deploy.generic.commitMessage": {
+    "translation": "提交信息"
+  },
+  "deploy.generic.commitSourceCodePublic": {
+    "translation": "提交源代码（公开）"
+  },
+  "deploy.generic.deployBtn": {
+    "translation": "部署"
+  },
+  "deploy.generic.deploying": {
+    "translation": "正在部署..."
+  },
+  "deploy.heading": {
+    "translation": "部署到 GitHub Pages"
+  },
+  "deploy.searchRepo": {
+    "translation": "搜索您的公开代码仓库..."
+  },
+  "editorSettings.closeBrackets": {
+    "translation": "自动闭合括号和引号"
+  },
+  "editorSettings.codeJarDesc": {
+    "translation": "<tag-1></tag-1> * 标记的功能在 CodeJar 中不可用。"
+  },
+  "editorSettings.default": {
+    "translation": "默认"
+  },
+  "editorSettings.desc": {
+    "translation": "<tag-1></tag-1> 请查看 <tag-2>文档</tag-2> 以了解详情。"
+  },
+  "editorSettings.editor.codejar": {
+    "translation": "CodeJar"
+  },
+  "editorSettings.editor.codemirror": {
+    "translation": "CodeMirror"
+  },
+  "editorSettings.editor.heading": {
+    "translation": "编辑器"
+  },
+  "editorSettings.editor.monaco": {
+    "translation": "Monaco"
+  },
+  "editorSettings.editorMode.emacs": {
+    "translation": "Emacs"
+  },
+  "editorSettings.editorMode.heading": {
+    "translation": "编辑器模式 *"
+  },
+  "editorSettings.editorMode.vim": {
+    "translation": "Vim"
+  },
+  "editorSettings.editorTheme": {
+    "translation": "编辑器主题"
+  },
+  "editorSettings.emmet": {
+    "translation": "启用 Emmet *"
+  },
+  "editorSettings.foldRegions": {
+    "translation": "折叠（收起）区域 *"
+  },
+  "editorSettings.fontFamily": {
+    "translation": "字体"
+  },
+  "editorSettings.fontSize": {
+    "translation": "字体大小"
+  },
+  "editorSettings.format": {
+    "translation": "格式化"
+  },
+  "editorSettings.heading": {
+    "translation": "编辑器设置"
+  },
+  "editorSettings.lineNumbers": {
+    "translation": "显示行号"
+  },
+  "editorSettings.lineNumbersRelative": {
+    "translation": "相对行号 *"
+  },
+  "editorSettings.minimap": {
+    "translation": "启用小地图*"
+  },
+  "editorSettings.notAvailableInCodeJar": {
+    "translation": "在 CodeJar 中不可用"
+  },
+  "editorSettings.preview": {
+    "translation": "预览"
+  },
+  "editorSettings.semicolons": {
+    "translation": "格式：使用分号"
+  },
+  "editorSettings.singleQuote": {
+    "translation": "格式：使用单引号"
+  },
+  "editorSettings.tabSize": {
+    "translation": "制表符大小"
+  },
+  "editorSettings.theme": {
+    "translation": "深色模式"
+  },
+  "editorSettings.trailingComma": {
+    "translation": "格式：使用尾随逗号"
+  },
+  "editorSettings.useTabs.heading": {
+    "translation": "缩进字符"
+  },
+  "editorSettings.useTabs.spaces": {
+    "translation": "空格"
+  },
+  "editorSettings.useTabs.tabs": {
+    "translation": "制表符（Tab）"
+  },
+  "editorSettings.wordWrap": {
+    "translation": "自动换行"
+  },
+  "embed.activeEditor.heading": {
+    "translation": "活动编辑器"
+  },
+  "embed.activeEditor.markup": {
+    "translation": "{{markup}}"
+  },
+  "embed.activeEditor.script": {
+    "translation": "{{script}}"
+  },
+  "embed.activeEditor.style": {
+    "translation": "{{style}}"
+  },
+  "embed.activeTool.compiled": {
+    "translation": "编译结果"
+  },
+  "embed.activeTool.console": {
+    "translation": "控制台"
+  },
+  "embed.activeTool.heading": {
+    "translation": "活动工具"
+  },
+  "embed.activeTool.tests": {
+    "translation": "测试"
+  },
+  "embed.code.copy": {
+    "translation": "复制代码"
+  },
+  "embed.code.heading": {
+    "translation": "代码"
+  },
+  "embed.codeEditor.codeJar": {
+    "translation": "CodeJar"
+  },
+  "embed.codeEditor.codeMirror": {
+    "translation": "CodeMirror"
+  },
+  "embed.codeEditor.default": {
+    "translation": "默认"
+  },
+  "embed.codeEditor.heading": {
+    "translation": "代码编辑器"
+  },
+  "embed.codeEditor.monaco": {
+    "translation": "Monaco"
+  },
+  "embed.desc": {
+    "translation": "请查看<tag-1>文档</tag-1>以了解高级配置。"
+  },
+  "embed.embedType.cdn": {
+    "translation": "脚本（CDN）"
+  },
+  "embed.embedType.heading": {
+    "translation": "嵌入类型"
+  },
+  "embed.embedType.html": {
+    "translation": "HTML"
+  },
+  "embed.embedType.iframe": {
+    "translation": "Iframe"
+  },
+  "embed.embedType.npm": {
+    "translation": "JS（npm）"
+  },
+  "embed.embedType.react": {
+    "translation": "React"
+  },
+  "embed.embedType.svelte": {
+    "translation": "Svelte"
+  },
+  "embed.embedType.vue": {
+    "translation": "Vue"
+  },
+  "embed.heading": {
+    "translation": "嵌入项目"
+  },
+  "embed.layout.heading": {
+    "translation": "布局"
+  },
+  "embed.layout.horizontal": {
+    "translation": "横向"
+  },
+  "embed.layout.responsive": {
+    "translation": "响应式"
+  },
+  "embed.layout.vertical": {
+    "translation": "纵向"
+  },
+  "embed.lite": {
+    "translation": "精简模式"
+  },
+  "embed.loading.click": {
+    "translation": "点击时"
+  },
+  "embed.loading.eager": {
+    "translation": "积极"
+  },
+  "embed.loading.heading": {
+    "translation": "加载"
+  },
+  "embed.loading.lazy": {
+    "translation": "延迟"
+  },
+  "embed.mode.codeblock": {
+    "translation": "代码块"
+  },
+  "embed.mode.editor": {
+    "translation": "编辑器"
+  },
+  "embed.mode.full": {
+    "translation": "完整"
+  },
+  "embed.mode.heading": {
+    "translation": "显示模式"
+  },
+  "embed.mode.result": {
+    "translation": "结果"
+  },
+  "embed.mode.simple": {
+    "translation": "简洁"
+  },
+  "embed.permanentUrl": {
+    "translation": "永久 URL"
+  },
+  "embed.preview": {
+    "translation": "预览"
+  },
+  "embed.previewLoading": {
+    "translation": "正在加载预览..."
+  },
+  "embed.readonly": {
+    "translation": "只读"
+  },
+  "embed.theme.dark": {
+    "translation": "深色"
+  },
+  "embed.theme.heading": {
+    "translation": "主题"
+  },
+  "embed.theme.light": {
+    "translation": "浅色"
+  },
+  "embed.tools.closed": {
+    "translation": "折叠"
+  },
+  "embed.tools.full": {
+    "translation": "完全展开"
+  },
+  "embed.tools.heading": {
+    "translation": "工具面板"
+  },
+  "embed.tools.none": {
+    "translation": "不显示"
+  },
+  "embed.tools.open": {
+    "translation": "展开"
+  },
+  "embed.view.editor": {
+    "translation": "编辑器"
+  },
+  "embed.view.heading": {
+    "translation": "默认视图"
+  },
+  "embed.view.result": {
+    "translation": "结果"
+  },
+  "embed.view.split": {
+    "translation": "分割"
+  },
+  "generic.about.blog": {
+    "translation": "博客"
+  },
+  "generic.about.configuration": {
+    "translation": "配置"
+  },
+  "generic.about.gettingStarted": {
+    "translation": "快速开始"
+  },
+  "generic.about.github": {
+    "translation": "GitHub"
+  },
+  "generic.about.sdk": {
+    "translation": "LiveCodes SDK"
+  },
+  "generic.about.sponsor": {
+    "translation": "赞助"
+  },
+  "generic.about.twitter": {
+    "translation": "𝕏 / Twitter"
+  },
+  "generic.clickForInfo": {
+    "translation": "点击以获取信息..."
+  },
+  "generic.close": {
+    "translation": "关闭"
+  },
+  "generic.custom": {
+    "translation": "自定义"
+  },
+  "generic.embed.logoHint": {
+    "translation": "在 LiveCodes 上编辑 🡕"
+  },
+  "generic.error.authentication": {
+    "translation": "身份验证错误！"
+  },
+  "generic.error.exceededSize": {
+    "translation": "错误：过大的文件大小 {{size}} MB"
+  },
+  "generic.error.failedToReadFile": {
+    "translation": "错误：读取文件失败"
+  },
+  "generic.loading": {
+    "translation": "正在加载 ..."
+  },
+  "generic.more": {
+    "translation": "更多..."
+  },
+  "generic.optional": {
+    "translation": "可选"
+  },
+  "generic.required": {
+    "translation": "必填"
+  },
+  "generic.tagline": {
+    "translation": "一个简单实用的代码运行环境！"
+  },
+  "import.bulk.desc": {
+    "translation": "将多个项目批量导入到您已保存的项目中。可以从<tag-1>已保存的项目</tag-1>屏幕导出项目。"
+  },
+  "import.bulk.fromFile": {
+    "translation": "从本地文件批量导入"
+  },
+  "import.bulk.fromURL": {
+    "translation": "从 URL 批量导入"
+  },
+  "import.bulk.heading": {
+    "translation": "批量导入"
+  },
+  "import.bulk.started": {
+    "translation": "批量导入已开始 ..."
+  },
+  "import.code.desc": {
+    "translation": "支持的来源： <tag-1> <tag-2>GitHub Gist</tag-2> <tag-3>GitHub 文件</tag-3> <tag-4>GitHub 仓库中的目录</tag-4> <tag-5>Gitlab Snippet</tag-5> <tag-6>Gitlab 文件</tag-6><tag-7>Gitlab 仓库中的目录</tag-7> <tag-8>JS Bin</tag-8><tag-9> 原始代码</tag-9> <tag-10>网页 DOM 中的代码 </tag-10> <tag-11>zip 文件中的代码</tag-11> <tag-12>图像中的代码 (OCR)</tag-12> <tag-13>官方样板<tag-14></tag-14>（TypeScript 和 Vue）</tag-13> </tag-1> 请访问<tag-15>文档</tag-15>以了解详细信息。"
+  },
+  "import.code.fromFile": {
+    "translation": "从本地文件导入"
+  },
+  "import.code.fromURL": {
+    "translation": "从 URL 导入"
+  },
+  "import.code.heading": {
+    "translation": "导入代码"
+  },
+  "import.error.failedToLoadURL": {
+    "translation": "错误：无法加载 URL"
+  },
+  "import.error.invalidConfigFile": {
+    "translation": "配置文件无效"
+  },
+  "import.error.invalidFile": {
+    "translation": "错误：文件无效"
+  },
+  "import.generic.file": {
+    "translation": "本地文件"
+  },
+  "import.generic.url": {
+    "translation": "URL"
+  },
+  "import.heading": {
+    "translation": "导入"
+  },
+  "import.json.desc": {
+    "translation": "将单个项目 JSON 导入编辑器。可以通过菜单&nbsp;→&nbsp;导出项目（JSON）中导出项目。"
+  },
+  "import.json.fromFile": {
+    "translation": "从本地文件导入项目"
+  },
+  "import.json.fromURL": {
+    "translation": "从 URL 导入项目"
+  },
+  "import.json.heading": {
+    "translation": "导入项目 JSON"
+  },
+  "import.success": {
+    "translation": "导入成功！"
+  },
+  "keyboardShortcuts.command": {
+    "translation": "命令"
+  },
+  "keyboardShortcuts.editorShortcuts": {
+    "translation": "请参见 <tag-1> VS Code 快捷键</tag-1> 以获取有关代码编辑器的所有快捷键。"
+  },
+  "keyboardShortcuts.heading": {
+    "translation": "键盘快捷键"
+  },
+  "keyboardShortcuts.key": {
+    "translation": "快捷键"
+  },
+  "login.accessAllowed": {
+    "translation": "允许访问："
+  },
+  "login.desc": {
+    "translation": "<tag-1>登录即表示您同意 <tag-2>Cookie</tag-2> 将可能存储在您的设备上。</tag-1><tag-3> <tag-4>为什么需要这些权限？</tag-4> </tag-3><tag-5> <tag-6>如何更改 / 撤销权限？</tag-6> </tag-5>"
+  },
+  "login.gist": {
+    "translation": "Gists"
+  },
+  "login.heading": {
+    "translation": "使用 GitHub 登录"
+  },
+  "login.loginAs": {
+    "translation": "以 {{name}} 的身份登录"
+  },
+  "login.loginBtn": {
+    "translation": "登录"
+  },
+  "login.logout": {
+    "translation": "登出"
+  },
+  "login.privateRepo": {
+    "translation": "私有仓库"
+  },
+  "login.publicRepo": {
+    "translation": "仓库"
+  },
+  "menu.about": {
+    "translation": "关于 ..."
+  },
+  "menu.appHelp.heading": {
+    "translation": "帮助"
+  },
+  "menu.appHelp.hint": {
+    "translation": "帮助"
+  },
+  "menu.appProject.heading": {
+    "translation": "项目"
+  },
+  "menu.appProject.hint": {
+    "translation": "项目"
+  },
+  "menu.appSettings.heading": {
+    "translation": "设置"
+  },
+  "menu.appSettings.hint": {
+    "translation": "应用程序设置"
+  },
+  "menu.assets": {
+    "translation": "资产 ..."
+  },
+  "menu.autoSave": {
+    "translation": "自动保存"
+  },
+  "menu.autoUpdate": {
+    "translation": "自动更新"
+  },
+  "menu.backup": {
+    "translation": "备份 / 恢复 ..."
+  },
+  "menu.blog": {
+    "translation": "LiveCodes 博客"
+  },
+  "menu.broadcast": {
+    "translation": "播送 ..."
+  },
+  "menu.commandMenu": {
+    "translation": "命令菜单"
+  },
+  "menu.config": {
+    "translation": "配置"
+  },
+  "menu.customSettings": {
+    "translation": "自定义设置 ..."
+  },
+  "menu.delay.heading": {
+    "translation": "延迟：<tag-1> 1.5 </tag-1> 秒"
+  },
+  "menu.delay.hint": {
+    "translation": "自动更新前的延迟"
+  },
+  "menu.deploy": {
+    "translation": "部署 ..."
+  },
+  "menu.docs": {
+    "translation": "文档"
+  },
+  "menu.editorSettings": {
+    "translation": "编辑器设置 ..."
+  },
+  "menu.embed": {
+    "translation": "嵌入 ..."
+  },
+  "menu.export.codepen": {
+    "translation": "在 CodePen 中编辑"
+  },
+  "menu.export.gist": {
+    "translation": "导出到 GitHub Gist"
+  },
+  "menu.export.heading": {
+    "translation": "导出"
+  },
+  "menu.export.jsfiddle": {
+    "translation": "在 JSFiddle 中编辑"
+  },
+  "menu.export.json": {
+    "translation": "导出项目（JSON）"
+  },
+  "menu.export.result": {
+    "translation": "导出结果页（HTML）"
+  },
+  "menu.export.src": {
+    "translation": "导出源代码（ZIP）"
+  },
+  "menu.features": {
+    "translation": "特性"
+  },
+  "menu.formatOnsave": {
+    "translation": "保存时格式化"
+  },
+  "menu.getstart": {
+    "translation": "快速开始"
+  },
+  "menu.import": {
+    "translation": "导入 ..."
+  },
+  "menu.keyboardShortcuts": {
+    "translation": "键盘快捷键"
+  },
+  "menu.layout": {
+    "translation": "垂直布局"
+  },
+  "menu.license": {
+    "translation": "许可证"
+  },
+  "menu.login": {
+    "translation": "登录"
+  },
+  "menu.logout": {
+    "translation": "登出"
+  },
+  "menu.new": {
+    "translation": "新建 ..."
+  },
+  "menu.open": {
+    "translation": "打开 ..."
+  },
+  "menu.project": {
+    "translation": "项目信息 ..."
+  },
+  "menu.recoverUnsaved": {
+    "translation": "恢复未保存的内容"
+  },
+  "menu.report": {
+    "translation": "报告问题"
+  },
+  "menu.resources": {
+    "translation": "外部资源 ..."
+  },
+  "menu.save": {
+    "translation": "保存"
+  },
+  "menu.saveAs.fork": {
+    "translation": "Fork（新项目）"
+  },
+  "menu.saveAs.heading": {
+    "translation": "另存为 ..."
+  },
+  "menu.saveAs.template": {
+    "translation": "模板"
+  },
+  "menu.sdk": {
+    "translation": "SDK"
+  },
+  "menu.share": {
+    "translation": "分享 ..."
+  },
+  "menu.showSpacing.heading": {
+    "translation": "显示间距"
+  },
+  "menu.showSpacing.hint": {
+    "translation": "按下 Alt/Option 并将光标移至结果页面以显示"
+  },
+  "menu.showWelcome.title": {
+    "translation": "启动时显示欢迎屏幕"
+  },
+  "menu.snippets": {
+    "translation": "代码片段 ..."
+  },
+  "menu.source": {
+    "translation": "GitHub 上的源代码"
+  },
+  "menu.sync": {
+    "translation": "同步（Beta 版）... <tag-1> ⏳</tag-1>"
+  },
+  "menu.theme": {
+    "translation": "深色主题"
+  },
+  "menu.themeColor": {
+    "translation": "颜色"
+  },
+  "menu.welcome.heading": {
+    "translation": "欢迎 ..."
+  },
+  "open.action.delete": {
+    "translation": "删除"
+  },
+  "open.defaultTemplate": {
+    "translation": "默认模板"
+  },
+  "open.delete.all": {
+    "translation": "删除 {{projects}} 个项目？"
+  },
+  "open.delete.deleting": {
+    "translation": "正在删除项目 ..."
+  },
+  "open.delete.one": {
+    "translation": "删除项目：{{project}} ？"
+  },
+  "open.deleteAll": {
+    "translation": "删除全部"
+  },
+  "open.exportAll": {
+    "translation": "导出全部"
+  },
+  "open.filter.language": {
+    "translation": "按语言筛选"
+  },
+  "open.filter.tag": {
+    "translation": "按标签筛选"
+  },
+  "open.heading": {
+    "translation": "已保存的项目"
+  },
+  "open.import": {
+    "translation": "导入"
+  },
+  "open.lastModified": {
+    "translation": "最后修改时间：{{modified}}"
+  },
+  "open.noData.desc": {
+    "translation": "您可以从菜单 &gt; 保存或通过键盘快捷键（Ctrl/⌘ + S）保存项目。"
+  },
+  "open.noData.heading": {
+    "translation": "您没有已保存的项目。"
+  },
+  "open.noMatch": {
+    "translation": "没有符合筛选条件的项目。"
+  },
+  "open.placeholder.allLanguages": {
+    "translation": "所有语言"
+  },
+  "open.placeholder.filterByTags": {
+    "translation": "按标签筛选"
+  },
+  "open.placeholder.search": {
+    "translation": "搜索"
+  },
+  "open.removeDefault": {
+    "translation": "（未设置）"
+  },
+  "open.reset": {
+    "translation": "重置"
+  },
+  "open.setAsDefault": {
+    "translation": "设为默认"
+  },
+  "open.sort.heading": {
+    "translation": "排序方式："
+  },
+  "open.sort.lastModified": {
+    "translation": "最后修改"
+  },
+  "open.sort.title": {
+    "translation": "标题"
+  },
+  "project.desc": {
+    "translation": "描述"
+  },
+  "project.head": {
+    "translation": "添加到 &lt;head&gt;"
+  },
+  "project.heading": {
+    "translation": "项目信息"
+  },
+  "project.htmlAttr": {
+    "translation": "&lt;html&gt; 属性"
+  },
+  "project.tags": {
+    "translation": "标签"
+  },
+  "project.title": {
+    "translation": "项目标题"
+  },
+  "recoverPrompt.desc": {
+    "translation": "您的最后一个项目存在尚未保存的更改！"
+  },
+  "recoverPrompt.heading": {
+    "translation": "恢复未保存的项目？"
+  },
+  "recoverPrompt.meta": {
+    "translation": "标题：<tag-1> </tag-1> <tag-2> </tag-2>最后修改时间：<tag-3> </tag-3>"
+  },
+  "recoverPrompt.notShowAgain": {
+    "translation": "不要再展示此内容。"
+  },
+  "recoverPrompt.prompt.discard": {
+    "translation": "丢弃未保存的项目"
+  },
+  "recoverPrompt.prompt.heading": {
+    "translation": "<tag-1> </tag-1>您想现在恢复吗？"
+  },
+  "recoverPrompt.prompt.recover": {
+    "translation": "将项目恢复到编辑器"
+  },
+  "recoverPrompt.prompt.save": {
+    "translation": "保存到设备并继续"
+  },
+  "resources.browseOnJsDelivr": {
+    "translation": "浏览 jsDelivr 上的软件包"
+  },
+  "resources.cssPresets.heading": {
+    "translation": "CSS 预设"
+  },
+  "resources.cssPresets.none": {
+    "translation": "无"
+  },
+  "resources.cssPresets.normalizeCss": {
+    "translation": "Normalize.css"
+  },
+  "resources.cssPresets.resetCss": {
+    "translation": "重置 CSS"
+  },
+  "resources.error.failedToLoadResults": {
+    "translation": "加载结果失败！"
+  },
+  "resources.error.noResultsFound": {
+    "translation": "未找到相关结果："
+  },
+  "resources.fonts.add": {
+    "translation": "添加"
+  },
+  "resources.fonts.heading": {
+    "translation": "字体<tag-1>（由 Google Fonts 提供）</tag-1>"
+  },
+  "resources.fonts.select": {
+    "translation": "选择字体 ..."
+  },
+  "resources.heading": {
+    "translation": "外部资源"
+  },
+  "resources.scripts": {
+    "translation": "外部脚本"
+  },
+  "resources.search.heading": {
+    "translation": "搜索软件包<tag-1>（由 jsDelivr 提供）</tag-1>"
+  },
+  "resources.search.placeholder": {
+    "translation": "例如 jquery, lodash@4, bootstrap@5.2.3, ..."
+  },
+  "resources.stylesheets": {
+    "translation": "外部样式"
+  },
+  "resources.urlDesc": {
+    "translation": "键入样式/脚本 URL。每个 URL 应位于单独的一行中。"
+  },
+  "resultMode.linkText": {
+    "translation": "在 LiveCodes 上编辑"
+  },
+  "savePrompt.heading": {
+    "translation": "未保存的更改"
+  },
+  "savePrompt.prompt.cancel": {
+    "translation": "取消"
+  },
+  "savePrompt.prompt.discard": {
+    "translation": "不保存"
+  },
+  "savePrompt.prompt.heading": {
+    "translation": "您所做的更改可能无法保存。 <tag-1> </tag-1>您想现在保存吗？"
+  },
+  "savePrompt.prompt.save": {
+    "translation": "保存"
+  },
+  "share.characters": {
+    "translation": "{{urlLength}} 字符"
+  },
+  "share.copy.clickToCopy": {
+    "translation": "点击以复制"
+  },
+  "share.copy.copied": {
+    "translation": "URL 已复制到剪贴板"
+  },
+  "share.encodedURL": {
+    "translation": "获取编码 URL"
+  },
+  "share.error.failedToCopy": {
+    "translation": "复制到剪贴板失败！"
+  },
+  "share.error.failedToGenerateURL": {
+    "translation": "生成短 URL 失败！"
+  },
+  "share.expireInOneYear": {
+    "translation": "1 年内有效"
+  },
+  "share.generateURL": {
+    "translation": "正在生成 URL ..."
+  },
+  "share.heading": {
+    "translation": "分享"
+  },
+  "share.permanentURL": {
+    "translation": "永久 URL"
+  },
+  "share.qrcode.clickToDownload": {
+    "translation": "点击以下载"
+  },
+  "share.qrcode.generating": {
+    "translation": "正在生成..."
+  },
+  "share.services.devTo": {
+    "translation": "Dev.to"
+  },
+  "share.services.email": {
+    "translation": "电子邮件"
+  },
+  "share.services.facebook": {
+    "translation": "Facebook"
+  },
+  "share.services.hackerNews": {
+    "translation": "Hacker News"
+  },
+  "share.services.linkedIn": {
+    "translation": "LinkedIn"
+  },
+  "share.services.pinterest": {
+    "translation": "Pinterest"
+  },
+  "share.services.pocket": {
+    "translation": "Pocket"
+  },
+  "share.services.qrCode": {
+    "translation": "二维码"
+  },
+  "share.services.reddit": {
+    "translation": "Reddit"
+  },
+  "share.services.share": {
+    "translation": "分享方式 ..."
+  },
+  "share.services.telegram": {
+    "translation": "Telegram"
+  },
+  "share.services.tumblr": {
+    "translation": "Tumblr"
+  },
+  "share.services.twitter": {
+    "translation": "𝕏 / Twitter"
+  },
+  "share.services.whatsApp": {
+    "translation": "WhatsApp"
+  },
+  "share.shortURL": {
+    "translation": "获取短 URL"
+  },
+  "snippets.action.copy": {
+    "translation": "复制"
+  },
+  "snippets.action.delete": {
+    "translation": "删除"
+  },
+  "snippets.action.edit": {
+    "translation": "编辑"
+  },
+  "snippets.add.code": {
+    "translation": "代码"
+  },
+  "snippets.add.desc": {
+    "translation": "描述"
+  },
+  "snippets.add.heading": {
+    "translation": "添加代码片段"
+  },
+  "snippets.add.language": {
+    "translation": "语言"
+  },
+  "snippets.add.save": {
+    "translation": "保存"
+  },
+  "snippets.add.snippets": {
+    "translation": "代码片段"
+  },
+  "snippets.add.title": {
+    "translation": "标题"
+  },
+  "snippets.copy.clickToCopySnippet": {
+    "translation": "点击以复制代码片段"
+  },
+  "snippets.copy.copied": {
+    "translation": "代码片段已复制到剪贴板。"
+  },
+  "snippets.delete.all": {
+    "translation": "删除 {{snippets}} 个代码片段？"
+  },
+  "snippets.delete.one": {
+    "translation": "删除代码片段：{{snippet}} ？"
+  },
+  "snippets.deleteAll": {
+    "translation": "删除全部"
+  },
+  "snippets.error.failedToCopy": {
+    "translation": "复制 URL 失败。"
+  },
+  "snippets.error.noTitle": {
+    "translation": "请为代码片段添加标题。"
+  },
+  "snippets.filter.language": {
+    "translation": "按语言筛选"
+  },
+  "snippets.heading": {
+    "translation": "代码片段"
+  },
+  "snippets.lastModified": {
+    "translation": "最后修改时间：{{modified}}"
+  },
+  "snippets.noMatch": {
+    "translation": "没有符合筛选条件的代码片段。"
+  },
+  "snippets.noSavedSnippets": {
+    "translation": "您没有已保存的代码片段。"
+  },
+  "snippets.placeholder.allLanguages": {
+    "translation": "所有语言"
+  },
+  "snippets.placeholder.search": {
+    "translation": "搜索"
+  },
+  "snippets.reset": {
+    "translation": "重置"
+  },
+  "snippets.save.success": {
+    "translation": "代码片段已本地保存至设备！"
+  },
+  "snippets.sort.date": {
+    "translation": "日期"
+  },
+  "snippets.sort.heading": {
+    "translation": "排序方式："
+  },
+  "snippets.sort.title": {
+    "translation": "标题"
+  },
+  "snippets.text": {
+    "translation": "纯文本"
+  },
+  "splash.loading": {
+    "translation": "正在加载 LiveCodes ..."
+  },
+  "sync.autoSync": {
+    "translation": "自动同步"
+  },
+  "sync.create.desc": {
+    "translation": "将创建一个新的<tag-1>私有</tag-1>仓库。您的 LiveCodes 本地数据将与 <tag-2>main</tag-2> 分支同步。"
+  },
+  "sync.create.heading": {
+    "translation": "创建新仓库"
+  },
+  "sync.create.repoName": {
+    "translation": "仓库名称"
+  },
+  "sync.error.generic": {
+    "translation": "同步失败！"
+  },
+  "sync.error.repoNameRequired": {
+    "translation": "必须填写仓库名称"
+  },
+  "sync.existing.desc": {
+    "translation": "您的 LiveCodes 本地数据将与 <tag-1>main</tag-1> 分支同步。"
+  },
+  "sync.existing.heading": {
+    "translation": "现有仓库"
+  },
+  "sync.existing.repoName": {
+    "translation": "仓库名称"
+  },
+  "sync.heading": {
+    "translation": "同步到 GitHub 仓库"
+  },
+  "sync.searchRepos": {
+    "translation": "搜索您的仓库..."
+  },
+  "sync.success": {
+    "translation": "同步完成！"
+  },
+  "sync.syncBtn": {
+    "translation": "同步"
+  },
+  "sync.syncInProgress": {
+    "translation": "同步进行中 ..."
+  },
+  "sync.syncStarted": {
+    "translation": "同步已开始..."
+  },
+  "templates.heading": {
+    "translation": "新项目"
+  },
+  "templates.noUserTemplates.desc": {
+    "translation": "您可以通过<tag-1></tag-1>（菜单&nbsp;&gt;&nbsp;另存为&nbsp;&gt;&nbsp;模板）将项目另存为模板。"
+  },
+  "templates.noUserTemplates.heading": {
+    "translation": "您没有已保存的模板。"
+  },
+  "templates.search.label": {
+    "translation": "在模板中搜索"
+  },
+  "templates.search.placeholder": {
+    "translation": "在模板中搜索..."
+  },
+  "templates.starter.angular": {
+    "translation": "Angular 启动模板"
+  },
+  "templates.starter.assemblyscript": {
+    "translation": "AssemblyScript 启动模板"
+  },
+  "templates.starter.astro": {
+    "translation": "Astro 启动模板"
+  },
+  "templates.starter.backbone": {
+    "translation": "Backbone 启动模板"
+  },
+  "templates.starter.blank": {
+    "translation": "空白项目"
+  },
+  "templates.starter.blockly": {
+    "translation": "Blockly 启动模板"
+  },
+  "templates.starter.bootstrap": {
+    "translation": "Bootstrap 启动模板"
+  },
+  "templates.starter.civet": {
+    "translation": "Civet 启动模板"
+  },
+  "templates.starter.clio": {
+    "translation": "Clio 启动模板"
+  },
+  "templates.starter.clojurescript": {
+    "translation": "ClojureScript 启动模板"
+  },
+  "templates.starter.coffeescript": {
+    "translation": "CoffeeScript 启动模板"
+  },
+  "templates.starter.commonlisp": {
+    "translation": "Common Lisp 启动模板"
+  },
+  "templates.starter.cpp": {
+    "translation": "C++ 启动模板"
+  },
+  "templates.starter.cpp-wasm": {
+    "translation": "C++（WASM）启动模板"
+  },
+  "templates.starter.csharp-wasm": {
+    "translation": "C#（WASM）启动模板"
+  },
+  "templates.starter.d3": {
+    "translation": "D3 启动模板"
+  },
+  "templates.starter.daisyui": {
+    "translation": "daisyUI 启动模板"
+  },
+  "templates.starter.diagrams": {
+    "translation": "图表启动模板"
+  },
+  "templates.starter.fennel": {
+    "translation": "Fennel 启动模板"
+  },
+  "templates.starter.gleam": {
+    "translation": "Gleam 启动模板"
+  },
+  "templates.starter.go": {
+    "translation": "Go 启动模板"
+  },
+  "templates.starter.go-wasm": {
+    "translation": "Go（WASM）启动模板"
+  },
+  "templates.starter.heading": {
+    "translation": "启动模板"
+  },
+  "templates.starter.imba": {
+    "translation": "Imba 启动模板"
+  },
+  "templates.starter.java": {
+    "translation": "Java 启动模板"
+  },
+  "templates.starter.javascript": {
+    "translation": "JavaScript 启动模板"
+  },
+  "templates.starter.jest": {
+    "translation": "Jest 启动模板"
+  },
+  "templates.starter.jest-react": {
+    "translation": "Jest/React 启动模板"
+  },
+  "templates.starter.jquery": {
+    "translation": "jQuery 启动模板"
+  },
+  "templates.starter.julia": {
+    "translation": "Julia 启动模板"
+  },
+  "templates.starter.knockout": {
+    "translation": "Knockout 启动模板"
+  },
+  "templates.starter.lit": {
+    "translation": "Lit 启动模板"
+  },
+  "templates.starter.livescript": {
+    "translation": "LiveScript 启动模板"
+  },
+  "templates.starter.loading": {
+    "translation": "正在加载启动模板..."
+  },
+  "templates.starter.lua": {
+    "translation": "Lua 启动模板"
+  },
+  "templates.starter.lua-wasm": {
+    "translation": "Lua（WASM）启动模板"
+  },
+  "templates.starter.malina": {
+    "translation": "Malina.js 启动模板"
+  },
+  "templates.starter.markdown": {
+    "translation": "Markdown 启动模板"
+  },
+  "templates.starter.mdx": {
+    "translation": "MDX 启动模板"
+  },
+  "templates.starter.minizinc": {
+    "translation": "MiniZinc 启动模板"
+  },
+  "templates.starter.ocaml": {
+    "translation": "Ocaml 启动模板"
+  },
+  "templates.starter.perl": {
+    "translation": "Perl 启动模板"
+  },
+  "templates.starter.phaser": {
+    "translation": "Phaser 启动模板"
+  },
+  "templates.starter.php": {
+    "translation": "PHP 启动模板"
+  },
+  "templates.starter.php-wasm": {
+    "translation": "PHP（WASM）启动模板"
+  },
+  "templates.starter.postgresql": {
+    "translation": "PostgreSQL 启动模板"
+  },
+  "templates.starter.preact": {
+    "translation": "Preact 启动模板"
+  },
+  "templates.starter.prolog": {
+    "translation": "Prolog 启动模板"
+  },
+  "templates.starter.python": {
+    "translation": "Python 启动模板"
+  },
+  "templates.starter.python-wasm": {
+    "translation": "Python（WASM）启动模板"
+  },
+  "templates.starter.r": {
+    "translation": "R 启动模板"
+  },
+  "templates.starter.react": {
+    "translation": "React 启动模板"
+  },
+  "templates.starter.react-native": {
+    "translation": "React Native 启动模板"
+  },
+  "templates.starter.reason": {
+    "translation": "Reason 启动模板"
+  },
+  "templates.starter.rescript": {
+    "translation": "ReScript 启动模板"
+  },
+  "templates.starter.riot": {
+    "translation": "Riot.js 启动模板"
+  },
+  "templates.starter.ruby": {
+    "translation": "Ruby 启动模板"
+  },
+  "templates.starter.ruby-wasm": {
+    "translation": "Ruby（Wasm）启动模板"
+  },
+  "templates.starter.scheme": {
+    "translation": "Scheme 启动模板"
+  },
+  "templates.starter.shadcnui": {
+    "translation": "shadcn/ui 启动模板"
+  },
+  "templates.starter.solid": {
+    "translation": "Solid 启动模板"
+  },
+  "templates.starter.sql": {
+    "translation": "SQL 启动模板"
+  },
+  "templates.starter.stencil": {
+    "translation": "Stencil 启动模板"
+  },
+  "templates.starter.svelte": {
+    "translation": "Svelte 启动模板"
+  },
+  "templates.starter.tailwindcss": {
+    "translation": "Tailwind CSS 启动模板"
+  },
+  "templates.starter.tcl": {
+    "translation": "Tcl 启动模板"
+  },
+  "templates.starter.teal": {
+    "translation": "Teal 启动模板"
+  },
+  "templates.starter.typescript": {
+    "translation": "TypeScript 启动模板"
+  },
+  "templates.starter.vue": {
+    "translation": "Vue 单文件组件启动模板"
+  },
+  "templates.starter.vue2": {
+    "translation": "Vue 2 启动模板"
+  },
+  "templates.starter.wat": {
+    "translation": "WebAssembly 启动模板"
+  },
+  "templates.user.heading": {
+    "translation": "我的模板"
+  },
+  "templates.user.loading": {
+    "translation": "正在加载用户模板..."
+  },
+  "testEditor.heading": {
+    "translation": "编辑测试"
+  },
+  "testEditor.load": {
+    "translation": "加载"
+  },
+  "testEditor.tests": {
+    "translation": "测试"
+  },
+  "testSettings.desc": {
+    "translation": "<tag-1></tag-1> 请查看 <tag-2>文档</tag-2> 以了解详情。"
+  },
+  "toolspane.close": {
+    "translation": "关闭"
+  },
+  "toolspane.compiled.title": {
+    "translation": "编译结果"
+  },
+  "toolspane.console.clear": {
+    "translation": "清除控制台"
+  },
+  "toolspane.console.title": {
+    "translation": "控制台"
+  },
+  "toolspane.test.edit": {
+    "translation": "编辑"
+  },
+  "toolspane.test.error": {
+    "translation": "<tag-1><tag-2>测试错误！</tag-2></tag-1>"
+  },
+  "toolspane.test.loading": {
+    "translation": "<tag-1>正在加载测试... </tag-1>"
+  },
+  "toolspane.test.noTest": {
+    "translation": "<tag-1>该项目没有测试！</tag-1>"
+  },
+  "toolspane.test.reset": {
+    "translation": "重置"
+  },
+  "toolspane.test.run.desc": {
+    "translation": "Ctrl/⌘ + Alt + T"
+  },
+  "toolspane.test.run.heading": {
+    "translation": "运行"
+  },
+  "toolspane.test.summary.desc": {
+    "translation": "测试： {{failed}}\n       {{passed}}\n       {{skipped}}\n       {{total}}<tag-1></tag-1>\n耗时：{{duration}} 秒"
+  },
+  "toolspane.test.summary.failed": {
+    "translation": "失败 {{failedNum}}"
+  },
+  "toolspane.test.summary.passed": {
+    "translation": "通过 {{passedNum}}"
+  },
+  "toolspane.test.summary.skipped": {
+    "translation": "已跳过 {{skippedNum}}"
+  },
+  "toolspane.test.summary.total": {
+    "translation": "总计 {{totalNum}}"
+  },
+  "toolspane.test.title": {
+    "translation": "测试"
+  },
+  "toolspane.test.watch.desc": {
+    "translation": "在代码更改时运行测试"
+  },
+  "toolspane.test.watch.heading": {
+    "translation": "监听"
+  },
+  "welcome.about.documentation": {
+    "translation": "文档"
+  },
+  "welcome.about.heading": {
+    "translation": "关于 LiveCodes"
+  },
+  "welcome.heading": {
+    "translation": "欢迎"
+  },
+  "welcome.recent.heading": {
+    "translation": "最近"
+  },
+  "welcome.recover.cancel": {
+    "translation": "取消"
+  },
+  "welcome.recover.heading": {
+    "translation": "恢复"
+  },
+  "welcome.recover.lastModified": {
+    "translation": "最后修改时间："
+  },
+  "welcome.recover.recover": {
+    "translation": "恢复"
+  },
+  "welcome.recover.save": {
+    "translation": "保存"
+  },
+  "welcome.recover.unsavedChanges": {
+    "translation": "您的上一个项目有未保存的更改："
+  },
+  "welcome.showOnStartup": {
+    "translation": "启动时显示"
+  },
+  "welcome.start.heading": {
+    "translation": "开始"
+  },
+  "welcome.start.import": {
+    "translation": "导入..."
+  },
+  "welcome.start.loadDefaultTemplate": {
+    "translation": "加载默认模板"
+  },
+  "welcome.start.new": {
+    "translation": "新建..."
+  },
+  "welcome.start.noDefaultTemplate": {
+    "translation": "无默认模板"
+  },
+  "welcome.start.open": {
+    "translation": "打开..."
+  },
+  "welcome.templates.heading": {
+    "translation": "启动模板"
+  }
+}

@@ -1,0 +1,786 @@
+{
+  "$comment": "ATTENTION: This file is auto-generated from source code. Do not edit manually!",
+  "artTemplate.desc": {
+    "translation": "اعلی کارکردگی والا جاوا اسکرپٹ ٹیمپلیٹنگ انجن۔"
+  },
+  "artTemplate.link": {
+    "translation": "<tag-1> <tag-2>آرٹ-ٹیمپلیٹ کی سرکاری ویب سائٹ</tag-2> </tag-1> <tag-3> <tag-4>آرٹ-ٹیمپلیٹ کی دستاویزات</tag-4> </tag-3>"
+  },
+  "artTemplate.name": {
+    "translation": "آرٹ-ٹیمپلیٹ"
+  },
+  "asciidoc.desc": {
+    "translation": "ایسکی ڈاک کو ایسکی ڈاکٹر کے ذریعے HTML میں تبدیل کیا گیا۔"
+  },
+  "asciidoc.link": {
+    "translation": "<tag-1> <tag-2>ایسکی ڈاک کی سرکاری ویب سائٹ</tag-2> </tag-1> <tag-3> <tag-4>ایسکی ڈاکٹر کی سرکاری ویب سائٹ</tag-4> </tag-3> <tag-5> <tag-6>ایسکی ڈاکٹر کی دستاویزات</tag-6> </tag-5> <tag-7> <tag-8>X کو Y منٹ میں سیکھیں، جہاں X = ایسکی ڈاک</tag-8> </tag-7>"
+  },
+  "asciidoc.name": {
+    "translation": "ایسکی ڈاک"
+  },
+  "assemblyscript.desc": {
+    "translation": "ویب اسمبلی کے لیے ٹائپ اسکرپٹ جیسی زبان۔"
+  },
+  "assemblyscript.link": {
+    "translation": "<tag-1> <tag-2>اسمبلی اسکرپٹ کی سرکاری ویب سائٹ</tag-2> </tag-1> <tag-3> <tag-4>اسمبلی اسکرپٹ کی دستاویزات</tag-4> </tag-3> <tag-5> <tag-6>ابتدائی سانچہ لوڈ کریں</tag-6> </tag-5>"
+  },
+  "assemblyscript.name": {
+    "translation": "اسمبلی اسکرپٹ"
+  },
+  "astro.desc": {
+    "translation": "کم کلائنٹ-سائڈ جاوا اسکرپٹ کے ساتھ تیز تر ویب سائٹس بنائیں۔ (ابھی بھی بیٹا میں ہے)"
+  },
+  "astro.link": {
+    "translation": "<tag-1> <tag-2>ایسٹرو کی سرکاری ویب سائٹ</tag-2> </tag-1> <tag-3> <tag-4>ایسٹرو کی دستاویزات</tag-4> </tag-3> <tag-5> <tag-6>ابتدائی سانچہ لوڈ کریں</tag-6> </tag-5>"
+  },
+  "astro.name": {
+    "translation": "ایسٹرو"
+  },
+  "babel.desc": {
+    "translation": "جاوا اسکرپٹ کمپائلر"
+  },
+  "babel.link": {
+    "translation": "<tag-1><tag-2>سرکاری ویب سائٹ</tag-2></tag-1> <tag-3> <tag-4>بابل کی دستاویزات</tag-4> </tag-3>"
+  },
+  "babel.name": {
+    "translation": "بابل"
+  },
+  "bbcode.desc": {
+    "translation": "بی بی کوڈ (\"بلیٹن بورڈ کوڈ\") ایک ہلکی مارک اپ زبان ہے جو بہت سے انٹرنیٹ فورم سافٹ ویئر میں پیغامات کو فارمیٹ کرنے کے لیے استعمال ہوتی ہے۔"
+  },
+  "bbcode.link": {
+    "translation": "<tag-1><tag-2>bbcode.org</tag-2></tag-1> <tag-3> <tag-4>بی بی کوڈ گائیڈ</tag-4> </tag-3> <tag-5> <tag-6>ویکیپیڈیا پر بی بی کوڈ</tag-6> </tag-5>"
+  },
+  "bbcode.name": {
+    "translation": "بی بی کوڈ"
+  },
+  "blockly.desc": {
+    "translation": "بصری پروگرامنگ ایڈیٹرز بنانے کے لیے ایک جاوا اسکرپٹ لائبریری۔"
+  },
+  "blockly.link": {
+    "translation": "<tag-1> <tag-2>سرکاری ویب سائٹ</tag-2> </tag-1> <tag-3> <tag-4>رہنما</tag-4> </tag-3> <tag-5> <tag-6>حوالہ</tag-6> </tag-5> <tag-7> <tag-8>نمونے</tag-8> </tag-7> <tag-9> <tag-10>ابتدائی سانچہ لوڈ کریں</tag-10> </tag-9>"
+  },
+  "blockly.name": {
+    "translation": "بلاکلی"
+  },
+  "civet.desc": {
+    "translation": "سیوٹ ایک پروگرامنگ زبان ہے جو ٹائپ اسکرپٹ یا جاوا اسکرپٹ میں کمپائل ہوتی ہے، تاکہ آپ موجودہ ٹولنگ استعمال کر سکیں لیکن مختصر اور طاقتور نحو کو فعال کر سکیں۔"
+  },
+  "civet.link": {
+    "translation": "<tag-1> <tag-2>سیوٹ کی سرکاری ویب سائٹ</tag-2> </tag-1> <tag-3> <tag-4>سیوٹ چیٹ شیٹ</tag-4> </tag-3> <tag-5> <tag-6>ابتدائی سانچہ لوڈ کریں</tag-6> </tag-5>"
+  },
+  "civet.name": {
+    "translation": "سیوٹ"
+  },
+  "clio.desc": {
+    "translation": "کلیو ایک تیز، تقسیم شدہ، فنکشنل پروگرامنگ زبان ہے جو جاوا اسکرپٹ میں کمپائل ہوتی ہے۔"
+  },
+  "clio.link": {
+    "translation": "<tag-1> <tag-2>کلیو کی سرکاری ویب سائٹ</tag-2> </tag-1> <tag-3> <tag-4>کلیو کی دستاویزات</tag-4> </tag-3> <tag-5> <tag-6>ابتدائی سانچہ لوڈ کریں</tag-6> </tag-5>"
+  },
+  "clio.name": {
+    "translation": "کلیو"
+  },
+  "clojurescript.desc": {
+    "translation": "کلوجر اسکرپٹ <tag-1>کلوجر</tag-1> کے لیے ایک کمپائلر ہے جو جاوا اسکرپٹ کو ہدف بناتا ہے۔ <tag-2></tag-2>لائیو کوڈز میں، یہ براؤزر میں <tag-3>چیری</tag-3> کا استعمال کرتے ہوئے چلتا ہے۔"
+  },
+  "clojurescript.link": {
+    "translation": "<tag-1> <tag-2>کلوجر اسکرپٹ کی سرکاری ویب سائٹ</tag-2> </tag-1> <tag-3> <tag-4>کلوجر کی سرکاری ویب سائٹ</tag-4> </tag-3> <tag-5> <tag-6>چیری ریپوزٹری</tag-6> </tag-5> <tag-7> <tag-8>X کو Y منٹ میں سیکھیں، جہاں X=کلوجر</tag-8> </tag-7> <tag-9> <tag-10>لائیو کوڈز دستاویزات</tag-10> </tag-9> <tag-11> <tag-12>ابتدائی سانچہ لوڈ کریں</tag-12> </tag-11>"
+  },
+  "clojurescript.name": {
+    "translation": "کلوجر اسکرپٹ (سی ایل جے ایس)"
+  },
+  "coffeescript.desc": {
+    "translation": "سادہ جاوا اسکرپٹ۔"
+  },
+  "coffeescript.link": {
+    "translation": "<tag-1> <tag-2>کافی اسکرپٹ کی سرکاری ویب سائٹ</tag-2> </tag-1> <tag-3> <tag-4>X کو Y منٹ میں سیکھیں، جہاں X=کافی اسکرپٹ</tag-4> </tag-3> <tag-5> <tag-6>ابتدائی سانچہ لوڈ کریں</tag-6> </tag-5>"
+  },
+  "coffeescript.name": {
+    "translation": "کافی اسکرپٹ"
+  },
+  "commonlisp.desc": {
+    "translation": "جے ایس سی ایل (کامن لسپ سے بوٹ سٹریپ کیا گیا لسپ-ٹو-جاوا اسکرپٹ کمپائلر) کا استعمال کرتے ہوئے جاوا اسکرپٹ پر کامن لسپ کا نفاذ۔"
+  },
+  "commonlisp.link": {
+    "translation": "<tag-1> <tag-2>کامن-لسپ.نیٹ</tag-2> </tag-1> <tag-3> <tag-4>جے ایس سی ایل پروجیکٹ</tag-4> </tag-3> <tag-5> <tag-6>کامن لسپ وسائل</tag-6> </tag-5> <tag-7> <tag-8>X کو Y منٹ میں سیکھیں، جہاں X=کامن لسپ</tag-8> </tag-7> <tag-9> <tag-10>ابتدائی سانچہ لوڈ کریں</tag-10> </tag-9>"
+  },
+  "commonlisp.name": {
+    "translation": "کامن لسپ"
+  },
+  "cpp.desc1": {
+    "translation": "جے ایس سی پی پی (جاوا اسکرپٹ میں لکھا گیا ایک سادہ سی++ انٹرپریٹر) کا استعمال کرتے ہوئے سی++ کی معاونت۔"
+  },
+  "cpp.desc2": {
+    "translation": "یہ سی++ کا مکمل نفاذ نہیں ہے۔ تفصیلات کے لیے براہ کرم <tag-1>جے ایس سی پی پی دستاویزات</tag-1> سے رجوع کریں۔"
+  },
+  "cpp.link": {
+    "translation": "<tag-1> <tag-2>معیاری سی++ فاؤنڈیشن</tag-2> </tag-1> <tag-3> <tag-4>جے ایس سی پی پی</tag-4> </tag-3> <tag-5> <tag-6>X کو Y منٹ میں سیکھیں، جہاں X=سی++</tag-6> </tag-5> <tag-7> <tag-8>ابتدائی سانچہ لوڈ کریں</tag-8> </tag-7>"
+  },
+  "cpp.name": {
+    "translation": "سی++"
+  },
+  "cppWasm.desc": {
+    "translation": "ویب اسمبلی پر چلنے والا کلینگ سی/سی++ کمپائلر، <tag-1>ڈبلیو اے ایس ایم-کلینگ</tag-1> کا استعمال کرتے ہوئے جسے <tag-2>پولی لینگ.آئی او</tag-2> نے اپنایا ہے۔"
+  },
+  "cppWasm.link": {
+    "translation": "<tag-1> <tag-2>معیاری سی++ فاؤنڈیشن</tag-2> </tag-1> <tag-3> <tag-4>کلینگ کی سرکاری ویب سائٹ</tag-4> </tag-3> <tag-5> <tag-6>X کو Y منٹ میں سیکھیں، جہاں X=سی++</tag-6> </tag-5> <tag-7> <tag-8>ابتدائی سانچہ لوڈ کریں</tag-8> </tag-7>"
+  },
+  "cppWasm.name": {
+    "translation": "سی/سی++ (ڈبلیو اے ایس ایم)"
+  },
+  "csharpWasm.desc": {
+    "translation": "سی # کمپائلر ویب اسمبلی پر چل رہا ہے، استعمال کر رہا ہے <tag-1>Blazor</tag-1>"
+  },
+  "csharpWasm.link": {
+    "translation": "<tag-1> <tag-2> C# زبان کی دستاویزات </tag-2> </tag-1> <tag-3> <tag-4> Y منٹوں میں X سیکھیں، جہاں X=C# </tag-4> </tag-3> <tag-5> <tag-6> LiveCodes ڈاکومینٹیشن </tag-6> </tag-5> <tag-7> <tag-8> </tag-8> شروع کریں </tag-7>"
+  },
+  "csharpWasm.name": {
+    "translation": "C# (Wasm)"
+  },
+  "diagrams.desc1": {
+    "translation": "(تجرباتی)"
+  },
+  "diagrams.desc2": {
+    "translation": "کوڈ کے طور پر خاکے۔ معاونت کرتا ہے:"
+  },
+  "diagrams.desc3": {
+    "translation": "<tag-1> <tag-2>سائٹو اسکیپ</tag-2> </tag-1> <tag-3> <tag-4>ای ایل کے</tag-4> (<tag-5>ایلک جے ایس</tag-5> کا استعمال کرتے ہوئے) </tag-3> <tag-6> <tag-7>جی این یو پلاٹ</tag-7> (<tag-8>جی این یو پلاٹ-جے ایس</tag-8> کا استعمال کرتے ہوئے) </tag-6> <tag-9> <tag-10>گراف وز</tag-10> (<tag-11>@ایچ پی سی سی-جے ایس/ڈبلیو اے ایس ایم</tag-11> کا استعمال کرتے ہوئے) </tag-9> <tag-12> <tag-13>مرمیڈ</tag-13> </tag-12> <tag-14> <tag-15>نوم نوم ایل</tag-15> </tag-14> <tag-16> <tag-17>پنٹورا</tag-17> </tag-16> <tag-18> <tag-19>پلاٹلی</tag-19> </tag-18> <tag-20> <tag-21>ایس وی جی باب</tag-21> </tag-20> <tag-22> <tag-23>ویگا</tag-23> </tag-22> <tag-24> <tag-25>ویگا لائٹ</tag-25> </tag-24> <tag-26> <tag-27>ویو ڈروم</tag-27> </tag-26>"
+  },
+  "diagrams.link": {
+    "translation": "<tag-1> <tag-2>ابتدائی سانچہ لوڈ کریں</tag-2> </tag-1> <tag-3> <tag-4>لائیو کوڈز دستاویزات</tag-4> </tag-3>"
+  },
+  "diagrams.name": {
+    "translation": "خاکے"
+  },
+  "dot.desc": {
+    "translation": "نوڈ.جے ایس اور براؤزرز کے لیے سب سے تیز + مختصر جاوا اسکرپٹ ٹیمپلیٹ انجن۔"
+  },
+  "dot.link": {
+    "translation": "<tag-1> <tag-2>سرکاری ویب سائٹ</tag-2> </tag-1> <tag-3> <tag-4>لائیو کوڈز دستاویزات</tag-4> </tag-3>"
+  },
+  "dot.name": {
+    "translation": "ڈاٹ.جے ایس"
+  },
+  "ejs.desc": {
+    "translation": "ایمبیڈڈ جاوا اسکرپٹ ٹیمپلیٹنگ۔"
+  },
+  "ejs.link": {
+    "translation": "<tag-1><tag-2>سرکاری ویب سائٹ</tag-2></tag-1> <tag-3> <tag-4>لائیو کوڈز دستاویزات</tag-4> </tag-3>"
+  },
+  "ejs.name": {
+    "translation": "ای جے ایس"
+  },
+  "eta.desc": {
+    "translation": "نوڈ، ڈینو، اور براؤزر کے لیے ایمبیڈڈ جے ایس ٹیمپلیٹ انجن۔ ہلکا، تیز، اور پلگ ایبل۔ ٹائپ اسکرپٹ میں لکھا گیا۔"
+  },
+  "eta.link": {
+    "translation": "<tag-1><tag-2>سرکاری ویب سائٹ</tag-2></tag-1> <tag-3> <tag-4>دستاویزات</tag-4> </tag-3> <tag-5> <tag-6>لائیو کوڈز دستاویزات</tag-6> </tag-5>"
+  },
+  "eta.name": {
+    "translation": "ایٹا"
+  },
+  "fennel.desc": {
+    "translation": "فینل ایک پروگرامنگ زبان ہے جو لوا کی رفتار، سادگی اور پہنچ کو لسپ نحو اور میکرو سسٹم کی لچک کے ساتھ جمع کرتی ہے۔"
+  },
+  "fennel.link": {
+    "translation": "<tag-1> <tag-2>فینل کی سرکاری ویب سائٹ</tag-2> </tag-1> <tag-3> <tag-4>فینل کے ساتھ شروعات</tag-4> </tag-3> <tag-5> <tag-6>لائیو کوڈز دستاویزات</tag-6> </tag-5> <tag-7> <tag-8>ابتدائی سانچہ لوڈ کریں</tag-8> </tag-7>"
+  },
+  "fennel.name": {
+    "translation": "فینل"
+  },
+  "flow.desc": {
+    "translation": "فلو جاوا اسکرپٹ کے لیے ایک اسٹیٹک ٹائپ چیکر ہے۔"
+  },
+  "flow.link": {
+    "translation": "<tag-1> <tag-2>فلو کی سرکاری ویب سائٹ</tag-2> </tag-1> <tag-3> <tag-4>فلو کی دستاویزات</tag-4> </tag-3>"
+  },
+  "flow.name": {
+    "translation": "فلو"
+  },
+  "gleam.desc1": {
+    "translation": "گلیم ٹائپ-محفوظ نظام بنانے کے لیے ایک دوستانہ زبان ہے جو پیمانہ بناتی ہے!"
+  },
+  "gleam.desc2": {
+    "translation": "گلیم ایک اسٹیٹکلی-ٹائپڈ فنکشنل پروگرامنگ زبان ہے، جو ارلانگ یا جاوا اسکرپٹ میں کمپائل ہوتی ہے۔"
+  },
+  "gleam.link": {
+    "translation": "<tag-1><tag-2>گلیم ویب سائٹ</tag-2></tag-1> <tag-3> <tag-4>گلیم دستاویزات</tag-4> </tag-3> <tag-5> <tag-6>گلیم زبان کا دورہ</tag-6> </tag-5> <tag-7> <tag-8>ابتدائی سانچہ لوڈ کریں</tag-8> </tag-7>"
+  },
+  "gleam.name": {
+    "translation": "گلیم"
+  },
+  "go.desc1": {
+    "translation": "گو (گولانگ) ایک اوپن سورس پروگرامنگ زبان ہے جو سادہ، قابل اعتماد، اور موثر سافٹ ویئر بنانے کو آسان بناتی ہے۔"
+  },
+  "go.desc2": {
+    "translation": "یہاں، یہ گوفر جے ایس کا استعمال کرتے ہوئے جاوا اسکرپٹ میں کمپائل کیا جاتا ہے۔"
+  },
+  "go.link": {
+    "translation": "<tag-1><tag-2>گو ویب سائٹ</tag-2></tag-1> <tag-3><tag-4>گو دستاویزات</tag-4></tag-3> <tag-5> <tag-6>گوفر جے ایس ریپو</tag-6> </tag-5> <tag-7> <tag-8>X کو Y منٹ میں سیکھیں، جہاں X=گو</tag-8> </tag-7> <tag-9><tag-10>ابتدائی سانچہ لوڈ کریں</tag-10></tag-9>"
+  },
+  "go.name": {
+    "translation": "گو"
+  },
+  "goWasm.desc": {
+    "translation": "Yaegi کا استعمال کرتے ہوئے WebAssembly پر چلنے والے مترجم پر جائیں۔"
+  },
+  "goWasm.link": {
+    "translation": "<tag-1><tag-2>سرکاری ویب سائٹ پر جائیں</tag-2></tag-1> <tag-3><tag-4>یگی</tag-4></tag-3> <tag-5> <tag-6>Y منٹ میں X سیکھیں ، جہاں X = Go</tag-6> </tag-5> <tag-7> <tag-8>لائیو کوڈز دستاویزات</tag-8> </tag-7> <tag-9> <tag-10>لوڈ اسٹارٹر سانچہ</tag-10> </tag-9>"
+  },
+  "goWasm.name": {
+    "translation": "Go (Wasm)"
+  },
+  "haml.desc": {
+    "translation": "کلائنٹ سائیڈ جاوا اسکرپٹ ویو ٹیمپلیٹس کے لیے کلائنٹ سائیڈ-ہیمل-جے ایس کا استعمال کرتے ہوئے ہیمل کمپائلر۔"
+  },
+  "haml.link": {
+    "translation": "<tag-1><tag-2>ہیمل کی سرکاری ویب سائٹ</tag-2></tag-1> <tag-3> <tag-4>ہیمل دستاویزات</tag-4> </tag-3> <tag-5> <tag-6>کلائنٹ سائیڈ-ہیمل-جے ایس گٹ ہب ریپو</tag-6> </tag-5> <tag-7> <tag-8>X کو Y منٹ میں سیکھیں، جہاں X=ہیمل</tag-8> </tag-7> <tag-9> <tag-10>لائیو کوڈز دستاویزات</tag-10> </tag-9>"
+  },
+  "haml.name": {
+    "translation": "ہیمل"
+  },
+  "handlebars.desc": {
+    "translation": "اسٹیرائڈز پر کم از کم ٹیمپلیٹنگ۔"
+  },
+  "handlebars.link": {
+    "translation": "<tag-1><tag-2>سرکاری ویب سائٹ</tag-2></tag-1> <tag-3> <tag-4>لائیو کوڈز دستاویزات</tag-4> </tag-3>"
+  },
+  "handlebars.name": {
+    "translation": "ہینڈل بارز"
+  },
+  "imba.desc": {
+    "translation": "دوستانہ فل-اسٹیک زبان۔"
+  },
+  "imba.link": {
+    "translation": "<tag-1><tag-2>سرکاری ویب سائٹ</tag-2></tag-1>"
+  },
+  "imba.name": {
+    "translation": "امبا"
+  },
+  "java.desc": {
+    "translation": "DoppioJVM کا استعمال کرتے ہوئے براؤزر میں JVM چل رہا ہے۔"
+  },
+  "java.link": {
+    "translation": "<tag-1> <tag-2> Java آفیشل ویب سائٹ </tag-2> </tag-1> <tag-3> <tag-4> DoppioJVM </tag-4> </tag-3> <tag-5> <tag-6> Y منٹ میں X سیکھیں، جہاں X=java </tag-6> </tag-5> <tag-7> <tag-8> </tag-8> </tag-7> شروع کریں"
+  },
+  "java.name": {
+    "translation": "Java"
+  },
+  "javascript.desc": {
+    "translation": "ویب کی سکرپٹ کی زبان۔"
+  },
+  "javascript.link": {
+    "translation": "<tag-1> <tag-2>MDN پر جاوا اسکرپٹ</tag-2> </tag-1> <tag-3> <tag-4>Y منٹ میں X سیکھیں، جہاں X=JavaScript</tag-4> </tag-3> <tag-5> <tag-6>LiveCodes دستاویزی</tag-6> </tag-5> <tag-7> <tag-8>اسٹارٹر ٹیمپلیٹ لوڈ کریں۔</tag-8> </tag-7>"
+  },
+  "javascript.name": {
+    "translation": "JavaScript"
+  },
+  "jinja.desc": {
+    "translation": "جنجا ایک تیز، اظہار خیال، توسیع پذیر ٹیمپلیٹنگ انجن ہے."
+  },
+  "jinja.link": {
+    "translation": "<tag-1> <tag-2> آفیشل ویب سائٹ </tag-2> </tag-1> <tag-3> <tag-4> ٹیمپلیٹ دستاویزات </tag-4> </tag-3> <tag-5> <tag-6> JavaScript کا نفاذ </tag-6> </tag-5> <tag-7> <tag-8> LiveCodes Dog- </tag-7> > </tag-8>"
+  },
+  "jinja.name": {
+    "translation": "Jinja"
+  },
+  "jsx.desc": {
+    "translation": "جے ایس ایکس کو لائیو کوڈز میں ٹائپ اسکرپٹ کمپائلر کا استعمال کرتے ہوئے جاوا اسکرپٹ میں کمپائل کیا جاتا ہے۔ ڈیفالٹ طور پر یہ جے ایس ایکس رن ٹائم کے طور پر ری ایکٹ کا استعمال کرتا ہے۔"
+  },
+  "jsx.link": {
+    "translation": "<tag-1> <tag-2>ری ایکٹ کی سرکاری ویب سائٹ</tag-2> </tag-1> <tag-3> <tag-4>ری ایکٹ دستاویزات میں جے ایس ایکس</tag-4> </tag-3> <tag-5> <tag-6>لائیو کوڈز دستاویزات</tag-6> </tag-5>"
+  },
+  "jsx.name": {
+    "translation": "جے ایس ایکس"
+  },
+  "julia.desc1": {
+    "translation": "(لائیو کوڈز میں جولیا زبان کی معاونت ابھی بھی تجرباتی ہے)"
+  },
+  "julia.desc2": {
+    "translation": "ڈبلیو اے ایس ایم پر چلنے والا جولیا کمپائلر اور جولیا بیس، <tag-1>جولیا-ڈبلیو اے ایس ایم</tag-1> کا استعمال کرتے ہوئے جسے <tag-2>پولی لینگ.آئی او</tag-2> نے اپنایا ہے۔"
+  },
+  "julia.link": {
+    "translation": "<tag-1> <tag-2>جولیا کی سرکاری ویب سائٹ</tag-2> </tag-1> <tag-3> <tag-4>جولیا دستاویزات</tag-4> </tag-3> <tag-5> <tag-6>X کو Y منٹ میں سیکھیں، جہاں X=جولیا</tag-6> </tag-5> <tag-7> <tag-8>ابتدائی سانچہ لوڈ کریں</tag-8> </tag-7>"
+  },
+  "julia.name": {
+    "translation": "جولیا"
+  },
+  "less.desc": {
+    "translation": "یہ سی ایس ایس ہے، بس تھوڑا سا زیادہ کے ساتھ۔"
+  },
+  "less.link": {
+    "translation": "<tag-1><tag-2>لیس کی سرکاری ویب سائٹ</tag-2></tag-1> <tag-3> <tag-4>X کو Y منٹ میں سیکھیں، جہاں X=لیس</tag-4> </tag-3>"
+  },
+  "less.name": {
+    "translation": "لیس"
+  },
+  "liquid.desc": {
+    "translation": "ایک سادہ، اظہاری اور محفوظ ٹیمپلیٹ انجن۔"
+  },
+  "liquid.link": {
+    "translation": "<tag-1> <tag-2>لیکوڈ جے ایس کی سرکاری ویب سائٹ</tag-2> </tag-1> <tag-3> <tag-4>لیکوڈ جے ایس دستاویزات</tag-4> </tag-3> <tag-5> <tag-6>لائیو کوڈز دستاویزات</tag-6> </tag-5>"
+  },
+  "liquid.name": {
+    "translation": "لیکوڈ جے ایس"
+  },
+  "livescript.desc": {
+    "translation": "ایک زبان جو جاوا اسکرپٹ میں کمپائل ہوتی ہے۔"
+  },
+  "livescript.link": {
+    "translation": "<tag-1> <tag-2>لائیو اسکرپٹ کی سرکاری ویب سائٹ</tag-2> </tag-1> <tag-3> <tag-4>X کو Y منٹ میں سیکھیں، جہاں X=لائیو اسکرپٹ</tag-4> </tag-3> <tag-5> <tag-6>ابتدائی سانچہ لوڈ کریں</tag-6> </tag-5>"
+  },
+  "livescript.name": {
+    "translation": "لائیو اسکرپٹ"
+  },
+  "lua.desc": {
+    "translation": "فینگاری-ویب کا استعمال کرتے ہوئے براؤزر میں چلنے والا لوا۔"
+  },
+  "lua.link": {
+    "translation": "<tag-1><tag-2>لوا کی سرکاری ویب سائٹ</tag-2></tag-1> <tag-3> <tag-4>لوا دستاویزات</tag-4> </tag-3> <tag-5> <tag-6>فینگاری کی سرکاری ویب سائٹ</tag-6> </tag-5> <tag-7> <tag-8>فینگاری-ویب گٹ ہب ریپو</tag-8> </tag-7> <tag-9> <tag-10>X کو Y منٹ میں سیکھیں، جہاں X=لوا</tag-10> </tag-9> <tag-11> <tag-12>لائیو کوڈز دستاویزات</tag-12> </tag-11> <tag-13><tag-14>ابتدائی سانچہ لوڈ کریں</tag-14></tag-13>"
+  },
+  "lua.name": {
+    "translation": "لوا"
+  },
+  "luaWasm.desc": {
+    "translation": "واسمون کا استعمال کرتے ہوئے براؤزر میں چلنے والا لوا، جو ویب اسمبلی کے ساتھ بنایا گیا جے ایس بائنڈنگز والا ایک حقیقی لوا 5.4 وی ایم ہے۔"
+  },
+  "luaWasm.link": {
+    "translation": "<tag-1><tag-2>لوا کی سرکاری ویب سائٹ</tag-2></tag-1> <tag-3> <tag-4>لوا دستاویزات</tag-4> </tag-3> <tag-5> <tag-6>واسمون گٹ ہب ریپو</tag-6> </tag-5> <tag-7> <tag-8>X کو Y منٹ میں سیکھیں، جہاں X=لوا</tag-8> </tag-7> <tag-9> <tag-10>لائیو کوڈز دستاویزات</tag-10> </tag-9> <tag-11> <tag-12>ابتدائی سانچہ لوڈ کریں</tag-12> </tag-11>"
+  },
+  "luaWasm.name": {
+    "translation": "لوا (ڈبلیو اے ایس ایم)"
+  },
+  "malina.desc": {
+    "translation": "سویلٹ سے متاثر فرنٹ اینڈ کمپائلر۔"
+  },
+  "malina.link": {
+    "translation": "<tag-1> <tag-2>ملینا.جے ایس ریپو</tag-2> </tag-1> <tag-3> <tag-4>ملینا.جے ایس دستاویزات</tag-4> </tag-3> <tag-5> <tag-6>ابتدائی سانچہ لوڈ کریں</tag-6> </tag-5>"
+  },
+  "malina.name": {
+    "translation": "ملینا.جے ایس"
+  },
+  "markdown.desc": {
+    "translation": "مارکڈ کا استعمال کرتے ہوئے مارک ڈاؤن کو ایچ ٹی ایم ایل میں کمپائل کیا گیا۔"
+  },
+  "markdown.link": {
+    "translation": "<tag-1> <tag-2>مارک ڈاؤن کی سرکاری ویب سائٹ</tag-2> </tag-1> <tag-3> <tag-4>مارکڈ دستاویزات</tag-4> </tag-3> <tag-5> <tag-6>X کو Y منٹ میں سیکھیں، جہاں X=مارک ڈاؤن</tag-6> </tag-5> <tag-7> <tag-8>ابتدائی سانچہ لوڈ کریں</tag-8> </tag-7>"
+  },
+  "markdown.name": {
+    "translation": "مارک ڈاؤن"
+  },
+  "mdx.desc": {
+    "translation": "کمپوننٹ دور کے لیے مارک ڈاؤن۔ <tag-1></tag-1>ایم ڈی ایکس آپ کو اپنے مارک ڈاؤن دستاویزات میں آسانی سے جے ایس ایکس لکھنے کی اجازت دیتا ہے۔"
+  },
+  "mdx.link": {
+    "translation": "<tag-1><tag-2>ایم ڈی ایکس دستاویزات</tag-2></tag-1> <tag-3><tag-4>ابتدائی سانچہ لوڈ کریں</tag-4></tag-3>"
+  },
+  "mdx.name": {
+    "translation": "ایم ڈی ایکس"
+  },
+  "minizinc.desc": {
+    "translation": "MiniZinc ایک اعلی سطحی رکاوٹ ماڈلنگ زبان ہے جو آپ کو آسانی سے ظاہر کرنے اور مجرد اصلاحی مسائل کو حل کرنے کی اجازت دیتی ہے۔"
+  },
+  "minizinc.link": {
+    "translation": "<tag-1> <tag-2>MiniZinc آفیشل ویب سائٹ</tag-2> </tag-1> <tag-3> <tag-4>MiniZinc دستاویزات</tag-4> </tag-3> <tag-5> <tag-6>MiniZinc ٹیوٹوریل</tag-6> </tag-5> <tag-7> <tag-8>LiveCodes دستاویزات</tag-8> </tag-7> <tag-9> <tag-10>اسٹارٹر ٹیمپلیٹ لوڈ کریں۔</tag-10> </tag-9>"
+  },
+  "minizinc.name": {
+    "translation": "MiniZinc"
+  },
+  "mjml.desc": {
+    "translation": "ایم جے ایم ایل ایک مارک اپ زبان ہے جو ریسپانسیو ای میل کوڈنگ کی تکلیف کو کم کرنے کے لیے ڈیزائن کی گئی ہے۔"
+  },
+  "mjml.link": {
+    "translation": "<tag-1><tag-2>ایم جے ایم ایل کی سرکاری ویب سائٹ</tag-2></tag-1> <tag-3> <tag-4>ایم جے ایم ایل دستاویزات</tag-4> </tag-3> <tag-5> <tag-6>ایم جے ایم ایل کے سرکاری سانچے</tag-6> </tag-5> <tag-7> <tag-8>لائیو کوڈز دستاویزات</tag-8> </tag-7>"
+  },
+  "mjml.name": {
+    "translation": "ایم جے ایم ایل"
+  },
+  "mustache.desc": {
+    "translation": "منطق سے پاک سانچے۔"
+  },
+  "mustache.link": {
+    "translation": "<tag-1> <tag-2>سرکاری ویب سائٹ</tag-2> </tag-1> <tag-3> <tag-4>مسٹیش(5) مینوئل</tag-4> </tag-3> <tag-5> <tag-6>جاوا اسکرپٹ نفاذ</tag-6> </tag-5> <tag-7> <tag-8>لائیو کوڈز دستاویزات</tag-8> </tag-7>"
+  },
+  "mustache.name": {
+    "translation": "مسٹیش"
+  },
+  "nunjucks.desc": {
+    "translation": "جاوا اسکرپٹ کے لیے ایک امیر اور طاقتور ٹیمپلیٹنگ زبان۔ نن جکس بنیادی طور پر <tag-1>جنجا2</tag-1> کا ایک پورٹ ہے۔"
+  },
+  "nunjucks.link": {
+    "translation": "<tag-1> <tag-2>سرکاری ویب سائٹ</tag-2> </tag-1> <tag-3> <tag-4>لائیو کوڈز دستاویزات</tag-4> </tag-3>"
+  },
+  "nunjucks.name": {
+    "translation": "نن جکس"
+  },
+  "ocaml.desc1": {
+    "translation": "او کیمل ایک صنعتی طاقت کی پروگرامنگ زبان ہے جو فنکشنل، امپیریٹیو اور آبجیکٹ اورینٹڈ طرزوں کی معاونت کرتی ہے۔"
+  },
+  "ocaml.desc2": {
+    "translation": "یہاں او کیمل کو جاوا اسکرپٹ میں کمپائل کرنے کے لیے ری اسکرپٹ کمپائلر کا استعمال کیا جاتا ہے۔"
+  },
+  "ocaml.link": {
+    "translation": "<tag-1><tag-2>او کیمل ویب سائٹ</tag-2></tag-1> <tag-3> <tag-4>او کیمل دستاویزات</tag-4> </tag-3> <tag-5> <tag-6>ری اسکرپٹ ویب سائٹ</tag-6> </tag-5> <tag-7> <tag-8>X کو Y منٹ میں سیکھیں، جہاں X=او کیمل</tag-8> </tag-7> <tag-9> <tag-10>ابتدائی سانچہ لوڈ کریں</tag-10> </tag-9>"
+  },
+  "ocaml.name": {
+    "translation": "او کیمل"
+  },
+  "perl.desc": {
+    "translation": "پرلیٹو کا استعمال کرتے ہوئے براؤزر میں چلنے والا پرل۔"
+  },
+  "perl.link": {
+    "translation": "<tag-1> <tag-2>پرل کی سرکاری ویب سائٹ</tag-2> </tag-1> <tag-3> <tag-4>پرل دستاویزات</tag-4> </tag-3> <tag-5> <tag-6>پرلیٹو5 ریڈمی</tag-6> </tag-5> <tag-7> <tag-8>X کو Y منٹ میں سیکھیں، جہاں X=پرل</tag-8> </tag-7> <tag-9> <tag-10>ابتدائی سانچہ لوڈ کریں</tag-10> </tag-9>"
+  },
+  "perl.name": {
+    "translation": "پرل"
+  },
+  "php.desc": {
+    "translation": "یونائٹر کا استعمال کرتے ہوئے براؤزر میں چلنے والا پی ایچ پی۔"
+  },
+  "php.link": {
+    "translation": "<tag-1><tag-2>پی ایچ پی کی سرکاری ویب سائٹ</tag-2></tag-1> <tag-3> <tag-4>پی ایچ پی دستاویزات</tag-4> </tag-3> <tag-5> <tag-6>یونائٹر گٹ ہب ریپو</tag-6> </tag-5> <tag-7> <tag-8>X کو Y منٹ میں سیکھیں، جہاں X=پی ایچ پی</tag-8> </tag-7> <tag-9> <tag-10>لائیو کوڈز دستاویزات</tag-10> </tag-9> <tag-11><tag-12>ابتدائی سانچہ لوڈ کریں</tag-12></tag-11>"
+  },
+  "php.name": {
+    "translation": "پی ایچ پی"
+  },
+  "phpWasm.desc": {
+    "translation": "پی ایچ پی-ڈبلیو اے ایس ایم کا استعمال کرتے ہوئے، ویب اسمبلی کے ذریعے براؤزر میں پی ایچ پی۔"
+  },
+  "phpWasm.link": {
+    "translation": "<tag-1><tag-2>پی ایچ پی کی سرکاری ویب سائٹ</tag-2></tag-1> <tag-3> <tag-4>پی ایچ پی دستاویزات</tag-4> </tag-3> <tag-5> <tag-6>پی ایچ پی-ڈبلیو اے ایس ایم گٹ ہب ریپو</tag-6> </tag-5> <tag-7> <tag-8>X کو Y منٹ میں سیکھیں، جہاں X=پی ایچ پی</tag-8> </tag-7> <tag-9> <tag-10>لائیو کوڈز دستاویزات</tag-10> </tag-9> <tag-11> <tag-12>ابتدائی سانچہ لوڈ کریں</tag-12> </tag-11>"
+  },
+  "phpWasm.name": {
+    "translation": "پی ایچ پی (ڈبلیو اے ایس ایم)"
+  },
+  "postgresql.desc": {
+    "translation": "پی جی لائٹ کا استعمال کرتے ہوئے ڈبلیو اے ایس ایم کے طور پر پیکیج کیا گیا پوسٹگریس کیو ایل"
+  },
+  "postgresql.link": {
+    "translation": "<tag-1> <tag-2>پوسٹگریس کیو ایل کی سرکاری ویب سائٹ</tag-2> </tag-1> <tag-3> <tag-4>پوسٹگریس کیو ایل دستاویزات</tag-4> </tag-3> <tag-5> <tag-6>پی جی لائٹ گٹ ہب ریپو</tag-6> </tag-5> <tag-7> <tag-8>X کو Y منٹ میں سیکھیں، جہاں X=ایس کیو ایل</tag-8> </tag-7> <tag-9> <tag-10>ابتدائی سانچہ لوڈ کریں</tag-10> </tag-9>"
+  },
+  "postgresql.name": {
+    "translation": "پوسٹگریس کیو ایل"
+  },
+  "prolog.desc": {
+    "translation": "جاوا اسکرپٹ میں ایک اوپن سورس پرولوگ انٹرپریٹر۔"
+  },
+  "prolog.link": {
+    "translation": "<tag-1> <tag-2>ٹاؤ پرولوگ کی سرکاری ویب سائٹ</tag-2> </tag-1> <tag-3> <tag-4>ٹاؤ پرولوگ دستاویزات</tag-4> </tag-3> <tag-5> <tag-6>ایس ڈبلیو آئی-پرولوگ</tag-6> </tag-5> <tag-7> <tag-8>X کو Y منٹ میں سیکھیں، جہاں X=پرولوگ</tag-8> </tag-7> <tag-9> <tag-10>ابتدائی سانچہ لوڈ کریں</tag-10> </tag-9>"
+  },
+  "prolog.name": {
+    "translation": "ٹاؤ پرولوگ"
+  },
+  "pug.desc": {
+    "translation": "مضبوط، شاندار، خصوصیات سے بھرپور ٹیمپلیٹ انجن۔"
+  },
+  "pug.link": {
+    "translation": "<tag-1> <tag-2>پگ دستاویزات</tag-2> </tag-1> <tag-3> <tag-4>X کو Y منٹ میں سیکھیں، جہاں X=پگ</tag-4> </tag-3> <tag-5> <tag-6>لائیو کوڈز دستاویزات</tag-6> </tag-5>"
+  },
+  "pug.name": {
+    "translation": "پگ"
+  },
+  "python.desc": {
+    "translation": "برائٹھن کا استعمال کرتے ہوئے براؤزر میں چلنے والا پائتھن۔"
+  },
+  "python.link": {
+    "translation": "<tag-1> <tag-2>پائتھن کی سرکاری ویب سائٹ</tag-2> </tag-1> <tag-3> <tag-4>پائتھن دستاویزات</tag-4> </tag-3> <tag-5> <tag-6>برائٹھن دستاویزات</tag-6> </tag-5> <tag-7> <tag-8>X کو Y منٹ میں سیکھیں، جہاں X=پائتھن</tag-8> </tag-7> <tag-9> <tag-10>لائیو کوڈز دستاویزات</tag-10> </tag-9> <tag-11> <tag-12>ابتدائی سانچہ لوڈ کریں</tag-12> </tag-11>"
+  },
+  "python.name": {
+    "translation": "پائتھن"
+  },
+  "pythonWasm.desc1": {
+    "translation": "پایوڈائڈ کا استعمال کرتے ہوئے ویب اسمبلی میں کمپائل کردہ سائنسی اسٹیک کے ساتھ پائتھن۔"
+  },
+  "pythonWasm.desc2": {
+    "translation": "پایوڈائڈ نمپی، پانڈاز، میٹ پلاٹ لب، سائپی، سائکٹ-لرن اور بہت کچھ سمیت پائتھن سائنسی اسٹیک کو استعمال کرنے کی اجازت دیتا ہے۔ اس کے علاوہ پی وائی پی آئی سے خالص پائتھن وہیلز کو انسٹال کرنا ممکن ہے۔"
+  },
+  "pythonWasm.link": {
+    "translation": "<tag-1> <tag-2>پائتھن کی سرکاری ویب سائٹ</tag-2> </tag-1> <tag-3> <tag-4>پائتھن دستاویزات</tag-4> </tag-3> <tag-5><tag-6>پایوڈائڈ دستاویزات</tag-6></tag-5> <tag-7> <tag-8>X کو Y منٹ میں سیکھیں، جہاں X=پائتھن</tag-8> </tag-7> <tag-9> <tag-10>لائیو کوڈز دستاویزات</tag-10> </tag-9> <tag-11> <tag-12>ابتدائی سانچہ لوڈ کریں</tag-12> </tag-11>"
+  },
+  "pythonWasm.name": {
+    "translation": "پائتھن (ڈبلیو اے ایس ایم)"
+  },
+  "r.desc": {
+    "translation": "ویب آر کا استعمال کرتے ہوئے براؤزر میں چلنے والا آر۔"
+  },
+  "r.link": {
+    "translation": "<tag-1> <tag-2>آر پروجیکٹ کی سرکاری ویب سائٹ</tag-2> </tag-1> <tag-3> <tag-4>آر مینوئلز</tag-4> </tag-3> <tag-5> <tag-6>ڈیٹا سائنس کے لیے آر (دوسرا ایڈیشن)</tag-6> </tag-5> <tag-7> <tag-8>ویب آر دستاویزات</tag-8> </tag-7> <tag-9> <tag-10>X کو Y منٹ میں سیکھیں، جہاں X=آر</tag-10> </tag-9> <tag-11> <tag-12>لائیو کوڈز دستاویزات</tag-12> </tag-11> <tag-13> <tag-14>ابتدائی سانچہ لوڈ کریں</tag-14> </tag-13>"
+  },
+  "r.name": {
+    "translation": "آر"
+  },
+  "react.desc": {
+    "translation": "React Compiler ایک بلڈ-ٹائم ٹول ہے جو خود کار طریقے سے React ایپس کو بہتر بناتا ہے۔"
+  },
+  "react.link": {
+    "translation": "<tag-1> <tag-2>React کی سرکاری ویب سائٹ</tag-2> </tag-1> <tag-3> <tag-4>React کمپائلر</tag-4> </tag-3> <tag-5> <tag-6>LiveCodes دستاویزات</tag-6> </tag-5> <tag-7> <tag-8>ابتدائی سانچہ لوڈ کریں</tag-8> </tag-7>"
+  },
+  "react.name": {
+    "translation": "ری ایکٹ کمپائلر"
+  },
+  "reactNative.desc": {
+    "translation": "ری ایکٹ نیٹیو فار ویب ری ایکٹ نیٹیو کے اجزاء اور اے پی آئیز کا ایک قابل رسائی نفاذ ہے جو ری ایکٹ ڈی او ایم کے ساتھ باہمی تعامل کرنے والا ہے۔"
+  },
+  "reactNative.link": {
+    "translation": "<tag-1> <tag-2>ری ایکٹ کی سرکاری ویب سائٹ</tag-2> </tag-1> <tag-3> <tag-4>ری ایکٹ نیٹیو ویب سائٹ</tag-4> </tag-3> <tag-5> <tag-6>ری ایکٹ نیٹیو فار ویب ویب سائٹ</tag-6> </tag-5> <tag-7> <tag-8>ری ایکٹ نیٹیو دستاویزات</tag-8> </tag-7> <tag-9> <tag-10>لائیو کوڈز دستاویزات</tag-10> </tag-9> <tag-11> <tag-12>ابتدائی سانچہ لوڈ کریں</tag-12> </tag-11>"
+  },
+  "reactNative.name": {
+    "translation": "ری ایکٹ نیٹیو فار ویب"
+  },
+  "reactNativeTsx.desc": {
+    "translation": "ری ایکٹ نیٹیو فار ویب ری ایکٹ نیٹیو کے اجزاء اور اے پی آئیز کا ایک قابل رسائی نفاذ ہے جو ری ایکٹ ڈی او ایم کے ساتھ باہمی تعامل کرنے والا ہے۔"
+  },
+  "reactNativeTsx.link": {
+    "translation": "<tag-1> <tag-2>ری ایکٹ کی سرکاری ویب سائٹ</tag-2> </tag-1> <tag-3> <tag-4>ری ایکٹ نیٹیو ویب سائٹ</tag-4> </tag-3> <tag-5> <tag-6>ری ایکٹ نیٹیو فار ویب ویب سائٹ</tag-6> </tag-5> <tag-7> <tag-8>ری ایکٹ نیٹیو دستاویزات</tag-8> </tag-7> <tag-9> <tag-10>ٹائپ اسکرپٹ ویب سائٹ</tag-10> </tag-9> <tag-11> <tag-12>ٹائپ اسکرپٹ دستاویزات</tag-12> </tag-11> <tag-13> <tag-14>لائیو کوڈز دستاویزات</tag-14> </tag-13> <tag-15> <tag-16>ابتدائی سانچہ لوڈ کریں (جے ایس ایکس)</tag-16> </tag-15>"
+  },
+  "reactNativeTsx.name": {
+    "translation": "ری ایکٹ نیٹیو فار ویب (ٹائپ اسکرپٹ کے ساتھ)"
+  },
+  "reactTsx.desc": {
+    "translation": "React Compiler ایک بلڈ-ٹائم ٹول ہے جو خود کار طریقے سے React ایپس کو بہتر بناتا ہے۔"
+  },
+  "reactTsx.link": {
+    "translation": "<tag-1> <tag-2>React کی سرکاری ویب سائٹ</tag-2> </tag-1> <tag-3> <tag-4>React کمپائلر</tag-4> </tag-3> <tag-5> <tag-6>TypeScript ویب سائٹ</tag-6> </tag-5> <tag-7> <tag-8>TypeScript دستاویزات</tag-8> </tag-7> <tag-9> <tag-10>LiveCodes دستاویزات</tag-10> </tag-9> <tag-11> <tag-12>ابتدائی سانچہ لوڈ کریں (JSX)</tag-12> </tag-11>"
+  },
+  "reactTsx.name": {
+    "translation": "React کمپائلر (TypeScript کے ساتھ)"
+  },
+  "reason.desc1": {
+    "translation": "ریزن آپ کو جاوا اسکرپٹ اور او کیمل دونوں ماحولیاتی نظاموں کا فائدہ اٹھاتے ہوئے سادہ، تیز اور معیاری قسم محفوظ کوڈ لکھنے کی اجازت دیتا ہے۔"
+  },
+  "reason.desc2": {
+    "translation": "یہاں ریزن کو جاوا اسکرپٹ میں کمپائل کرنے کے لیے ری اسکرپٹ کمپائلر کا استعمال کیا جاتا ہے۔"
+  },
+  "reason.link": {
+    "translation": "<tag-1><tag-2>ریزن ویب سائٹ</tag-2></tag-1> <tag-3> <tag-4>ریزن دستاویزات</tag-4> </tag-3> <tag-5> <tag-6>ریزن ری ایکٹ</tag-6> </tag-5> <tag-7> <tag-8>ری اسکرپٹ ویب سائٹ</tag-8> </tag-7> <tag-9> <tag-10>X کو Y منٹ میں سیکھیں، جہاں X=ریزن</tag-10> </tag-9> <tag-11> <tag-12>ابتدائی سانچہ لوڈ کریں</tag-12> </tag-11>"
+  },
+  "reason.name": {
+    "translation": "ریزن"
+  },
+  "rescript.desc": {
+    "translation": "ری اسکرپٹ ایک مضبوطی سے ٹائپ کی گئی زبان ہے جو موثر اور انسانی پڑھنے کے قابل جاوا اسکرپٹ میں کمپائل ہوتی ہے۔"
+  },
+  "rescript.link": {
+    "translation": "<tag-1> <tag-2>ری اسکرپٹ ویب سائٹ</tag-2> </tag-1> <tag-3> <tag-4>ری اسکرپٹ / ری ایکٹ</tag-4> </tag-3> <tag-5> <tag-6>ابتدائی سانچہ لوڈ کریں</tag-6> </tag-5>"
+  },
+  "rescript.name": {
+    "translation": "ری اسکرپٹ"
+  },
+  "richtext.desc1": {
+    "translation": "کوئل کا استعمال کرتے ہوئے:"
+  },
+  "richtext.desc2": {
+    "translation": "آپ کا طاقتور رچ ٹیکسٹ ایڈیٹر۔"
+  },
+  "richtext.link": {
+    "translation": "<tag-1> <tag-2>کوئل کی سرکاری ویب سائٹ</tag-2> </tag-1>"
+  },
+  "richtext.name": {
+    "translation": "رچ ٹیکسٹ ایڈیٹر"
+  },
+  "riot.desc": {
+    "translation": "سادہ اور خوبصورت کمپوننٹ پر مبنی یو آئی لائبریری۔"
+  },
+  "riot.link": {
+    "translation": "<tag-1> <tag-2>رائٹ.جے ایس کی سرکاری ویب سائٹ</tag-2> </tag-1> <tag-3> <tag-4>رائٹ.جے ایس دستاویزات</tag-4> </tag-3> <tag-5> <tag-6>ابتدائی سانچہ لوڈ کریں</tag-6> </tag-5>"
+  },
+  "riot.name": {
+    "translation": "رائٹ.جے ایس"
+  },
+  "ruby.desc": {
+    "translation": "اوپال کا استعمال کرتے ہوئے براؤزر میں چلنے والا روبی۔"
+  },
+  "ruby.link": {
+    "translation": "<tag-1> <tag-2>روبی کی سرکاری ویب سائٹ</tag-2> </tag-1> <tag-3> <tag-4>روبی دستاویزات</tag-4> </tag-3> <tag-5><tag-6>اوپال کی سرکاری ویب سائٹ</tag-6></tag-5> <tag-7> <tag-8>اوپال معیاری لائبریری سی ڈی این</tag-8> </tag-7> <tag-9> <tag-10>X کو Y منٹ میں سیکھیں، جہاں X=روبی</tag-10> </tag-9> <tag-11> <tag-12>لائیو کوڈز دستاویزات</tag-12> </tag-11> <tag-13> <tag-14>ابتدائی سانچہ لوڈ کریں</tag-14> </tag-13>"
+  },
+  "ruby.name": {
+    "translation": "روبی"
+  },
+  "rubyWasm.desc": {
+    "translation": "روبی-ڈبلیو اے ایس ایم (سی روبی کے ویب اسمبلی پورٹس کا ایک مجموعہ) کا استعمال کرتے ہوئے براؤزر میں چلنے والا روبی۔"
+  },
+  "rubyWasm.link": {
+    "translation": "<tag-1> <tag-2>روبی کی سرکاری ویب سائٹ</tag-2> </tag-1> <tag-3> <tag-4>روبی دستاویزات</tag-4> </tag-3> <tag-5> <tag-6>روبی.ڈبلیو اے ایس ایم ویب سائٹ</tag-6> </tag-5> <tag-7><tag-8>سی روبی</tag-8></tag-7> <tag-9> <tag-10>X کو Y منٹ میں سیکھیں، جہاں X=روبی</tag-10> </tag-9> <tag-11> <tag-12>لائیو کوڈز دستاویزات</tag-12> </tag-11> <tag-13> <tag-14>ابتدائی سانچہ لوڈ کریں</tag-14> </tag-13>"
+  },
+  "rubyWasm.name": {
+    "translation": "روبی (ڈبلیو اے ایس ایم)"
+  },
+  "sass.desc": {
+    "translation": "نحوی طور پر شاندار اسٹائل شیٹس۔"
+  },
+  "sass.link": {
+    "translation": "<tag-1> <tag-2>ساس کی سرکاری ویب سائٹ</tag-2> </tag-1> <tag-3> <tag-4>ساس دستاویزات</tag-4> </tag-3> <tag-5> <tag-6>ساس (انڈینٹڈ) نحو</tag-6> </tag-5> <tag-7> <tag-8>X کو Y منٹ میں سیکھیں، جہاں X=ساس</tag-8> </tag-7>"
+  },
+  "sass.name": {
+    "translation": "ساس"
+  },
+  "scheme.desc": {
+    "translation": "بیوا اسکیم کا استعمال کرتے ہوئے براؤزر میں چلنے والا اسکیم۔"
+  },
+  "scheme.link": {
+    "translation": "<tag-1> <tag-2>اسکیم پروگرامنگ زبان</tag-2> </tag-1> <tag-3> <tag-4>بیوا اسکیم کی سرکاری ویب سائٹ</tag-4> </tag-3> <tag-5> <tag-6>بیوا اسکیم حوالہ</tag-6> </tag-5> <tag-7> <tag-8>ابتدائی سانچہ لوڈ کریں</tag-8> </tag-7>"
+  },
+  "scheme.name": {
+    "translation": "اسکیم"
+  },
+  "scss.desc": {
+    "translation": "نحوی طور پر شاندار اسٹائل شیٹس۔"
+  },
+  "scss.link": {
+    "translation": "<tag-1> <tag-2>ساس کی سرکاری ویب سائٹ</tag-2> </tag-1> <tag-3> <tag-4>ساس دستاویزات</tag-4> </tag-3> <tag-5> <tag-6>ایس سی ایس ایس نحو</tag-6> </tag-5> <tag-7> <tag-8>X کو Y منٹ میں سیکھیں، جہاں X=ساس</tag-8> </tag-7>"
+  },
+  "scss.name": {
+    "translation": "ایس سی ایس ایس"
+  },
+  "solid.desc": {
+    "translation": "صارف انٹرفیس بنانے کے لیے ایک اعلانیہ، موثر اور لچکدار جاوا اسکرپٹ لائبریری۔"
+  },
+  "solid.link": {
+    "translation": "<tag-1><tag-2>سرکاری ویب سائٹ</tag-2></tag-1> <tag-3><tag-4>دستاویزات</tag-4></tag-3> <tag-5> <tag-6>لائیو کوڈز دستاویزات</tag-6> </tag-5> <tag-7> <tag-8>ابتدائی سانچہ لوڈ کریں (ٹی ایس ایکس)</tag-8> </tag-7>"
+  },
+  "solid.name": {
+    "translation": "سولڈ"
+  },
+  "solid.tsx.desc": {
+    "translation": "صارف انٹرفیس بنانے کے لیے ایک اعلانیہ، موثر اور لچکدار جاوا اسکرپٹ لائبریری۔"
+  },
+  "solid.tsx.link": {
+    "translation": "<tag-1><tag-2>سرکاری ویب سائٹ</tag-2></tag-1> <tag-3> <tag-4>سولڈ دستاویزات</tag-4> </tag-3> <tag-5> <tag-6>ٹائپ اسکرپٹ ویب سائٹ</tag-6> </tag-5> <tag-7> <tag-8>ٹائپ اسکرپٹ دستاویزات</tag-8> </tag-7> <tag-9> <tag-10>لائیو کوڈز دستاویزات</tag-10> </tag-9> <tag-11> <tag-12>ابتدائی سانچہ لوڈ کریں</tag-12> </tag-11>"
+  },
+  "solid.tsx.name": {
+    "translation": "سولڈ (ٹائپ اسکرپٹ کے ساتھ)"
+  },
+  "sql.desc": {
+    "translation": "SQL.js کا استعمال کرتے ہوئے جاوا اسکرپٹ میں مرتب کیا گیا SQLite"
+  },
+  "sql.link": {
+    "translation": "<tag-1> <tag-2>SQLite کی سرکاری ویب سائٹ</tag-2> </tag-1> <tag-3> <tag-4>SQLite سنٹیکس دستاویزات</tag-4> </tag-3> <tag-5> <tag-6>SQL.js کی سرکاری ویب سائٹ</tag-6> </tag-5> <tag-7> <tag-8>X کو Y منٹ میں سیکھیں، جہاں X=SQL</tag-8> </tag-7> <tag-9><tag-10>شروعاتی سانچہ لوڈ کریں</tag-10></tag-9>"
+  },
+  "sql.name": {
+    "translation": "SQLite"
+  },
+  "stencil.desc": {
+    "translation": "ویب کمپوننٹس اور اعلی کارکردگی والی ویب ایپس کے لیے ایک کمپائلر۔"
+  },
+  "stencil.link": {
+    "translation": "<tag-1> <tag-2>Stencil کی سرکاری ویب سائٹ</tag-2> </tag-1> <tag-3> <tag-4>Stencil دستاویزات</tag-4> </tag-3> <tag-5> <tag-6>شروعاتی سانچہ لوڈ کریں</tag-6> </tag-5>"
+  },
+  "stencil.name": {
+    "translation": "Stencil"
+  },
+  "styleProcessors.link": {
+    "translation": "<tag-1> <tag-2>Tailwind CSS</tag-2> </tag-1> <tag-3> <tag-4>Windi CSS</tag-4> </tag-3> <tag-5> <tag-6>UnoCSS</tag-6> </tag-5> <tag-7> <tag-8>Lightning CSS</tag-8> </tag-7> <tag-9> <tag-10>PostCSS</tag-10> پلگ انز: <tag-11> <tag-12> <tag-13>Autoprefixer</tag-13> </tag-12> <tag-14> <tag-15>postcss-preset-env</tag-15> </tag-14> <tag-16> <tag-17>postcss-import-url</tag-17> </tag-16> <tag-18> <tag-19>postcss-modules</tag-19> </tag-18> </tag-11> </tag-9>"
+  },
+  "styleProcessors.name": {
+    "translation": "CSS فریم ورکس اور پروسیسرز"
+  },
+  "stylis.desc": {
+    "translation": "ہلکا وزن سی ایس ایس پری پروسیسر۔"
+  },
+  "stylis.link": {
+    "translation": "<tag-1> <tag-2>Stylis کی سرکاری ویب سائٹ</tag-2> </tag-1>"
+  },
+  "stylis.name": {
+    "translation": "Stylis"
+  },
+  "stylus.desc": {
+    "translation": "اظہاری، متحرک، مضبوط CSS۔"
+  },
+  "stylus.link": {
+    "translation": "<tag-1> <tag-2>Stylus کی سرکاری ویب سائٹ</tag-2> </tag-1> <tag-3> <tag-4>X کو Y منٹ میں سیکھیں، جہاں X=stylus</tag-4> </tag-3>"
+  },
+  "stylus.name": {
+    "translation": "Stylus"
+  },
+  "sucrase.desc": {
+    "translation": "جب آپ جدید JS رن ٹائمز کو ہدف بنا سکتے ہیں تو Babel کا انتہائی تیز متبادل۔"
+  },
+  "sucrase.link": {
+    "translation": "<tag-1> <tag-2>Sucrase کی سرکاری ویب سائٹ</tag-2> </tag-1> <tag-3> <tag-4>Sucrase GitHub ریپو</tag-4> </tag-3> <tag-5> <tag-6>LiveCodes دستاویزات</tag-6> </tag-5>"
+  },
+  "sucrase.name": {
+    "translation": "Sucrase"
+  },
+  "svelte.desc": {
+    "translation": "سائبرنیٹک طور پر بہتر ویب ایپس۔"
+  },
+  "svelte.link": {
+    "translation": "<tag-1> <tag-2>Svelte کی سرکاری ویب سائٹ</tag-2> </tag-1> <tag-3> <tag-4>Svelte دستاویزات</tag-4> </tag-3> <tag-5> <tag-6>شروعاتی سانچہ لوڈ کریں</tag-6> </tag-5>"
+  },
+  "svelte.name": {
+    "translation": "Svelte"
+  },
+  "tcl.desc": {
+    "translation": "<tag-1>wacl</tag-1> کا استعمال کرتے ہوئے براؤزر میں چلنے والی Tcl۔"
+  },
+  "tcl.link": {
+    "translation": "<tag-1> <tag-2>Tcl کی سرکاری ویب سائٹ</tag-2> </tag-1> <tag-3> <tag-4>wacl ریپو</tag-4> </tag-3> <tag-5> <tag-6>X کو Y منٹ میں سیکھیں، جہاں X=Tcl</tag-6> </tag-5> <tag-7> <tag-8>شروعاتی سانچہ لوڈ کریں</tag-8> </tag-7>"
+  },
+  "tcl.name": {
+    "translation": "Tcl (ٹول کمانڈ لینگویج)"
+  },
+  "teal.desc": {
+    "translation": "Lua کی ایک ٹائپ کردہ بولی۔"
+  },
+  "teal.link": {
+    "translation": "<tag-1> <tag-2>Teal GitHub ریپو</tag-2> </tag-1> <tag-3> <tag-4>Teal دستاویزات</tag-4> </tag-3> <tag-5> <tag-6>Teal ٹیوٹوریل</tag-6> </tag-5> <tag-7> <tag-8>LiveCodes دستاویزات</tag-8> </tag-7> <tag-9> <tag-10>شروعاتی سانچہ لوڈ کریں</tag-10> </tag-9>"
+  },
+  "teal.name": {
+    "translation": "Teal"
+  },
+  "tsx.desc": {
+    "translation": "JSX میں TypeScript۔ TSX کو LiveCodes میں TypeScript کمپائلر کا استعمال کرتے ہوئے جاوا اسکرپٹ میں مرتب کیا جاتا ہے۔ ڈیفالٹ طور پر یہ JSX رن ٹائم کے طور پر React کا استعمال کرتا ہے۔"
+  },
+  "tsx.link": {
+    "translation": "<tag-1> <tag-2>React کی سرکاری ویب سائٹ</tag-2> </tag-1> <tag-3> <tag-4>React میں JSX دستاویزات</tag-4> </tag-3> <tag-5> <tag-6>Typescript دستاویزات</tag-6> </tag-5> <tag-7> <tag-8>LiveCodes دستاویزات</tag-8> </tag-7>"
+  },
+  "tsx.name": {
+    "translation": "TSX"
+  },
+  "twig.desc": {
+    "translation": "<tag-2>Twig.js</tag-2> کے ذریعے <tag-1>Twig</tag-1> PHP ٹیمپلیٹنگ زبان کا ایک جاوا اسکرپٹ نفاذ۔"
+  },
+  "twig.link": {
+    "translation": "<tag-1> <tag-2>Twig کی سرکاری ویب سائٹ</tag-2> </tag-1> <tag-3> <tag-4>Twig دستاویزات</tag-4> </tag-3> <tag-5> <tag-6>Twig.js ریپو</tag-6> </tag-5> <tag-7> <tag-8>Twig.js دستاویزات</tag-8> </tag-7> <tag-9> <tag-10>LiveCodes دستاویزات</tag-10> </tag-9>"
+  },
+  "twig.name": {
+    "translation": "Twig"
+  },
+  "typescript.desc": {
+    "translation": "جاوا اسکرپٹ کا ایک ٹائپ کردہ سپر سیٹ۔"
+  },
+  "typescript.link": {
+    "translation": "<tag-1> <tag-2>سرکاری ویب سائٹ</tag-2> </tag-1> <tag-3> <tag-4>TypeScript دستاویزات</tag-4> </tag-3> <tag-5> <tag-6>X کو Y منٹ میں سیکھیں، جہاں X=TypeScript</tag-6> </tag-5> <tag-7> <tag-8>شروعاتی سانچہ لوڈ کریں</tag-8> </tag-7>"
+  },
+  "typescript.name": {
+    "translation": "TypeScript"
+  },
+  "vue.link": {
+    "translation": "<tag-1> <tag-2>Vue.js v3 کی سرکاری ویب سائٹ</tag-2> </tag-1> <tag-3> <tag-4>Vue3 دستاویزات</tag-4> </tag-3> <tag-5> <tag-6>Vue3 سنگل فائل کمپوننٹس</tag-6> </tag-5> <tag-7> <tag-8>LiveCodes دستاویزات</tag-8> </tag-7> <tag-9><tag-10>شروعاتی سانچہ لوڈ کریں</tag-10></tag-9>"
+  },
+  "vue.name": {
+    "translation": "Vue3 سنگل فائل کمپوننٹس"
+  },
+  "vue2.desc": {
+    "translation": "vue3-sfc-loader کا استعمال کرتے ہوئے لوڈ کیا گیا۔"
+  },
+  "vue2.link": {
+    "translation": "<tag-1><tag-2>Vue.js کی سرکاری ویب سائٹ</tag-2></tag-1> <tag-3> <tag-4>Vue2 دستاویزات</tag-4> </tag-3> <tag-5> <tag-6>Vue2 سنگل فائل کمپوننٹس</tag-6> </tag-5> <tag-7> <tag-8>vue3-sfc-loader GitHub ریپو</tag-8> </tag-7> <tag-9> <tag-10>LiveCodes دستاویزات</tag-10> </tag-9>"
+  },
+  "vue2.name": {
+    "translation": "Vue2 سنگل فائل کمپوننٹس"
+  },
+  "wat.desc1": {
+    "translation": "WebAssembly (wasm) بائنری فارمیٹ کی کم سطحی متنی نمائندگی۔"
+  },
+  "wat.desc2": {
+    "translation": "یہ wabt.js کا استعمال کرتے ہوئے wasm میں تبدیل کیا جاتا ہے۔"
+  },
+  "wat.link": {
+    "translation": "<tag-1><tag-2>WebAssembly.org</tag-2></tag-1> <tag-3> <tag-4>WebAssembly ٹیکسٹ اسپیکس</tag-4> </tag-3> <tag-5> <tag-6>MDN پر WebAssembly</tag-6> </tag-5> <tag-7> <tag-8>WebAssembly ٹیکسٹ فارمیٹ کو سمجھنا</tag-8> </tag-7> <tag-9> <tag-10>wabt.js دستاویزات</tag-10> </tag-9> <tag-11> <tag-12>X کو Y منٹ میں سیکھیں، جہاں X=WebAssembly</tag-12> </tag-11> <tag-13><tag-14>شروعاتی سانچہ لوڈ کریں</tag-14></tag-13>"
+  },
+  "wat.name": {
+    "translation": "WebAssembly ٹیکسٹ فارمیٹ"
+  }
+}

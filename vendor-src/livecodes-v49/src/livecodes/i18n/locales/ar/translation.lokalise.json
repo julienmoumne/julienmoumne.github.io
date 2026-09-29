@@ -1,0 +1,2253 @@
+{
+  "$comment": "ATTENTION: This file is auto-generated from source code. Do not edit manually!",
+  "about.blog.text": {
+    "translation": "المدونة"
+  },
+  "about.blog.title": {
+    "translation": "مدونة LiveCodes"
+  },
+  "about.configuration": {
+    "translation": "إعدادات"
+  },
+  "about.credits.heading": {
+    "translation": "الاعتمادات"
+  },
+  "about.credits.para1": {
+    "translation": "تم إنشاء LiveCodes بفضل مشاريع مفتوحة المصدر وخدمات الويب والمساهمين. <tag-1> عرض الاعتمادات </tag-1>"
+  },
+  "about.credits.para2": {
+    "translation": "© 2024 حاتم حسني. LiveCodes مرخصة بموجب ترخيص MIT."
+  },
+  "about.documentations.heading": {
+    "translation": "الوثائق"
+  },
+  "about.gettingStarted": {
+    "translation": "البدء"
+  },
+  "about.github.text": {
+    "translation": "GitHub"
+  },
+  "about.github.title": {
+    "translation": "GitHub"
+  },
+  "about.heading": {
+    "translation": "حول LiveCodes"
+  },
+  "about.livecodes.aboutUs": {
+    "translation": "حول LiveCodes"
+  },
+  "about.livecodes.para1": {
+    "translation": "<tag-1><tag-2>LiveCodes</tag-2></tag-1> هو ملعب برمجي <tag-3>مفتوح المصدر</tag-3>، <tag-4>غني بالميزات</tag-4>، <tag-5>يعمل على جانب العميل</tag-5>. حاليًا، يتم دعم <tag-6>أكثر من 90 لغة/<tag-7></tag-7>إطار عمل</tag-6>. يمكن استخدامه كتطبيق مستقل أو يمكن <tag-8>تضمينه</tag-8> في أي صفحة ويب. هناك العديد من الطرق <tag-9>لملء الملاعب مسبقًا</tag-9> بالكود."
+  },
+  "about.livecodes.para2": {
+    "translation": "تعمل مجموعة أدوات تطوير البرمجيات القوية على تسهيل التكامل والتواصل مع الملاعب. تتوفر وثائق مستفيضة مع أمثلة برمجية وعروض توضيحية مباشرة ولقطات شاشة."
+  },
+  "about.sdk": {
+    "translation": "LiveCodes SDK"
+  },
+  "about.sponsor.text": {
+    "translation": "دعم"
+  },
+  "about.sponsor.title": {
+    "translation": "دعم LiveCodes"
+  },
+  "about.twitter.text": {
+    "translation": "𝕏 / تويتر"
+  },
+  "about.twitter.title": {
+    "translation": "𝕏 / تويتر"
+  },
+  "about.version.app": {
+    "translation": "إصدار التطبيق: <tag-1> {{APP_VERSION}} </tag-1>"
+  },
+  "about.version.appPermanentUrl": {
+    "translation": "الرابط الدائم للتطبيق"
+  },
+  "about.version.commit": {
+    "translation": "التزام Git: <tag-1> {{COMMIT_SHA}} </tag-1>"
+  },
+  "about.version.heading": {
+    "translation": "الإصدار"
+  },
+  "about.version.sdk": {
+    "translation": "إصدار SDK: <tag-1> {{SDK_VERSION}} </tag-1>"
+  },
+  "about.version.sdkPermanentUrl": {
+    "translation": "الرابط الدائم لـ SDK"
+  },
+  "app.changeTheme.hint": {
+    "translation": "تغيير السمة"
+  },
+  "app.codeToImage.hint": {
+    "translation": "كود إلى صورة"
+  },
+  "app.consoleMessage.appVersion": {
+    "translation": "إصدار التطبيق: {{APP_VERSION}}"
+  },
+  "app.consoleMessage.commit": {
+    "translation": "التزام Git: {{COMMIT_SHA}}"
+  },
+  "app.consoleMessage.learnMore": {
+    "translation": "تعرف على المزيد! {{docsUrl}} 🚀"
+  },
+  "app.consoleMessage.sdkVersion": {
+    "translation": "إصدار SDK: {{SDK_VERSION}}"
+  },
+  "app.copy.hint": {
+    "translation": "نسخ (Ctrl/Cmd + A، Ctrl/Cmd + C)"
+  },
+  "app.copyAsUrl.hint": {
+    "translation": "نسخ الكود كرابط بيانات"
+  },
+  "app.customSettings.hint": {
+    "translation": "الإعدادات المخصصة"
+  },
+  "app.editorSettings.hint": {
+    "translation": "إعدادات المحرر"
+  },
+  "app.externalResources.hint": {
+    "translation": "الموارد الخارجية"
+  },
+  "app.focus.hint": {
+    "translation": "تبديل وضع التركيز"
+  },
+  "app.format.hint": {
+    "translation": "تنسيق (Alt + Shift + F)"
+  },
+  "app.fullscreen.hint": {
+    "translation": "ملء الشاشة"
+  },
+  "app.i18nButton.hint": {
+    "translation": "لغة واجهة المستخدم"
+  },
+  "app.i18nMenu.docs": {
+    "translation": "وثائق الترجمة"
+  },
+  "app.i18nMenu.helpTranslate": {
+    "translation": "ساعدنا في الترجمة"
+  },
+  "app.logo.title": {
+    "translation": "LiveCodes: محرر برمجي يعمل ببساطة!"
+  },
+  "app.projectInfo.hint": {
+    "translation": "معلومات المشروع"
+  },
+  "app.redo.hint": {
+    "translation": "إعادة (Ctrl/Cmd + Shift + Z)"
+  },
+  "app.result.hint": {
+    "translation": "النتيجة"
+  },
+  "app.run.hint": {
+    "translation": "تشغيل (Shift + Enter)"
+  },
+  "app.share.hint": {
+    "translation": "مشاركة"
+  },
+  "app.themeColors.custom": {
+    "translation": "مخصص"
+  },
+  "app.undo.hint": {
+    "translation": "تراجع (Ctrl/Cmd + Z)"
+  },
+  "app.untitledProject": {
+    "translation": "مشروع بدون عنوان"
+  },
+  "assets.action.delete": {
+    "translation": "حذف"
+  },
+  "assets.add.dataURL.desc": {
+    "translation": "إضافة الملف ك<tag-1>رابط بيانات</tag-1> مشفر بـ base64."
+  },
+  "assets.add.dataURL.heading": {
+    "translation": "رابط البيانات"
+  },
+  "assets.add.dataURL.label": {
+    "translation": "إضافة ملف"
+  },
+  "assets.add.githubPages.desc": {
+    "translation": "نشر الأصل على صفحات GitHub. يتم دفع الملف إلى فرع <tag-1>gh-pages</tag-1> في المستودع <tag-2>livecodes-assets</tag-2> على حساب GitHub الخاص بك. إذا لم يكن المستودع موجودًا بالفعل، سيتم إنشاء مستودع عام."
+  },
+  "assets.add.githubPages.heading": {
+    "translation": "صفحات GitHub"
+  },
+  "assets.add.githubPages.label": {
+    "translation": "رفع ملف"
+  },
+  "assets.add.heading": {
+    "translation": "إضافة ملف"
+  },
+  "assets.delete.all": {
+    "translation": "حذف {{assets}} ملفات؟"
+  },
+  "assets.delete.one": {
+    "translation": "حذف الملف: {{asset}}؟"
+  },
+  "assets.deleteAll": {
+    "translation": "حذف الكل"
+  },
+  "assets.generic.clickToCopyURL": {
+    "translation": "انقر لنسخ الرابط"
+  },
+  "assets.heading": {
+    "translation": "الملفات"
+  },
+  "assets.link.date": {
+    "translation": "التاريخ: {{modified}}"
+  },
+  "assets.link.type": {
+    "translation": "النوع: {{type}}"
+  },
+  "assets.link.url": {
+    "translation": "الرابط: {{url}}"
+  },
+  "assets.loadFile.error.failedToUpload": {
+    "translation": "خطأ: فشل في رفع الملف"
+  },
+  "assets.loadFile.error.unauthenticated": {
+    "translation": "خطأ: مستخدم غير مصادق عليه"
+  },
+  "assets.loadFile.upload": {
+    "translation": "رفع ملف"
+  },
+  "assets.loadFile.uploading": {
+    "translation": "جارٍ الرفع..."
+  },
+  "assets.noMatch": {
+    "translation": "لا توجد ملفات تطابق هذه الفلاتر."
+  },
+  "assets.noSavedAssets": {
+    "translation": "ليس لديك ملفات محفوظة."
+  },
+  "assets.processAsset.addFile": {
+    "translation": "تمت إضافة الملف: "
+  },
+  "assets.processAsset.deployNotice": {
+    "translation": "يجب أن يكون الملف متاحًا على هذا الرابط قريبًا (~1 دقيقة)."
+  },
+  "assets.processAsset.success": {
+    "translation": "تمت إضافة الملف!"
+  },
+  "assets.processAsset.urlLabel": {
+    "translation": "الرابط: "
+  },
+  "assets.resetFilters": {
+    "translation": "إعادة تعيين"
+  },
+  "assets.search": {
+    "translation": "بحث"
+  },
+  "assets.sort.date": {
+    "translation": "التاريخ"
+  },
+  "assets.sort.fileName": {
+    "translation": "اسم الملف"
+  },
+  "assets.sort.heading": {
+    "translation": "ترتيب حسب:"
+  },
+  "assets.type.archive": {
+    "translation": "أرشيف"
+  },
+  "assets.type.audio": {
+    "translation": "صوت"
+  },
+  "assets.type.csv": {
+    "translation": "CSV"
+  },
+  "assets.type.font": {
+    "translation": "خط"
+  },
+  "assets.type.html": {
+    "translation": "HTML"
+  },
+  "assets.type.icon": {
+    "translation": "أيقونة"
+  },
+  "assets.type.image": {
+    "translation": "صورة"
+  },
+  "assets.type.json": {
+    "translation": "JSON"
+  },
+  "assets.type.other": {
+    "translation": "أخرى"
+  },
+  "assets.type.script": {
+    "translation": "سكريبت"
+  },
+  "assets.type.stylesheet": {
+    "translation": "ستايلز"
+  },
+  "assets.type.text": {
+    "translation": "نص"
+  },
+  "assets.type.video": {
+    "translation": "فيديو"
+  },
+  "assets.type.xml": {
+    "translation": "XML"
+  },
+  "assets.types.all": {
+    "translation": "جميع الأنواع"
+  },
+  "assets.url.fail": {
+    "translation": "فشل في نسخ الرابط."
+  },
+  "assets.url.success": {
+    "translation": "تم نسخ الرابط إلى الحافظة."
+  },
+  "backup.backup.assets": {
+    "translation": "الملفات"
+  },
+  "backup.backup.button": {
+    "translation": "نسخ احتياطي"
+  },
+  "backup.backup.desc": {
+    "translation": "قم بعمل نسخة احتياطية من بيانات LiveCodes، حتى يمكن استعادتها لاحقًا على هذا الجهاز أو أجهزة أخرى. <tag-1></tag-1> يرجى زيارة <tag-2>الوثائق</tag-2> للحصول على التفاصيل."
+  },
+  "backup.backup.heading": {
+    "translation": "نسخ احتياطي"
+  },
+  "backup.backup.projects": {
+    "translation": "المشاريع"
+  },
+  "backup.backup.settings": {
+    "translation": "إعدادات المستخدم"
+  },
+  "backup.backup.snippets": {
+    "translation": "مقتطفات الكود"
+  },
+  "backup.backup.templates": {
+    "translation": "قوالب المستخدم"
+  },
+  "backup.backupBtn": {
+    "translation": "نسخ احتياطي"
+  },
+  "backup.error.atLeastOneStore": {
+    "translation": "الرجاء تحديد مخزن واحد على الأقل للنسخ الاحتياطي"
+  },
+  "backup.error.incorrectFileType": {
+    "translation": "خطأ: نوع الملف غير صحيح"
+  },
+  "backup.fileInputLabel": {
+    "translation": "استعادة من ملف"
+  },
+  "backup.heading": {
+    "translation": "نسخ احتياطي / استعادة"
+  },
+  "backup.inProgress": {
+    "translation": "جارٍ التنفيذ..."
+  },
+  "backup.restore.desc": {
+    "translation": "استعادة بيانات LiveCodes التي تم نسخها احتياطيًا مسبقًا. <tag-1></tag-1> إذا اخترت استبدال المحتوى الحالي، قد ترغب في عمل نسخة احتياطية منه أولاً. <tag-2></tag-2> يرجى زيارة <tag-3>الوثائق</tag-3> للحصول على التفاصيل."
+  },
+  "backup.restore.fromFile": {
+    "translation": "استعادة من ملف"
+  },
+  "backup.restore.heading": {
+    "translation": "استعادة"
+  },
+  "backup.restore.mode.merge": {
+    "translation": "دمج مع المحتوى الحالي"
+  },
+  "backup.restore.mode.replace": {
+    "translation": "استبدال المحتوى الحالي"
+  },
+  "backup.restore.success": {
+    "translation": "تمت الاستعادة بنجاح!"
+  },
+  "broadcast.broadcastBtn.start": {
+    "translation": "بث"
+  },
+  "broadcast.broadcastBtn.stop": {
+    "translation": "إيقاف البث"
+  },
+  "broadcast.broadcasting": {
+    "translation": "جارٍ البث..."
+  },
+  "broadcast.channelURL": {
+    "translation": "رابط القناة"
+  },
+  "broadcast.connecting": {
+    "translation": "جارٍ الاتصال..."
+  },
+  "broadcast.desc": {
+    "translation": "بث صفحة النتيجة إلى متصفحات/أجهزة أخرى في الوقت الفعلي. يرجى زيارة <tag-1>الوثائق</tag-1> للحصول على التفاصيل."
+  },
+  "broadcast.error.generic": {
+    "translation": "فشل البث!"
+  },
+  "broadcast.error.serverURLRequired": {
+    "translation": "رابط الخادم مطلوب!"
+  },
+  "broadcast.heading": {
+    "translation": "بث"
+  },
+  "broadcast.includeSourceCode": {
+    "translation": "تضمين الكود المصدري"
+  },
+  "broadcast.serverURL.heading": {
+    "translation": "رابط الخادم"
+  },
+  "codeToImage.background": {
+    "translation": "الخلفية"
+  },
+  "codeToImage.borderRadius": {
+    "translation": "نصف قطر الحدود"
+  },
+  "codeToImage.code": {
+    "translation": "الكود"
+  },
+  "codeToImage.copyCode": {
+    "translation": "نسخ الكود"
+  },
+  "codeToImage.copyImage": {
+    "translation": "نسخ الصورة"
+  },
+  "codeToImage.default": {
+    "translation": "افتراضي"
+  },
+  "codeToImage.direction": {
+    "translation": "الاتجاه"
+  },
+  "codeToImage.fileName": {
+    "translation": "اسم الملف"
+  },
+  "codeToImage.fontFamily": {
+    "translation": "عائلة الخط"
+  },
+  "codeToImage.fontSize": {
+    "translation": "حجم الخط"
+  },
+  "codeToImage.heading": {
+    "translation": "كود إلى صورة"
+  },
+  "codeToImage.image": {
+    "translation": "الصورة"
+  },
+  "codeToImage.imageFormat.jpg": {
+    "translation": "JPEG"
+  },
+  "codeToImage.imageFormat.label": {
+    "translation": "تنسيق الصورة"
+  },
+  "codeToImage.imageFormat.png": {
+    "translation": "PNG"
+  },
+  "codeToImage.imageFormat.svg": {
+    "translation": "SVG"
+  },
+  "codeToImage.layout": {
+    "translation": "تَخطِيط"
+  },
+  "codeToImage.opacity": {
+    "translation": "العتامة"
+  },
+  "codeToImage.padding": {
+    "translation": "المسافة"
+  },
+  "codeToImage.presets": {
+    "translation": "الإعدادات المسبقة"
+  },
+  "codeToImage.preview": {
+    "translation": "معاينة"
+  },
+  "codeToImage.save": {
+    "translation": "حفظ الصورة"
+  },
+  "codeToImage.scale": {
+    "translation": "مقياس الصورة"
+  },
+  "codeToImage.shadow": {
+    "translation": "الظل"
+  },
+  "codeToImage.shareImage": {
+    "translation": "مشاركة الصورة"
+  },
+  "codeToImage.shareTitle": {
+    "translation": "مشاركة"
+  },
+  "codeToImage.shareUrl": {
+    "translation": "مشاركة الرابط"
+  },
+  "codeToImage.theme": {
+    "translation": "السمة"
+  },
+  "codeToImage.width": {
+    "translation": "العرض"
+  },
+  "codeToImage.windowStyle.label": {
+    "translation": "نمط النافذة"
+  },
+  "codeToImage.windowStyle.mac": {
+    "translation": "macOS"
+  },
+  "codeToImage.windowStyle.none": {
+    "translation": "لا شيء"
+  },
+  "codeToImage.windowStyle.windows": {
+    "translation": "Windows"
+  },
+  "commandMenu.changeTheme.dark": {
+    "translation": "التغيير إلى السمة الداكنة"
+  },
+  "commandMenu.changeTheme.light": {
+    "translation": "التغيير إلى السمة الفاتحة"
+  },
+  "commandMenu.changeTheme.title": {
+    "translation": "تغيير السمة"
+  },
+  "commandMenu.changeUILanguage": {
+    "translation": "تغيير لغة واجهة المستخدم"
+  },
+  "commandMenu.closeModalMenu": {
+    "translation": "إغلاق النافذة المنبثقة/القائمة"
+  },
+  "commandMenu.contribute": {
+    "translation": "المساهمة"
+  },
+  "commandMenu.copy": {
+    "translation": "نسخ الكود"
+  },
+  "commandMenu.copyAsDataUrl": {
+    "translation": "نسخ الكود كرابط بيانات"
+  },
+  "commandMenu.disableAutoSave": {
+    "translation": "تعطيل الحفظ التلقائي"
+  },
+  "commandMenu.disableAutoUpdate": {
+    "translation": "تعطيل التحديث التلقائي"
+  },
+  "commandMenu.disableEmacs": {
+    "translation": "تعطيل وضع Emacs"
+  },
+  "commandMenu.disableFormatOnSave": {
+    "translation": "تعطيل التنسيق عند الحفظ"
+  },
+  "commandMenu.disableRecoverUnsaved": {
+    "translation": "تعطيل استعادة المشروع غير المحفوظ"
+  },
+  "commandMenu.disableVim": {
+    "translation": "تعطيل وضع Vim"
+  },
+  "commandMenu.enableAutoSave": {
+    "translation": "تفعيل الحفظ التلقائي"
+  },
+  "commandMenu.enableAutoUpdate": {
+    "translation": "تفعيل التحديث التلقائي"
+  },
+  "commandMenu.enableEmacs": {
+    "translation": "تفعيل وضع Emacs"
+  },
+  "commandMenu.enableFormatOnSave": {
+    "translation": "تفعيل التنسيق عند الحفظ"
+  },
+  "commandMenu.enableRecoverUnsaved": {
+    "translation": "تفعيل استرداد ما لم يتم حفظه"
+  },
+  "commandMenu.enableVim": {
+    "translation": "تفعيل وضع Vim"
+  },
+  "commandMenu.focus.editor": {
+    "translation": "نقل التركيز إلى المحرر"
+  },
+  "commandMenu.focus.home": {
+    "translation": "نقل التركيز إلى الصفحة الرئيسية"
+  },
+  "commandMenu.focus.outOfEditor": {
+    "translation": "نقل التركيز خارج المحرر"
+  },
+  "commandMenu.focus.toggleTabFocusMode": {
+    "translation": "تبديل وضع التركيز على علامة التبويب"
+  },
+  "commandMenu.formatCode": {
+    "translation": "تنسيق الكود"
+  },
+  "commandMenu.home": {
+    "translation": "الرئيسية"
+  },
+  "commandMenu.horizontalLayout": {
+    "translation": "تخطيط أفقي"
+  },
+  "commandMenu.keyboardShortcuts": {
+    "translation": "اختصارات لوحة المفاتيح"
+  },
+  "commandMenu.login": {
+    "translation": "تسجيل الدخول"
+  },
+  "commandMenu.logout": {
+    "translation": "تسجيل الخروج"
+  },
+  "commandMenu.moveToParent": {
+    "translation": "الانتقال إلى أعلى"
+  },
+  "commandMenu.placeholder": {
+    "translation": "اكتب الأمر أو ابحث..."
+  },
+  "commandMenu.processors": {
+    "translation": "المعالجات"
+  },
+  "commandMenu.responsiveLayout": {
+    "translation": "تخطيط متجاوب"
+  },
+  "commandMenu.run": {
+    "translation": "تشغيل"
+  },
+  "commandMenu.saveAsFork": {
+    "translation": "حفظ كمشروع جديد"
+  },
+  "commandMenu.saveAsTemplate": {
+    "translation": "حفظ كقالب"
+  },
+  "commandMenu.selectLanguage": {
+    "translation": "اختر اللغة"
+  },
+  "commandMenu.show.compiled": {
+    "translation": "تبديل الكود المُترجم"
+  },
+  "commandMenu.show.console": {
+    "translation": "تبديل الكونسول"
+  },
+  "commandMenu.show.focusMode": {
+    "translation": "تبديل وضع التركيز"
+  },
+  "commandMenu.show.fullscreen": {
+    "translation": "تبديل ملء الشاشة"
+  },
+  "commandMenu.show.markup": {
+    "translation": "إظهار محرر Markup"
+  },
+  "commandMenu.show.maximizeCompiled": {
+    "translation": "تكبير الكود الناتج"
+  },
+  "commandMenu.show.maximizeConsole": {
+    "translation": "تكبير الكونسول"
+  },
+  "commandMenu.show.maximizeTests": {
+    "translation": "تكبير الاختبارات"
+  },
+  "commandMenu.show.next": {
+    "translation": "عرض المحرر التالي"
+  },
+  "commandMenu.show.previous": {
+    "translation": "عرض المحرر السابق"
+  },
+  "commandMenu.show.result": {
+    "translation": "تبديل النتيجة "
+  },
+  "commandMenu.show.runTests": {
+    "translation": "تشغيل الاختبارات"
+  },
+  "commandMenu.show.script": {
+    "translation": "عرض محرر السكريبت"
+  },
+  "commandMenu.show.style": {
+    "translation": "عرض محرر الأنماط"
+  },
+  "commandMenu.show.tests": {
+    "translation": "تبديل الاختبارات"
+  },
+  "commandMenu.show.title": {
+    "translation": "عرض .."
+  },
+  "commandMenu.show.zoom": {
+    "translation": "تبديل تكبير النتيجة"
+  },
+  "commandMenu.starterTemplates": {
+    "translation": "قوالب البداية"
+  },
+  "commandMenu.sync": {
+    "translation": "المزامنة (نسخة تجريبية) …"
+  },
+  "commandMenu.template": {
+    "translation": "قالب"
+  },
+  "commandMenu.theme.color": {
+    "translation": "تعيين لون السمة"
+  },
+  "commandMenu.theme.defaultColor": {
+    "translation": "تعيين لون السمة الافتراضي"
+  },
+  "commandMenu.title": {
+    "translation": "قائمة الأوامر"
+  },
+  "commandMenu.toClose": {
+    "translation": "للإغلاق"
+  },
+  "commandMenu.toNavigate": {
+    "translation": "للتنقل"
+  },
+  "commandMenu.toSelect": {
+    "translation": "للاختيار"
+  },
+  "commandMenu.toggle": {
+    "translation": "تبديل: "
+  },
+  "commandMenu.verticalLayout": {
+    "translation": "تخطيط عمودي"
+  },
+  "core.broadcast.heading": {
+    "translation": "بث"
+  },
+  "core.broadcast.successSetToken": {
+    "translation": "تم تعيين رمز مستخدم البث بنجاح"
+  },
+  "core.changeLanguage.hint": {
+    "translation": "تغيير اللغة"
+  },
+  "core.changeLanguage.message": {
+    "translation": "جارٍ تحميل {{lang}}. قد يستغرق هذا بعض الوقت!"
+  },
+  "core.copy.copied": {
+    "translation": "تم نسخ الكود إلى الحافظة"
+  },
+  "core.copy.copiedAsDataURL": {
+    "translation": "تم نسخ الكود كرابط بيانات"
+  },
+  "core.copy.copiedImage": {
+    "translation": "تم نسخ الصورة إلى الحافظة."
+  },
+  "core.copy.hint": {
+    "translation": "تم النسخ!"
+  },
+  "core.copy.title": {
+    "translation": "نسخ"
+  },
+  "core.error.couldNotLoadTemplate": {
+    "translation": "تعذر تحميل القالب: {{template}}"
+  },
+  "core.error.failedToCopyCode": {
+    "translation": "فشل في نسخ الكود"
+  },
+  "core.error.failedToCopyImage": {
+    "translation": "فشل في نسخ الصورة"
+  },
+  "core.error.failedToLoadTemplate": {
+    "translation": "فشل في تحميل القالب"
+  },
+  "core.error.failedToLoadTemplates": {
+    "translation": "فشل في تحميل قوالب البداية"
+  },
+  "core.error.failedToParseSettings": {
+    "translation": "فشل في تحليل الإعدادات كـ JSON"
+  },
+  "core.error.failedToSaveImage": {
+    "translation": "فشل في حفظ الصورة"
+  },
+  "core.error.failedToShareImage": {
+    "translation": "فشل في مشاركة الصورة"
+  },
+  "core.error.invalidCommand": {
+    "translation": "أمر غير صالح!"
+  },
+  "core.error.invalidImport": {
+    "translation": "رابط استيراد غير صالح"
+  },
+  "core.error.invalidPanelId": {
+    "translation": "معرف اللوحة غير صالح"
+  },
+  "core.error.invalidToken": {
+    "translation": "رمز غير صالح!"
+  },
+  "core.error.login": {
+    "translation": "خطأ في تسجيل الدخول!"
+  },
+  "core.error.logout": {
+    "translation": "خطأ في تسجيل الخروج!"
+  },
+  "core.error.noResultContainer": {
+    "translation": "لم يتم العثور على حاوية النتيجة"
+  },
+  "core.error.unavailable": {
+    "translation": "الأمر غير متاح"
+  },
+  "core.error.unavailableForEmbeds": {
+    "translation": "الأمر غير متاح للتضمينات"
+  },
+  "core.export.gist": {
+    "translation": "جارٍ إنشاء gist عام على GitHub..."
+  },
+  "core.fork.success": {
+    "translation": "تم النسخ كمشروع جديد"
+  },
+  "core.fullScreen.enter": {
+    "translation": "ملء الشاشة"
+  },
+  "core.fullScreen.exit": {
+    "translation": "الخروج من ملء الشاشة"
+  },
+  "core.generating": {
+    "translation": "جارٍ الإنشاء..."
+  },
+  "core.import.loading": {
+    "translation": "جارٍ تحميل المشروع..."
+  },
+  "core.layout.horizontal": {
+    "translation": "تخطيط أفقي"
+  },
+  "core.layout.responsive": {
+    "translation": "تخطيط متجاوب"
+  },
+  "core.layout.vertical": {
+    "translation": "تخطيط عمودي"
+  },
+  "core.loadDefaults.template": {
+    "translation": "جارٍ تحميل القالب الافتراضي"
+  },
+  "core.login.success": {
+    "translation": "تم تسجيل الدخول بنجاح"
+  },
+  "core.login.successWithName": {
+    "translation": "تم تسجيل الدخول كـ: {{name}}"
+  },
+  "core.logout.success": {
+    "translation": "تم تسجيل الخروج بنجاح"
+  },
+  "core.result.hint": {
+    "translation": "عرض النتيجة في نافذة جديدة"
+  },
+  "core.save.success": {
+    "translation": "تم حفظ المشروع محليًا على الجهاز!"
+  },
+  "core.save.successWithName": {
+    "translation": "تم حفظ المشروع \"{{name}}\" على الجهاز."
+  },
+  "core.template.blank": {
+    "translation": "مشروع فارغ"
+  },
+  "core.template.delete": {
+    "translation": "حذف القالب \"{{item}}\"؟"
+  },
+  "core.template.javascript": {
+    "translation": "قالب JavaScript"
+  },
+  "core.template.react": {
+    "translation": "قالب React"
+  },
+  "core.template.saved": {
+    "translation": "تم الحفظ كقالب جديد"
+  },
+  "core.template.typescript": {
+    "translation": "قالب TypeScript"
+  },
+  "core.template.vue": {
+    "translation": "قالب Vue 3"
+  },
+  "core.unload.notSaved": {
+    "translation": "التغييرات التي أجريتها قد لا يتم حفظها."
+  },
+  "core.zoom.hint": {
+    "translation": "تكبير/تصغير"
+  },
+  "customSettings.JSON": {
+    "translation": "JSON الإعدادات المخصصة"
+  },
+  "customSettings.desc": {
+    "translation": "<tag-1></tag-1> لمزيد من التفاصيل، يرجى الرجوع إلى <tag-2>الوثائق</tag-2>"
+  },
+  "customSettings.heading": {
+    "translation": "الإعدادات المخصصة"
+  },
+  "customSettings.load": {
+    "translation": "تحميل"
+  },
+  "deploy.create.desc": {
+    "translation": "سيتم إنشاء مستودع <tag-1>عام</tag-1> جديد. سيتم دفع صفحة النتيجة إلى فرع <tag-2>gh-pages</tag-2>."
+  },
+  "deploy.create.heading": {
+    "translation": "إنشاء مستودع جديد"
+  },
+  "deploy.create.repoName": {
+    "translation": "اسم المستودع <tag-1></tag-1>"
+  },
+  "deploy.error.generic": {
+    "translation": "فشل النشر!"
+  },
+  "deploy.error.repoNameExists": {
+    "translation": "اسم المستودع موجود بالفعل"
+  },
+  "deploy.error.repoNameRequired": {
+    "translation": "اسم المستودع مطلوب"
+  },
+  "deploy.existing.desc": {
+    "translation": "سيتم إضافة التزام جديد إلى فرع <tag-1>gh-pages</tag-1>."
+  },
+  "deploy.existing.heading": {
+    "translation": "مستودع موجود"
+  },
+  "deploy.existing.repoName": {
+    "translation": "اسم المستودع"
+  },
+  "deploy.generic.commitMessage": {
+    "translation": "رسالة الالتزام"
+  },
+  "deploy.generic.commitSourceCodePublic": {
+    "translation": "التزام الكود المصدري (عام)"
+  },
+  "deploy.generic.deployBtn": {
+    "translation": "نشر"
+  },
+  "deploy.generic.deploying": {
+    "translation": "جارٍ النشر..."
+  },
+  "deploy.heading": {
+    "translation": "النشر على صفحات GitHub"
+  },
+  "deploy.searchRepo": {
+    "translation": "البحث في مستودعاتك العامة..."
+  },
+  "editorSettings.closeBrackets": {
+    "translation": "إغلاق تلقائي للأقواس والعلامات"
+  },
+  "editorSettings.codeJarDesc": {
+    "translation": "<tag-1> </tag-1> * الميزات المحددة غير متوفرة في CodeJar."
+  },
+  "editorSettings.default": {
+    "translation": "افتراضي"
+  },
+  "editorSettings.desc": {
+    "translation": "<tag-1> </tag-1> يرجى مراجعة وثائق <tag-2> </tag-2> للحصول على التفاصيل."
+  },
+  "editorSettings.editor.codejar": {
+    "translation": "CodeJar"
+  },
+  "editorSettings.editor.codemirror": {
+    "translation": "CodeMirror"
+  },
+  "editorSettings.editor.heading": {
+    "translation": "المحرر"
+  },
+  "editorSettings.editor.monaco": {
+    "translation": "Monaco"
+  },
+  "editorSettings.editorMode.emacs": {
+    "translation": "Emacs"
+  },
+  "editorSettings.editorMode.heading": {
+    "translation": "وضع المحرر *"
+  },
+  "editorSettings.editorMode.vim": {
+    "translation": "Vim"
+  },
+  "editorSettings.editorTheme": {
+    "translation": "سمة المحرر"
+  },
+  "editorSettings.emmet": {
+    "translation": "تفعيل Emmet *"
+  },
+  "editorSettings.foldRegions": {
+    "translation": "طيّ المناطق*"
+  },
+  "editorSettings.fontFamily": {
+    "translation": "عائلة الخط"
+  },
+  "editorSettings.fontSize": {
+    "translation": "حجم الخط"
+  },
+  "editorSettings.format": {
+    "translation": "تنسيق"
+  },
+  "editorSettings.heading": {
+    "translation": "إعدادات المحرر"
+  },
+  "editorSettings.lineNumbers": {
+    "translation": "إظهار أرقام الأسطر"
+  },
+  "editorSettings.lineNumbersRelative": {
+    "translation": "أرقام الأسطر النسبية*"
+  },
+  "editorSettings.minimap": {
+    "translation": "تفعيل الخريطة المصغرة *"
+  },
+  "editorSettings.notAvailableInCodeJar": {
+    "translation": "غير متوفر في CodeJar"
+  },
+  "editorSettings.preview": {
+    "translation": "معاينة"
+  },
+  "editorSettings.semicolons": {
+    "translation": "التنسيق: استخدام الفواصل المنقوطة"
+  },
+  "editorSettings.singleQuote": {
+    "translation": "التنسيق: استخدام علامات الاقتباس الفردية"
+  },
+  "editorSettings.tabSize": {
+    "translation": "حجم التبويب"
+  },
+  "editorSettings.theme": {
+    "translation": "الوضع الداكن"
+  },
+  "editorSettings.trailingComma": {
+    "translation": "التنسيق: استخدام الفواصل النهائية"
+  },
+  "editorSettings.useTabs.heading": {
+    "translation": "المسافة البادئة"
+  },
+  "editorSettings.useTabs.spaces": {
+    "translation": "مسافات"
+  },
+  "editorSettings.useTabs.tabs": {
+    "translation": "علامات تبويب"
+  },
+  "editorSettings.wordWrap": {
+    "translation": "التفاف الكلمات"
+  },
+  "embed.activeEditor.heading": {
+    "translation": "المحرر النشط"
+  },
+  "embed.activeEditor.markup": {
+    "translation": "{{markup}}"
+  },
+  "embed.activeEditor.script": {
+    "translation": "{{script}}"
+  },
+  "embed.activeEditor.style": {
+    "translation": "{{style}}"
+  },
+  "embed.activeTool.compiled": {
+    "translation": "مُترجم"
+  },
+  "embed.activeTool.console": {
+    "translation": "وحدة التحكم"
+  },
+  "embed.activeTool.heading": {
+    "translation": "الأداة النشطة"
+  },
+  "embed.activeTool.tests": {
+    "translation": "الاختبارات"
+  },
+  "embed.code.copy": {
+    "translation": "نسخ الكود"
+  },
+  "embed.code.heading": {
+    "translation": "الكود"
+  },
+  "embed.codeEditor.codeJar": {
+    "translation": "CodeJar"
+  },
+  "embed.codeEditor.codeMirror": {
+    "translation": "CodeMirror"
+  },
+  "embed.codeEditor.default": {
+    "translation": "افتراضي"
+  },
+  "embed.codeEditor.heading": {
+    "translation": "المحرر"
+  },
+  "embed.codeEditor.monaco": {
+    "translation": "Monaco"
+  },
+  "embed.desc": {
+    "translation": "يرجى مراجعة <tag-1>الوثائق</tag-1> للإعدادات المتقدمة."
+  },
+  "embed.embedType.cdn": {
+    "translation": "سكريبت (CDN)"
+  },
+  "embed.embedType.heading": {
+    "translation": "نوع التضمين"
+  },
+  "embed.embedType.html": {
+    "translation": "HTML"
+  },
+  "embed.embedType.iframe": {
+    "translation": "Iframe"
+  },
+  "embed.embedType.npm": {
+    "translation": "JS (npm)"
+  },
+  "embed.embedType.react": {
+    "translation": "React"
+  },
+  "embed.embedType.svelte": {
+    "translation": "Svelte"
+  },
+  "embed.embedType.vue": {
+    "translation": "Vue"
+  },
+  "embed.heading": {
+    "translation": "تضمين المشروع"
+  },
+  "embed.layout.heading": {
+    "translation": "تَخطِيط"
+  },
+  "embed.layout.horizontal": {
+    "translation": "أفقي"
+  },
+  "embed.layout.responsive": {
+    "translation": "متجاوب"
+  },
+  "embed.layout.vertical": {
+    "translation": "عمودي"
+  },
+  "embed.lite": {
+    "translation": "الوضع الخفيف"
+  },
+  "embed.loading.click": {
+    "translation": "عند النقر"
+  },
+  "embed.loading.eager": {
+    "translation": "فوري"
+  },
+  "embed.loading.heading": {
+    "translation": "التحميل"
+  },
+  "embed.loading.lazy": {
+    "translation": "كسول"
+  },
+  "embed.mode.codeblock": {
+    "translation": "كتلة الكود"
+  },
+  "embed.mode.editor": {
+    "translation": "المحرر"
+  },
+  "embed.mode.full": {
+    "translation": "كامل"
+  },
+  "embed.mode.heading": {
+    "translation": "وضع العرض"
+  },
+  "embed.mode.result": {
+    "translation": "النتيجة"
+  },
+  "embed.mode.simple": {
+    "translation": "بسيط"
+  },
+  "embed.permanentUrl": {
+    "translation": "الرابط الدائم"
+  },
+  "embed.preview": {
+    "translation": "معاينة"
+  },
+  "embed.previewLoading": {
+    "translation": "جارٍ تحميل المعاينة..."
+  },
+  "embed.readonly": {
+    "translation": "للقراءة فقط"
+  },
+  "embed.theme.dark": {
+    "translation": "داكن"
+  },
+  "embed.theme.heading": {
+    "translation": "السمة"
+  },
+  "embed.theme.light": {
+    "translation": "فاتح"
+  },
+  "embed.tools.closed": {
+    "translation": "مغلق"
+  },
+  "embed.tools.full": {
+    "translation": "كامل"
+  },
+  "embed.tools.heading": {
+    "translation": "الأدوات"
+  },
+  "embed.tools.none": {
+    "translation": "لا شيء"
+  },
+  "embed.tools.open": {
+    "translation": "مفتوح"
+  },
+  "embed.view.editor": {
+    "translation": "المحرر"
+  },
+  "embed.view.heading": {
+    "translation": "العرض الافتراضي"
+  },
+  "embed.view.result": {
+    "translation": "النتيجة"
+  },
+  "embed.view.split": {
+    "translation": "مقسم"
+  },
+  "generic.about.blog": {
+    "translation": "المدونة"
+  },
+  "generic.about.configuration": {
+    "translation": "الإعدادات"
+  },
+  "generic.about.gettingStarted": {
+    "translation": "البدء"
+  },
+  "generic.about.github": {
+    "translation": "GitHub"
+  },
+  "generic.about.sdk": {
+    "translation": "SDK"
+  },
+  "generic.about.sponsor": {
+    "translation": "دعم"
+  },
+  "generic.about.twitter": {
+    "translation": "𝕏 / تويتر"
+  },
+  "generic.clickForInfo": {
+    "translation": "انقر للمزيد من المعلومات..."
+  },
+  "generic.close": {
+    "translation": "إغلاق"
+  },
+  "generic.custom": {
+    "translation": "مخصص"
+  },
+  "generic.embed.logoHint": {
+    "translation": "تحرير على LiveCodes 🡕"
+  },
+  "generic.error.authentication": {
+    "translation": "خطأ في المصادقة!"
+  },
+  "generic.error.exceededSize": {
+    "translation": "خطأ: تجاوز الحجم {{size}} ميجابايت"
+  },
+  "generic.error.failedToReadFile": {
+    "translation": "خطأ: فشل في قراءة الملف"
+  },
+  "generic.loading": {
+    "translation": "جارٍ التحميل..."
+  },
+  "generic.more": {
+    "translation": "المزيد..."
+  },
+  "generic.optional": {
+    "translation": "اختياري"
+  },
+  "generic.required": {
+    "translation": "مطلوب"
+  },
+  "generic.tagline": {
+    "translation": "محرر برمجي يعمل ببساطة!"
+  },
+  "import.bulk.desc": {
+    "translation": "الاستيراد بالجملة لعدة مشاريع إلى مشاريعك المحفوظة. يمكن تصدير المشاريع من شاشة <tag-1>المشاريع المحفوظة</tag-1>."
+  },
+  "import.bulk.fromFile": {
+    "translation": "الاستيراد بالجملة من ملف محلي"
+  },
+  "import.bulk.fromURL": {
+    "translation": "الاستيراد بالجملة من رابط"
+  },
+  "import.bulk.heading": {
+    "translation": "الاستيراد بالجملة"
+  },
+  "import.bulk.started": {
+    "translation": "بدأ الاستيراد بالجملة..."
+  },
+  "import.code.desc": {
+    "translation": "المصادر المدعومة: <tag-1> <tag-2>GitHub gist</tag-2> <tag-3>ملف GitHub</tag-3> <tag-4>دليل في مستودع GitHub</tag-4> <tag-5>مقتطف Gitlab</tag-5> <tag-6>ملف Gitlab</tag-6> <tag-7>دليل في مستودع Gitlab</tag-7> <tag-8>JS Bin</tag-8> <tag-9>كود خام</tag-9> <tag-10>كود في DOM صفحة الويب</tag-10> <tag-11>كود في ملف مضغوط</tag-11> <tag-12>كود في صورة (OCR)</tag-12> <tag-13>الملاعب الرسمية<tag-14></tag-14>(TypeScript و Vue)</tag-13> </tag-1> يرجى زيارة <tag-15>الوثائق</tag-15> للتفاصيل."
+  },
+  "import.code.fromFile": {
+    "translation": "استيراد ملفات محلية"
+  },
+  "import.code.fromURL": {
+    "translation": "استيراد من رابط"
+  },
+  "import.code.heading": {
+    "translation": "استيراد الكود"
+  },
+  "import.error.failedToLoadURL": {
+    "translation": "خطأ: فشل في تحميل الرابط"
+  },
+  "import.error.invalidConfigFile": {
+    "translation": "ملف إعدادات غير صالح"
+  },
+  "import.error.invalidFile": {
+    "translation": "خطأ: ملف غير صالح"
+  },
+  "import.generic.file": {
+    "translation": "ملف محلي"
+  },
+  "import.generic.url": {
+    "translation": "رابط"
+  },
+  "import.heading": {
+    "translation": "استيراد"
+  },
+  "import.json.desc": {
+    "translation": "استيراد ملف JSON لمشروع واحد إلى المحرر. يمكن تصدير المشروع من قائمة التطبيق → تصدير → تصدير المشروع (JSON)."
+  },
+  "import.json.fromFile": {
+    "translation": "استيراد مشروع من ملف محلي"
+  },
+  "import.json.fromURL": {
+    "translation": "استيراد مشروع من رابط"
+  },
+  "import.json.heading": {
+    "translation": "استيراد مشروع JSON"
+  },
+  "import.success": {
+    "translation": "تم الاستيراد بنجاح!"
+  },
+  "keyboardShortcuts.command": {
+    "translation": "الأمر"
+  },
+  "keyboardShortcuts.editorShortcuts": {
+    "translation": "للاطلاع على قائمة اختصارات لوحة مفاتيح محرر الأكواد، راجع <tag-1> اختصارات VS Code</tag-1>"
+  },
+  "keyboardShortcuts.heading": {
+    "translation": "اختصارات لوحة المفاتيح"
+  },
+  "keyboardShortcuts.key": {
+    "translation": "المفتاح"
+  },
+  "login.accessAllowed": {
+    "translation": "السماح بالوصول إلى:"
+  },
+  "login.desc": {
+    "translation": "<tag-1>بتسجيل الدخول، فإنك توافق على أنه قد يتم تخزين <tag-2>ملفات تعريف الارتباط</tag-2> على جهازك.</tag-1> <tag-3> <tag-4>لماذا هذه الأذونات مطلوبة؟</tag-4> </tag-3> <tag-5> <tag-6>كيفية تغيير/إلغاء الأذونات؟</tag-6> </tag-5>"
+  },
+  "login.gist": {
+    "translation": "Gists"
+  },
+  "login.heading": {
+    "translation": "تسجيل الدخول باستخدام GitHub"
+  },
+  "login.loginAs": {
+    "translation": "تم تسجيل الدخول كـ {{name}}"
+  },
+  "login.loginBtn": {
+    "translation": "تسجيل الدخول"
+  },
+  "login.logout": {
+    "translation": "تسجيل الخروج"
+  },
+  "login.privateRepo": {
+    "translation": "المستودعات الخاصة"
+  },
+  "login.publicRepo": {
+    "translation": "المستودعات"
+  },
+  "menu.about": {
+    "translation": "حول"
+  },
+  "menu.appHelp.heading": {
+    "translation": "المساعدة"
+  },
+  "menu.appHelp.hint": {
+    "translation": "المساعدة"
+  },
+  "menu.appProject.heading": {
+    "translation": "المشروع"
+  },
+  "menu.appProject.hint": {
+    "translation": "المشروع"
+  },
+  "menu.appSettings.heading": {
+    "translation": "الإعدادات"
+  },
+  "menu.appSettings.hint": {
+    "translation": "إعدادات التطبيق"
+  },
+  "menu.assets": {
+    "translation": "الملفات …"
+  },
+  "menu.autoSave": {
+    "translation": "حفظ تلقائي"
+  },
+  "menu.autoUpdate": {
+    "translation": "تحديث تلقائي"
+  },
+  "menu.backup": {
+    "translation": "نسخ احتياطي / استعادة …"
+  },
+  "menu.blog": {
+    "translation": "مدونة LiveCodes"
+  },
+  "menu.broadcast": {
+    "translation": "بث …"
+  },
+  "menu.commandMenu": {
+    "translation": "قائمة الأوامر"
+  },
+  "menu.config": {
+    "translation": "إعدادات"
+  },
+  "menu.customSettings": {
+    "translation": "إعدادات مخصصة …"
+  },
+  "menu.delay.heading": {
+    "translation": "تأخير: <tag-1>1.5</tag-1> ثانية"
+  },
+  "menu.delay.hint": {
+    "translation": "تأخير قبل التحديث التلقائي"
+  },
+  "menu.deploy": {
+    "translation": "نشر …"
+  },
+  "menu.docs": {
+    "translation": "التوثيق"
+  },
+  "menu.editorSettings": {
+    "translation": "إعدادات المحرر …"
+  },
+  "menu.embed": {
+    "translation": "تضمين …"
+  },
+  "menu.export.codepen": {
+    "translation": "تحرير في CodePen"
+  },
+  "menu.export.gist": {
+    "translation": "تصدير إلى GitHub Gist"
+  },
+  "menu.export.heading": {
+    "translation": "تصدير"
+  },
+  "menu.export.jsfiddle": {
+    "translation": "تحرير في JSFiddle"
+  },
+  "menu.export.json": {
+    "translation": "تصدير المشروع (JSON)"
+  },
+  "menu.export.result": {
+    "translation": "تصدير النتيجة (HTML)"
+  },
+  "menu.export.src": {
+    "translation": "تصدير المصدر (ZIP)"
+  },
+  "menu.features": {
+    "translation": "الميزات"
+  },
+  "menu.formatOnsave": {
+    "translation": "تنسيق عند الحفظ"
+  },
+  "menu.getstart": {
+    "translation": "البدء"
+  },
+  "menu.import": {
+    "translation": "استيراد …"
+  },
+  "menu.keyboardShortcuts": {
+    "translation": "اختصارات لوحة المفاتيح"
+  },
+  "menu.layout": {
+    "translation": "تخطيط عمودي"
+  },
+  "menu.license": {
+    "translation": "الترخيص"
+  },
+  "menu.login": {
+    "translation": "تسجيل الدخول …"
+  },
+  "menu.logout": {
+    "translation": "تسجيل الخروج"
+  },
+  "menu.new": {
+    "translation": "جديد …"
+  },
+  "menu.open": {
+    "translation": "فتح …"
+  },
+  "menu.project": {
+    "translation": "معلومات المشروع …"
+  },
+  "menu.recoverUnsaved": {
+    "translation": "استعادة غير المحفوظ"
+  },
+  "menu.report": {
+    "translation": "الإبلاغ عن مشكلة"
+  },
+  "menu.resources": {
+    "translation": "الموارد الخارجية …"
+  },
+  "menu.save": {
+    "translation": "حفظ"
+  },
+  "menu.saveAs.fork": {
+    "translation": "تفرع (مشروع جديد)"
+  },
+  "menu.saveAs.heading": {
+    "translation": "حفظ باسم"
+  },
+  "menu.saveAs.template": {
+    "translation": "قالب"
+  },
+  "menu.sdk": {
+    "translation": "SDK"
+  },
+  "menu.share": {
+    "translation": "مشاركة …"
+  },
+  "menu.showSpacing.heading": {
+    "translation": "إظهار المسافات"
+  },
+  "menu.showSpacing.hint": {
+    "translation": "اضغط على Alt/Option وحرك المؤشر فوق صفحة النتيجة"
+  },
+  "menu.showWelcome.title": {
+    "translation": "إظهار شاشة الترحيب عند بدء التشغيل"
+  },
+  "menu.snippets": {
+    "translation": "مقتطفات الكود …"
+  },
+  "menu.source": {
+    "translation": "كود المصدر على GitHub"
+  },
+  "menu.sync": {
+    "translation": "مزامنة (تجريبي) … <tag-1> ⏳</tag-1>"
+  },
+  "menu.theme": {
+    "translation": "السمة الداكنة"
+  },
+  "menu.themeColor": {
+    "translation": "اللون"
+  },
+  "menu.welcome.heading": {
+    "translation": "الترحيب …"
+  },
+  "open.action.delete": {
+    "translation": "حذف"
+  },
+  "open.defaultTemplate": {
+    "translation": "القالب الافتراضي "
+  },
+  "open.delete.all": {
+    "translation": "حذف {{projects}} مشروع؟"
+  },
+  "open.delete.deleting": {
+    "translation": "جارٍ حذف المشاريع..."
+  },
+  "open.delete.one": {
+    "translation": "حذف المشروع: {{project}}؟"
+  },
+  "open.deleteAll": {
+    "translation": "حذف الكل"
+  },
+  "open.exportAll": {
+    "translation": "تصدير الكل"
+  },
+  "open.filter.language": {
+    "translation": "تصفية حسب اللغة"
+  },
+  "open.filter.tag": {
+    "translation": "تصفية حسب الوسم"
+  },
+  "open.heading": {
+    "translation": "المشاريع المحفوظة"
+  },
+  "open.import": {
+    "translation": "استيراد"
+  },
+  "open.lastModified": {
+    "translation": "آخر تعديل: {{modified}}"
+  },
+  "open.noData.desc": {
+    "translation": "يمكنك حفظ مشروع من (قائمة الإعدادات > حفظ) أو باستخدام اختصار لوحة المفاتيح (Ctrl/Cmd + S)."
+  },
+  "open.noData.heading": {
+    "translation": "ليس لديك مشاريع محفوظة."
+  },
+  "open.noMatch": {
+    "translation": "لا توجد مشاريع تطابق هذه المرشحات."
+  },
+  "open.placeholder.allLanguages": {
+    "translation": "جميع اللغات"
+  },
+  "open.placeholder.filterByTags": {
+    "translation": "تصفية حسب الوسوم"
+  },
+  "open.placeholder.search": {
+    "translation": "بحث"
+  },
+  "open.removeDefault": {
+    "translation": "(إلغاء التعيين)"
+  },
+  "open.reset": {
+    "translation": "إعادة تعيين"
+  },
+  "open.setAsDefault": {
+    "translation": "تعيين كافتراضي"
+  },
+  "open.sort.heading": {
+    "translation": "ترتيب حسب:"
+  },
+  "open.sort.lastModified": {
+    "translation": "آخر تعديل"
+  },
+  "open.sort.title": {
+    "translation": "العنوان"
+  },
+  "project.desc": {
+    "translation": "الوصف"
+  },
+  "project.head": {
+    "translation": "إضافة إلى &lt;head&gt;"
+  },
+  "project.heading": {
+    "translation": "معلومات المشروع"
+  },
+  "project.htmlAttr": {
+    "translation": "سمات لـ &lt;html&gt;"
+  },
+  "project.tags": {
+    "translation": "الوسوم"
+  },
+  "project.title": {
+    "translation": "عنوان المشروع"
+  },
+  "recoverPrompt.desc": {
+    "translation": "آخر مشروع لديك يحتوي على تغييرات غير محفوظة!"
+  },
+  "recoverPrompt.heading": {
+    "translation": "استعادة المشروع غير المحفوظ؟"
+  },
+  "recoverPrompt.meta": {
+    "translation": "العنوان: <tag-1></tag-1> <tag-2></tag-2> آخر تعديل: <tag-3></tag-3>"
+  },
+  "recoverPrompt.notShowAgain": {
+    "translation": "عدم إظهار هذا مرة أخرى."
+  },
+  "recoverPrompt.prompt.discard": {
+    "translation": "تجاهل المشروع غير المحفوظ"
+  },
+  "recoverPrompt.prompt.heading": {
+    "translation": "<tag-1></tag-1>هل تريد استعادته الآن؟"
+  },
+  "recoverPrompt.prompt.recover": {
+    "translation": "استعادة المشروع إلى المحرر"
+  },
+  "recoverPrompt.prompt.save": {
+    "translation": "حفظ على الجهاز والمتابعة"
+  },
+  "resources.browseOnJsDelivr": {
+    "translation": "تصفح ملفات الحزمة على jsDelivr"
+  },
+  "resources.cssPresets.heading": {
+    "translation": "إعدادات CSS المسبقة"
+  },
+  "resources.cssPresets.none": {
+    "translation": "لا شيء"
+  },
+  "resources.cssPresets.normalizeCss": {
+    "translation": "Normalize.css"
+  },
+  "resources.cssPresets.resetCss": {
+    "translation": "إعادة تعيين CSS"
+  },
+  "resources.error.failedToLoadResults": {
+    "translation": "فشل في تحميل النتائج!"
+  },
+  "resources.error.noResultsFound": {
+    "translation": "لم يتم العثور على نتائج لـ: "
+  },
+  "resources.fonts.add": {
+    "translation": "إضافة"
+  },
+  "resources.fonts.heading": {
+    "translation": "الخطوط <tag-1>(مدعوم بواسطة Google Fonts)</tag-1>"
+  },
+  "resources.fonts.select": {
+    "translation": "اختر الخط ..."
+  },
+  "resources.heading": {
+    "translation": "الموارد الخارجية"
+  },
+  "resources.scripts": {
+    "translation": "النصوص البرمجية الخارجية"
+  },
+  "resources.search.heading": {
+    "translation": "البحث عن الحزم <tag-1>(مدعوم بواسطة jsDelivr)</tag-1>"
+  },
+  "resources.search.placeholder": {
+    "translation": "مثال: jquery, lodash@4, bootstrap@5.2.3, ..."
+  },
+  "resources.stylesheets": {
+    "translation": "أوراق الأنماط الخارجية"
+  },
+  "resources.urlDesc": {
+    "translation": "أضف روابط ورقة الأنماط/النص البرمجي. يجب أن يكون كل رابط في سطر منفصل."
+  },
+  "resultMode.linkText": {
+    "translation": "تحرير على LiveCodes"
+  },
+  "savePrompt.heading": {
+    "translation": "تغييرات غير محفوظة"
+  },
+  "savePrompt.prompt.cancel": {
+    "translation": "إلغاء"
+  },
+  "savePrompt.prompt.discard": {
+    "translation": "عدم الحفظ"
+  },
+  "savePrompt.prompt.heading": {
+    "translation": "التغييرات التي أجريتها قد لا يتم حفظها. <tag-1></tag-1> هل تريد الحفظ الآن؟"
+  },
+  "savePrompt.prompt.save": {
+    "translation": "حفظ"
+  },
+  "share.characters": {
+    "translation": "{{urlLength}} حرف"
+  },
+  "share.copy.clickToCopy": {
+    "translation": "انقر للنسخ"
+  },
+  "share.copy.copied": {
+    "translation": "تم نسخ الرابط إلى الحافظة"
+  },
+  "share.encodedURL": {
+    "translation": "الحصول على رابط مشفر"
+  },
+  "share.error.failedToCopy": {
+    "translation": "فشل النسخ إلى الحافظة!"
+  },
+  "share.error.failedToGenerateURL": {
+    "translation": "فشل في إنشاء رابط قصير!"
+  },
+  "share.expireInOneYear": {
+    "translation": "ينتهي في غضون سنة واحدة"
+  },
+  "share.generateURL": {
+    "translation": "جارٍ إنشاء الرابط …"
+  },
+  "share.heading": {
+    "translation": "مشاركة"
+  },
+  "share.permanentURL": {
+    "translation": "الرابط الدائم"
+  },
+  "share.qrcode.clickToDownload": {
+    "translation": "انقر للتحميل"
+  },
+  "share.qrcode.generating": {
+    "translation": "جارٍ الإنشاء..."
+  },
+  "share.services.devTo": {
+    "translation": "Dev.to"
+  },
+  "share.services.email": {
+    "translation": "البريد الإلكتروني"
+  },
+  "share.services.facebook": {
+    "translation": "فيسبوك"
+  },
+  "share.services.hackerNews": {
+    "translation": "هاكر نيوز"
+  },
+  "share.services.linkedIn": {
+    "translation": "لينكد إن"
+  },
+  "share.services.pinterest": {
+    "translation": "بينتيريست"
+  },
+  "share.services.pocket": {
+    "translation": "بوكيت"
+  },
+  "share.services.qrCode": {
+    "translation": "رمز QR"
+  },
+  "share.services.reddit": {
+    "translation": "ريديت"
+  },
+  "share.services.share": {
+    "translation": "مشاركة عبر …"
+  },
+  "share.services.telegram": {
+    "translation": "تيليجرام"
+  },
+  "share.services.tumblr": {
+    "translation": "تمبلر"
+  },
+  "share.services.twitter": {
+    "translation": "𝕏 / تويتر"
+  },
+  "share.services.whatsApp": {
+    "translation": "واتساب"
+  },
+  "share.shortURL": {
+    "translation": "الحصول على رابط قصير"
+  },
+  "snippets.action.copy": {
+    "translation": "نسخ"
+  },
+  "snippets.action.delete": {
+    "translation": "حذف"
+  },
+  "snippets.action.edit": {
+    "translation": "تعديل"
+  },
+  "snippets.add.code": {
+    "translation": "الكود"
+  },
+  "snippets.add.desc": {
+    "translation": "الوصف"
+  },
+  "snippets.add.heading": {
+    "translation": "إضافة مقتطف"
+  },
+  "snippets.add.language": {
+    "translation": "اللغة"
+  },
+  "snippets.add.save": {
+    "translation": "حفظ"
+  },
+  "snippets.add.snippets": {
+    "translation": "المقتطفات"
+  },
+  "snippets.add.title": {
+    "translation": "العنوان"
+  },
+  "snippets.copy.clickToCopySnippet": {
+    "translation": "انقر لنسخ المقتطف"
+  },
+  "snippets.copy.copied": {
+    "translation": "تم نسخ المقتطف إلى الحافظة."
+  },
+  "snippets.delete.all": {
+    "translation": "حذف {{snippets}} مقتطف؟"
+  },
+  "snippets.delete.one": {
+    "translation": "حذف المقتطف: {{snippet}}؟"
+  },
+  "snippets.deleteAll": {
+    "translation": "حذف الكل"
+  },
+  "snippets.error.failedToCopy": {
+    "translation": "فشل في نسخ الرابط."
+  },
+  "snippets.error.noTitle": {
+    "translation": "الرجاء إضافة عنوان للمقتطف."
+  },
+  "snippets.filter.language": {
+    "translation": "تصفية حسب اللغة"
+  },
+  "snippets.heading": {
+    "translation": "مقتطفات الكود"
+  },
+  "snippets.lastModified": {
+    "translation": "آخر تعديل: {{modified}}"
+  },
+  "snippets.noMatch": {
+    "translation": "لا توجد مقتطفات تطابق هذه المرشحات."
+  },
+  "snippets.noSavedSnippets": {
+    "translation": "ليس لديك مقتطفات محفوظة."
+  },
+  "snippets.placeholder.allLanguages": {
+    "translation": "جميع اللغات"
+  },
+  "snippets.placeholder.search": {
+    "translation": "بحث"
+  },
+  "snippets.reset": {
+    "translation": "إعادة تعيين"
+  },
+  "snippets.save.success": {
+    "translation": "تم حفظ المقتطف محليًا على الجهاز!"
+  },
+  "snippets.sort.date": {
+    "translation": "التاريخ"
+  },
+  "snippets.sort.heading": {
+    "translation": "ترتيب حسب:"
+  },
+  "snippets.sort.title": {
+    "translation": "العنوان"
+  },
+  "snippets.text": {
+    "translation": "نص عادي"
+  },
+  "splash.loading": {
+    "translation": "جارٍ تحميل LiveCodes…"
+  },
+  "sync.autoSync": {
+    "translation": "مزامنة تلقائية"
+  },
+  "sync.create.desc": {
+    "translation": "سيتم إنشاء مستودع <tag-1>خاص</tag-1> جديد. ستتم مزامنة بيانات LiveCodes المحلية مع فرع <tag-2>main</tag-2>."
+  },
+  "sync.create.heading": {
+    "translation": "إنشاء مستودع جديد"
+  },
+  "sync.create.repoName": {
+    "translation": "اسم المستودع"
+  },
+  "sync.error.generic": {
+    "translation": "فشلت المزامنة!"
+  },
+  "sync.error.repoNameRequired": {
+    "translation": "اسم المستودع مطلوب"
+  },
+  "sync.existing.desc": {
+    "translation": "ستتم مزامنة بيانات LiveCodes المحلية مع فرع <tag-1>main</tag-1>."
+  },
+  "sync.existing.heading": {
+    "translation": "مستودع موجود"
+  },
+  "sync.existing.repoName": {
+    "translation": "اسم المستودع"
+  },
+  "sync.heading": {
+    "translation": "مزامنة مع مستودع GitHub"
+  },
+  "sync.searchRepos": {
+    "translation": "البحث في مستودعاتك..."
+  },
+  "sync.success": {
+    "translation": "اكتملت المزامنة!"
+  },
+  "sync.syncBtn": {
+    "translation": "مزامنة"
+  },
+  "sync.syncInProgress": {
+    "translation": "المزامنة قيد التقدم..."
+  },
+  "sync.syncStarted": {
+    "translation": "بدأت المزامنة..."
+  },
+  "templates.heading": {
+    "translation": "مشروع جديد"
+  },
+  "templates.noUserTemplates.desc": {
+    "translation": "يمكنك حفظ مشروع كقالب من <tag-1></tag-1>(قائمة التطبيق > حفظ باسم > قالب)."
+  },
+  "templates.noUserTemplates.heading": {
+    "translation": "ليس لديك قوالب محفوظة."
+  },
+  "templates.search.label": {
+    "translation": "بحث في القوالب"
+  },
+  "templates.search.placeholder": {
+    "translation": "بحث في القوالب..."
+  },
+  "templates.starter.angular": {
+    "translation": "قالب Angular"
+  },
+  "templates.starter.assemblyscript": {
+    "translation": "قالب AssemblyScript"
+  },
+  "templates.starter.astro": {
+    "translation": "قالب Astro"
+  },
+  "templates.starter.backbone": {
+    "translation": "قالب Backbone"
+  },
+  "templates.starter.blank": {
+    "translation": "قالب فارغ"
+  },
+  "templates.starter.blockly": {
+    "translation": "قالب Blockly"
+  },
+  "templates.starter.bootstrap": {
+    "translation": "قالب Bootstrap"
+  },
+  "templates.starter.civet": {
+    "translation": "قالب Civet"
+  },
+  "templates.starter.clio": {
+    "translation": "قالب Clio"
+  },
+  "templates.starter.clojurescript": {
+    "translation": "قالب ClojureScript"
+  },
+  "templates.starter.coffeescript": {
+    "translation": "قالب CoffeeScript"
+  },
+  "templates.starter.commonlisp": {
+    "translation": "قالب Common Lisp"
+  },
+  "templates.starter.cpp": {
+    "translation": "قالب C++"
+  },
+  "templates.starter.cpp-wasm": {
+    "translation": "قالب C++ (Wasm)"
+  },
+  "templates.starter.csharp-wasm": {
+    "translation": "قالب C# (Wasm)"
+  },
+  "templates.starter.d3": {
+    "translation": "قالب D3"
+  },
+  "templates.starter.daisyui": {
+    "translation": "قالب daisyUI"
+  },
+  "templates.starter.diagrams": {
+    "translation": "قالب الرسوم البيانية"
+  },
+  "templates.starter.fennel": {
+    "translation": "قالب Fennel"
+  },
+  "templates.starter.gleam": {
+    "translation": "قالب Gleam"
+  },
+  "templates.starter.go": {
+    "translation": "قالب Go"
+  },
+  "templates.starter.go-wasm": {
+    "translation": "قالب Go (Wasm)"
+  },
+  "templates.starter.heading": {
+    "translation": "قوالب البداية"
+  },
+  "templates.starter.imba": {
+    "translation": "قالب Imba"
+  },
+  "templates.starter.java": {
+    "translation": "قالب Java"
+  },
+  "templates.starter.javascript": {
+    "translation": "قالب JavaScript"
+  },
+  "templates.starter.jest": {
+    "translation": "قالب Jest"
+  },
+  "templates.starter.jest-react": {
+    "translation": "قالب Jest/React"
+  },
+  "templates.starter.jquery": {
+    "translation": "قالب jQuery"
+  },
+  "templates.starter.julia": {
+    "translation": "قالب Julia"
+  },
+  "templates.starter.knockout": {
+    "translation": "قالب Knockout"
+  },
+  "templates.starter.lit": {
+    "translation": "قالب Lit"
+  },
+  "templates.starter.livescript": {
+    "translation": "قالب LiveScript"
+  },
+  "templates.starter.loading": {
+    "translation": "جارٍ تحميل قوالب البداية..."
+  },
+  "templates.starter.lua": {
+    "translation": "قالب Lua"
+  },
+  "templates.starter.lua-wasm": {
+    "translation": "قالب Lua (Wasm)"
+  },
+  "templates.starter.malina": {
+    "translation": "قالب Malina.js"
+  },
+  "templates.starter.markdown": {
+    "translation": "قالب Markdown"
+  },
+  "templates.starter.mdx": {
+    "translation": "قالب MDX"
+  },
+  "templates.starter.minizinc": {
+    "translation": "قالب MiniZinc"
+  },
+  "templates.starter.ocaml": {
+    "translation": "قالب Ocaml"
+  },
+  "templates.starter.perl": {
+    "translation": "قالب Perl"
+  },
+  "templates.starter.phaser": {
+    "translation": "قالب Phaser"
+  },
+  "templates.starter.php": {
+    "translation": "قالب PHP"
+  },
+  "templates.starter.php-wasm": {
+    "translation": "قالب PHP (Wasm)"
+  },
+  "templates.starter.postgresql": {
+    "translation": "قالب PostgreSQL"
+  },
+  "templates.starter.preact": {
+    "translation": "قالب Preact"
+  },
+  "templates.starter.prolog": {
+    "translation": "قالب Prolog"
+  },
+  "templates.starter.python": {
+    "translation": "قالب Python"
+  },
+  "templates.starter.python-wasm": {
+    "translation": "قالب Python (Wasm)"
+  },
+  "templates.starter.r": {
+    "translation": "قالب R"
+  },
+  "templates.starter.react": {
+    "translation": "قالب React"
+  },
+  "templates.starter.react-native": {
+    "translation": "قالب React Native"
+  },
+  "templates.starter.reason": {
+    "translation": "قالب Reason"
+  },
+  "templates.starter.rescript": {
+    "translation": "قالب ReScript"
+  },
+  "templates.starter.riot": {
+    "translation": "قالب Riot.js"
+  },
+  "templates.starter.ruby": {
+    "translation": "قالب Ruby"
+  },
+  "templates.starter.ruby-wasm": {
+    "translation": "قالب Ruby-Wasm"
+  },
+  "templates.starter.scheme": {
+    "translation": "قالب Scheme"
+  },
+  "templates.starter.shadcnui": {
+    "translation": "قالب shadcn/ui"
+  },
+  "templates.starter.solid": {
+    "translation": "قالب Solid"
+  },
+  "templates.starter.sql": {
+    "translation": "قالب SQL"
+  },
+  "templates.starter.stencil": {
+    "translation": "قالب Stencil"
+  },
+  "templates.starter.svelte": {
+    "translation": "قالب Svelte"
+  },
+  "templates.starter.tailwindcss": {
+    "translation": "قالب Tailwind CSS"
+  },
+  "templates.starter.tcl": {
+    "translation": "قالب Tcl"
+  },
+  "templates.starter.teal": {
+    "translation": "قالب Teal"
+  },
+  "templates.starter.typescript": {
+    "translation": "قالب TypeScript"
+  },
+  "templates.starter.vue": {
+    "translation": "قالب Vue"
+  },
+  "templates.starter.vue2": {
+    "translation": "قالب Vue 2"
+  },
+  "templates.starter.wat": {
+    "translation": "قالب WebAssembly Text"
+  },
+  "templates.user.heading": {
+    "translation": "قوالبي"
+  },
+  "templates.user.loading": {
+    "translation": "جارٍ تحميل قوالب المستخدم..."
+  },
+  "testEditor.heading": {
+    "translation": "تحرير الاختبارات"
+  },
+  "testEditor.load": {
+    "translation": "تحميل"
+  },
+  "testEditor.tests": {
+    "translation": "الاختبارات"
+  },
+  "testSettings.desc": {
+    "translation": "<tag-1></tag-1> لمزيد من التفاصيل، يرجى الرجوع إلى <tag-2>الوثائق</tag-2>"
+  },
+  "toolspane.close": {
+    "translation": "إغلاق"
+  },
+  "toolspane.compiled.title": {
+    "translation": "الناتج"
+  },
+  "toolspane.console.clear": {
+    "translation": "مسح رسائل الكونسول"
+  },
+  "toolspane.console.title": {
+    "translation": "الكونسول"
+  },
+  "toolspane.test.edit": {
+    "translation": "تحرير"
+  },
+  "toolspane.test.error": {
+    "translation": "<tag-1><tag-2>خطأ في الاختبار!</tag-2></tag-1>"
+  },
+  "toolspane.test.loading": {
+    "translation": "<tag-1>جارٍ تحميل الاختبارات...</tag-1>"
+  },
+  "toolspane.test.noTest": {
+    "translation": "<tag-1>هذا المشروع لا يحتوي على اختبارات!</tag-1>"
+  },
+  "toolspane.test.reset": {
+    "translation": "إعادة تعيين"
+  },
+  "toolspane.test.run.desc": {
+    "translation": "Ctrl/Cmd + Alt + T"
+  },
+  "toolspane.test.run.heading": {
+    "translation": "تشغيل"
+  },
+  "toolspane.test.summary.desc": {
+    "translation": "الاختبارات: {{failed}}\n            {{passed}}\n            {{skipped}}\n            {{total}}<tag-1></tag-1>\nالوقت: {{duration}} ثانية"
+  },
+  "toolspane.test.summary.failed": {
+    "translation": "{{failedNum}} فشل"
+  },
+  "toolspane.test.summary.passed": {
+    "translation": "{{passedNum}} نجح"
+  },
+  "toolspane.test.summary.skipped": {
+    "translation": "{{skippedNum}} تم تخطيه"
+  },
+  "toolspane.test.summary.total": {
+    "translation": "{{totalNum}} المجموع"
+  },
+  "toolspane.test.title": {
+    "translation": "الاختبارات"
+  },
+  "toolspane.test.watch.desc": {
+    "translation": "تشغيل الاختبارات عند تغيير الكود"
+  },
+  "toolspane.test.watch.heading": {
+    "translation": "مراقبة"
+  },
+  "welcome.about.documentation": {
+    "translation": "الوثائق"
+  },
+  "welcome.about.heading": {
+    "translation": "حول LiveCodes"
+  },
+  "welcome.heading": {
+    "translation": "مرحبًا"
+  },
+  "welcome.recent.heading": {
+    "translation": "الأخيرة"
+  },
+  "welcome.recover.cancel": {
+    "translation": "إلغاء"
+  },
+  "welcome.recover.heading": {
+    "translation": "استعادة"
+  },
+  "welcome.recover.lastModified": {
+    "translation": "آخر تعديل:"
+  },
+  "welcome.recover.recover": {
+    "translation": "استعادة"
+  },
+  "welcome.recover.save": {
+    "translation": "حفظ"
+  },
+  "welcome.recover.unsavedChanges": {
+    "translation": "آخر مشروع لديك يحتوي على تغييرات غير محفوظة:"
+  },
+  "welcome.showOnStartup": {
+    "translation": "إظهار عند بدء التشغيل"
+  },
+  "welcome.start.heading": {
+    "translation": "بدء"
+  },
+  "welcome.start.import": {
+    "translation": "استيراد..."
+  },
+  "welcome.start.loadDefaultTemplate": {
+    "translation": "تحميل القالب الافتراضي"
+  },
+  "welcome.start.new": {
+    "translation": "جديد..."
+  },
+  "welcome.start.noDefaultTemplate": {
+    "translation": "لا يوجد قالب افتراضي"
+  },
+  "welcome.start.open": {
+    "translation": "فتح..."
+  },
+  "welcome.templates.heading": {
+    "translation": "قوالب البداية"
+  }
+}

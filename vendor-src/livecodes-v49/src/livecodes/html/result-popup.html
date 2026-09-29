@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <title>LiveCodes</title>
+    <style>
+      html,
+      body {
+        margin: 0;
+        padding: 0;
+        width: 100vw;
+        height: 100vh;
+        overflow: hidden;
+      }
+      #result {
+        border: 0;
+        width: 100%;
+        height: 100%;
+      }
+    </style>
+  </head>
+  <body>
+    <script>
+      let url;
+      const createIframe = (html) => {
+        if (!url) return;
+        const prevIframe = document.querySelector('#result');
+        if (prevIframe) {
+          prevIframe.remove();
+        }
+        const iframe = document.createElement('iframe');
+        iframe.id = 'result';
+        iframe.setAttribute(
+          'sandbox',
+          'allow-same-origin allow-downloads allow-forms allow-modals allow-orientation-lock allow-pointer-lock allow-popups allow-presentation allow-scripts',
+        );
+        iframe.src = url;
+        iframe.addEventListener(
+          'load',
+          () => {
+            iframe.contentWindow.postMessage({ html }, '*');
+          },
+          { once: true },
+        );
+        document.body.appendChild(iframe);
+      };
+
+      addEventListener('message', (ev) => {
+        if (ev.source != window.opener) return;
+        if (ev.data.url) {
+          url = ev.data.url;
+          window.opener.postMessage({ type: 'ready' }, '*');
+          return;
+        }
+        const result = ev.data.result;
+        if (url == null || result == null) return;
+        createIframe(result);
+      });
+
+      window.opener.postMessage({ type: 'loaded' }, '*');
+    </script>
+  </body>
+</html>

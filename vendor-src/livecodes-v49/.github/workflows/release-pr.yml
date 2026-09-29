@@ -1,0 +1,29 @@
+name: Release PR
+
+# on creating a release branch (releases/**) create a PR to develop
+on: create
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    if: contains(github.ref, 'refs/heads/releases/')
+    steps:
+      - name: Generate Github Token for CI Bot
+        uses: actions/create-github-app-token@v1
+        id: generate-token
+        with:
+          app-id: ${{ secrets.CI_APP_ID }}
+          private-key: ${{ secrets.CI_APP_PRIVATE_KEY }}
+
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          token: ${{ steps.generate-token.outputs.token }}
+
+      - name: Get version
+        id: vars
+        run: echo ::set-output name=version::$(echo ${{github.ref_name}} | sed 's/^releases\///')
+
+      - name: Create pull request to develop
+        run: gh pr create --title "Prepare release ${{steps.vars.outputs.version}}" --body "Prepare release ${{steps.vars.outputs.version}}" --base develop --head "${{github.ref_name}}"
+        env:
+          GITHUB_TOKEN: ${{ steps.generate-token.outputs.token }}

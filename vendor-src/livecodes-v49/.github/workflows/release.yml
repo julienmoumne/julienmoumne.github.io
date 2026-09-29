@@ -1,0 +1,122 @@
+name: Release
+
+on:
+  pull_request:
+    branches:
+      - develop
+    types: [closed]
+
+permissions:
+  id-token: write # Required for OIDC
+  contents: write
+
+env:
+  NODE_VERSION: 24.x
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    if: github.event.pull_request.merged && startsWith(github.head_ref, 'releases/')
+    env:
+      NODE_OPTIONS: "--max_old_space_size=8192"
+    steps:
+      - name: Generate Github Token for CI Bot
+        uses: actions/create-github-app-token@v1
+        id: generate-token
+        with:
+          app-id: ${{ secrets.CI_APP_ID }}
+          private-key: ${{ secrets.CI_APP_PRIVATE_KEY }}
+
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          token: ${{ steps.generate-token.outputs.token }}
+
+      - name: Get version
+        id: vars
+        run: echo ::set-output name=version::$(echo ${{github.head_ref}} | sed 's/^releases\///')
+
+      - name: Use Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: ${{ env.NODE_VERSION }}
+          cache: "npm"
+          cache-dependency-path: "**/package-lock.json"
+
+      # Ensure npm 11.5.1 or later is installed (for OIDC)
+      - name: Update npm
+        run: npm install -g npm@11.6.4
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Build
+        run: npm run build
+        env:
+          BUILD_INCLUDE_LOCALES: true
+
+      - name: Release notes
+        run: node ./scripts/release-notes.js
+
+      - name: Create tag
+        run: git tag ${{steps.vars.outputs.version}} && git push origin --tags
+
+      - name: Compress build directory (tar)
+        run: tar -czf livecodes-${{steps.vars.outputs.version}}.tar.gz build
+
+      - name: Compress build directory (zip)
+        uses: vimtor/action-zip@v1
+        with:
+          files: build/
+          dest: livecodes-${{steps.vars.outputs.version}}.zip
+
+      - name: Create release
+        uses: softprops/action-gh-release@v1
+        with:
+          name: ${{steps.vars.outputs.version}}
+          tag_name: ${{steps.vars.outputs.version}}
+          body_path: CHANGELOG.tmp.md
+          files: |
+            livecodes-${{steps.vars.outputs.version}}.tar.gz
+            livecodes-${{steps.vars.outputs.version}}.zip
+          token: ${{ steps.generate-token.outputs.token }}
+
+      - name: Create permanent URL
+        if: startsWith(github.head_ref, 'releases/v')
+        run: node ./scripts/create-permanent-url.js
+        env:
+          APP_VERSION: ${{steps.vars.outputs.version}}
+          CF_ACCOUNT_ID: ${{ secrets.CF_ACCOUNT_ID }}
+          CF_ZONE: ${{ secrets.CF_ZONE }}
+          CF_TOKEN: ${{ secrets.CF_TOKEN }}
+
+      # - name: Build and Push to Docker Hub
+      #   run: |
+      #     echo ${{secrets.DOCKERHUB_TOKEN}} | docker login --username ${{ vars.DOCKERHUB_USERNAME }} --password-stdin
+      #     docker build -t ${{ vars.DOCKERHUB_USERNAME }}/livecodes:latest -t ${{ vars.DOCKERHUB_USERNAME }}/livecodes:${{steps.vars.outputs.version}} .
+      #     docker push ${{ vars.DOCKERHUB_USERNAME }}/livecodes:latest
+      #     docker push ${{ vars.DOCKERHUB_USERNAME }}/livecodes:${{steps.vars.outputs.version}}
+
+      - name: Publish SDK to NPM
+        if: startsWith(github.head_ref, 'releases/sdk-v')
+        working-directory: ./build/sdk
+        run: npm publish --access=public
+
+      - name: Publish SDK to JSR
+        if: startsWith(github.head_ref, 'releases/sdk-v')
+        run: |
+          node ./scripts/prepare-jsr.mts
+          cd dist/jsr
+          npx jsr publish --allow-dirty
+
+      - name: Create pull request to main (App)
+        if: startsWith(github.head_ref, 'releases/v')
+        run: gh pr create --title "release ${{steps.vars.outputs.version}}" --body "https://${{steps.vars.outputs.version}}.livecodes.io" --base main --head develop
+        env:
+          GITHUB_TOKEN: ${{ steps.generate-token.outputs.token }}
+
+      - name: Create pull request to main (SDK)
+        if: startsWith(github.head_ref, 'releases/sdk-v')
+        run: gh pr create --title "release ${{steps.vars.outputs.version}}" --body "https://www.npmjs.com/package/livecodes" --base main --head develop
+        env:
+          GITHUB_TOKEN: ${{ steps.generate-token.outputs.token }}

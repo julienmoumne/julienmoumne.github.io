@@ -1,0 +1,163 @@
+<div id="about-container" class="modal-container">
+  <div class="modal-title" data-i18n="about.heading">About LiveCodes</div>
+  <div id="about-screen-container" class="modal-screen-container">
+    <div
+      class="about-logo"
+      title="LiveCodes: A Code Playground That Just Works!"
+      data-i18n="app.logo.title"
+      data-i18n-prop="title"
+    >
+      <img
+        src="livecodes/assets/images/livecodes-text-logo-nowrap.svg"
+        width="280"
+        height="auto"
+        alt="LiveCodes logo"
+      />
+    </div>
+
+    <div class="modal-section">
+      <h3 data-i18n="about.version.heading">Version</h3>
+      <ul class="about-version">
+        <li data-i18n="about.version.app" data-i18n-prop="innerHTML">
+          App version: <span class="version">{{APP_VERSION}}</span>
+        </li>
+        <li data-i18n="about.version.sdk" data-i18n-prop="innerHTML">
+          SDK version: <span class="version">{{SDK_VERSION}}</span>
+        </li>
+        <li data-i18n="about.version.commit" data-i18n-prop="innerHTML">
+          Git commit:
+          <a href="{{COMMIT_URL}}" target="_blank" rel="noopener" class="version">{{COMMIT_SHA}}</a>
+        </li>
+        <li>
+          <a
+            data-i18n="about.version.appPermanentUrl"
+            href="{{APP_URL}}"
+            target="_blank"
+            rel="noopener"
+            >App Permanent URL</a
+          >
+        </li>
+        <li>
+          <a
+            data-i18n="about.version.sdkPermanentUrl"
+            href="{{SDK_URL}}"
+            target="_blank"
+            rel="noopener"
+            >SDK Permanent URL</a
+          >
+        </li>
+      </ul>
+      <h3 data-i18n="about.credits.heading">Credits</h3>
+      <p data-i18n="about.credits.para1" data-i18n-prop="innerHTML">
+        LiveCodes is made possible by open source projects, web services and contributors.
+        <a href="{{DOCS_BASE_URL}}credits" target="_blank">View Credits</a>
+      </p>
+      <p data-i18n="about.credits.para2">
+        © 2024 Hatem Hosny. LiveCodes is licensed under MIT License.
+      </p>
+    </div>
+
+    <div class="modal-section" id="about-info">
+      <h3 data-i18n="about.livecodes.aboutUs">About LiveCodes</h3>
+      <p data-i18n="about.livecodes.para1" data-i18n-prop="innerHTML">
+        <strong><em>LiveCodes</em></strong> is an open-source, feature-rich, client-side code
+        playground. Currently, 90+ languages and frameworks are supported. It can be used as a
+        standalone app or embedded in any web page.
+      </p>
+      <p data-i18n="about.livecodes.para2" data-i18n-prop="innerHTML">
+        A powerful SDK makes it easy to integrate and communicate with playgrounds. Extensive
+        documentation is available with code examples, live demos, and screenshots.
+      </p>
+      <h3 data-i18n="about.documentations.heading">Documentations</h3>
+      <ul class="modal-docs">
+        <li>
+          <a
+            href="{{DOCS_BASE_URL}}getting-started"
+            target="_blank"
+            rel="noopener"
+            data-i18n="about.gettingStarted"
+            >Getting Started</a
+          >
+        </li>
+        <li>
+          <a
+            href="{{DOCS_BASE_URL}}"
+            target="_blank"
+            rel="noopener"
+            data-i18n="about.documentations.heading"
+            >Documentations</a
+          >
+        </li>
+        <li>
+          <a
+            href="{{DOCS_BASE_URL}}configuration"
+            target="_blank"
+            rel="noopener"
+            data-i18n="about.configuration"
+            >Configuration</a
+          >
+        </li>
+        <li>
+          <a href="{{DOCS_BASE_URL}}sdk" target="_blank" rel="noopener" data-i18n="about.sdk"
+            >LiveCodes SDK</a
+          >
+        </li>
+      </ul>
+
+      <div class="livecodes-support">
+        <div>
+          <a
+            href="{{DOCS_BASE_URL}}sponsor"
+            target="_blank"
+            rel="noopener"
+            title="Sponsor LiveCodes"
+            data-i18n="about.sponsor.title"
+            data-i18n-prop="title"
+          >
+            <i class="icon-sponsor"></i>
+            <br /><span data-i18n="about.sponsor.text">Sponsor</span></a
+          >
+        </div>
+        <div>
+          <a
+            href="https://blog.livecodes.io"
+            target="_blank"
+            rel="noopener"
+            title="LiveCodes Blog"
+            data-i18n="about.blog.title"
+            data-i18n-prop="title"
+          >
+            <i class="icon-blog"></i>
+            <br /><span data-i18n="about.blog.text">Blog</span></a
+          >
+        </div>
+        <div>
+          <a
+            href="https://twitter.com/livecodes_io"
+            target="_blank"
+            rel="noopener"
+            title="𝕏 / Twitter"
+            data-i18n="about.twitter.title"
+            data-i18n-prop="title"
+          >
+            <i class="icon-share-x"></i>
+            <br /><span data-i18n="about.twitter.text">𝕏 / Twitter</span></a
+          >
+        </div>
+        <div>
+          <a
+            href="{{REPO_URL}}"
+            target="_blank"
+            rel="noopener"
+            title="GitHub"
+            data-i18n="about.github.title"
+            data-i18n-prop="title"
+          >
+            <i class="icon-github"></i>
+            <br /><span data-i18n="about.github.text">GitHub</span></a
+          >
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

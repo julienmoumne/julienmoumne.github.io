@@ -1,0 +1,65 @@
+<div id="snippets-list-container" class="modal-container list-container">
+  <div class="modal-title" data-i18n="snippets.heading">Code Snippets</div>
+  <div class="modal-screen-container">
+    <div id="snippets-container" class="modal-message items-container">
+      <div class="buttons">
+        <button id="snippets-add-snippet-button" class="button" data-i18n="snippets.add.heading">
+          Add Snippet
+        </button>
+        <button
+          id="snippets-delete-all-button"
+          class="button danger"
+          data-i18n="snippets.deleteAll"
+        >
+          Delete All
+        </button>
+      </div>
+
+      <div class="modal-search">
+        <div>
+          <span id="sort-by-label">
+            <i class="icon-arrow-sort"></i>
+            <span data-i18n="snippets.sort.heading">Sort By:</span>
+          </span>
+          <a href="#" id="snippets-sort-by-last-modified" class="active"
+            ><i class="icon-calendar-sort"></i>
+            <span class="sort-time" data-i18n="snippets.sort.date">Date</span></a
+          ><a href="#" id="snippets-sort-by-title">
+            <i class="icon-arrow-text-sort"></i>
+            <span class="sort-title" data-i18n="snippets.sort.title">Title</span></a
+          ><a href="#" id="snippets-sorted-asc" style="display: none"
+            ><i class="icon-arrow-sort-up"></i></a
+          ><a href="#" id="snippets-sorted-desc"><i class="icon-arrow-sort-down"></i></a>
+          <select name="lang-filter" id="snippets-lang-filter">
+            <option value="" data-i18n="snippets.placeholder.allLanguages">All languages</option>
+          </select>
+        </div>
+        <div>
+          <input
+            id="search-snippets"
+            type="text"
+            placeholder="Search"
+            data-i18n="snippets.placeholder.search"
+            data-i18n-prop="placeholder"
+          />
+          <a
+            href="#"
+            id="snippets-reset-filters"
+            title="Reset"
+            data-i18n="snippets.reset"
+            data-i18n-prop="title"
+          >
+            <i class="icon-reset"></i>
+          </a>
+        </div>
+      </div>
+
+      <div class="modal-message no-data description alert">
+        <div data-i18n="snippets.noSavedSnippets">You have no saved snippets.</div>
+      </div>
+      <div class="modal-message no-data description confirm" id="snippets-no-match">
+        <div data-i18n="snippets.noMatch">No snippets match these filters.</div>
+      </div>
+    </div>
+  </div>
+</div>

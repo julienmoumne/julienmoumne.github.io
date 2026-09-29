@@ -1,0 +1,80 @@
+<div id="list-container" class="list-container modal-container">
+  <div class="modal-title" data-i18n="open.heading">Saved Projects</div>
+  <div id="projects-screen-container" class="modal-screen-container">
+    <div class="modal-message" id="projects-container" class="items-container">
+      <div class="buttons">
+        <button id="bulk-import-button" class="button" data-i18n="open.import">Import</button>
+        <button id="export-all-button" class="button" data-i18n="open.exportAll">Export All</button>
+        <button id="delete-all-button" class="button danger" data-i18n="open.deleteAll">
+          Delete All
+        </button>
+      </div>
+
+      <div class="modal-search">
+        <div>
+          <span id="sort-by-label">
+            <i class="icon-arrow-sort"></i>
+            <span data-i18n="open.sort.heading">Sort By:</span>
+          </span>
+          <a href="#" id="sort-by-last-modified" class="active">
+            <i class="icon-calendar-sort"></i>
+            <span class="sort-time" data-i18n="open.sort.lastModified">Last&nbsp;Modified</span>
+          </a>
+          <a href="#" id="sort-by-title">
+            <i class="icon-arrow-text-sort"></i>
+            <span class="sort-title" data-i18n="open.sort.title">Title</span></a
+          >
+          <a href="#" id="sorted-asc" style="display: none">
+            <i class="icon-arrow-sort-up"></i>
+          </a>
+          <a href="#" id="sorted-desc">
+            <i class="icon-arrow-sort-down"></i>
+          </a>
+          <select name="language-filter" id="language-filter">
+            <option value="" data-i18n="open.placeholder.allLanguages">All languages</option>
+          </select>
+          <input
+            id="filter-tags"
+            type="text"
+            placeholder="Filter by tags"
+            data-i18n="open.placeholder.filterByTags"
+            data-i18n-prop="placeholder"
+          />
+        </div>
+        <div>
+          <input
+            id="search-projects"
+            type="text"
+            placeholder="Search"
+            data-i18n="open.placeholder.search"
+            data-i18n-prop="placeholder"
+          />
+          <a
+            href="#"
+            id="reset-filters"
+            title="Reset"
+            data-i18n="open.reset"
+            data-i18n-prop="title"
+          >
+            <i class="icon-reset"></i>
+          </a>
+        </div>
+      </div>
+
+      <div class="modal-message no-data">
+        <div class="description alert" data-i18n="open.noData.heading">
+          You have no saved projects.
+        </div>
+        <div class="description help" data-i18n="open.noData.desc" data-i18n-prop="innerHTML">
+          You can save a project from (settings&nbsp;menu&nbsp;>&nbsp;Save) or by the keyboard
+          shortcut (Ctrl/⌘&nbsp;+&nbsp;S).
+        </div>
+      </div>
+      <div class="modal-message no-data" id="no-match">
+        <div class="description confirm" data-i18n="open.noMatch">
+          No projects match these filters.
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

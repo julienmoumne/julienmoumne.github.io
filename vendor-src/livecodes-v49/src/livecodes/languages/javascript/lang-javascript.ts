@@ -1,0 +1,28 @@
+import { codemirrorImports } from '../../editor/codemirror/utils';
+import type { LanguageSpecs } from '../../models';
+import { parserPlugins } from '../prettier';
+
+export const javascript: LanguageSpecs = {
+  name: 'javascript',
+  title: 'JS',
+  longTitle: 'JavaScript',
+  formatter: {
+    prettier: {
+      name: 'babel',
+      pluginUrls: [parserPlugins.babel, parserPlugins.html],
+    },
+  },
+  compiler: {
+    factory: () => async (code) => code,
+  },
+  extensions: ['js', 'mjs'],
+  editor: 'script',
+  editorSupport: {
+    codemirror: {
+      languageSupport: async () => {
+        const { javascript } = await import(codemirrorImports.javascript);
+        return javascript();
+      },
+    },
+  },
+};

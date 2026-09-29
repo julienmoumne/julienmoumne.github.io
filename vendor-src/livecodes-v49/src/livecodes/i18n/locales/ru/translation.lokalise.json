@@ -1,0 +1,2253 @@
+{
+  "$comment": "ATTENTION: This file is auto-generated from source code. Do not edit manually!",
+  "about.blog.text": {
+    "translation": "Блог"
+  },
+  "about.blog.title": {
+    "translation": "Блог LiveCodes"
+  },
+  "about.configuration": {
+    "translation": "Конфигурация"
+  },
+  "about.credits.heading": {
+    "translation": "Кредиты"
+  },
+  "about.credits.para1": {
+    "translation": "LiveCodes стал возможен благодаря проектам с открытым исходным кодом, веб-сервисам и участникам. <tag-1> Посмотреть кредиты </tag-1>"
+  },
+  "about.credits.para2": {
+    "translation": "© 2024 Hatem Hosny. LiveCodes распространяется по лицензии MIT."
+  },
+  "about.documentations.heading": {
+    "translation": "Документация"
+  },
+  "about.gettingStarted": {
+    "translation": "Начало работы"
+  },
+  "about.github.text": {
+    "translation": "GitHub"
+  },
+  "about.github.title": {
+    "translation": "GitHub"
+  },
+  "about.heading": {
+    "translation": "О LiveCodes"
+  },
+  "about.livecodes.aboutUs": {
+    "translation": "О LiveCodes"
+  },
+  "about.livecodes.para1": {
+    "translation": "<tag-1><tag-2>LiveCodes</tag-2></tag-1> - это <tag-3>проект с открытым исходным кодом</tag-3>, <tag-4>богатый функциями</tag-4>, <tag-5>клиентская</tag-5> игровая площадка для кода. В настоящее время поддерживается <tag-6>более 90 языков/<tag-7></tag-7>фреймворков</tag-6>. Его можно использовать как отдельное приложение или <tag-8>встраивать</tag-8> в любую веб-страницу. Существует множество способов <tag-9>предварительного заполнения площадок</tag-9> кодом."
+  },
+  "about.livecodes.para2": {
+    "translation": "Мощный SDK облегчает интеграцию и взаимодействие с игровыми площадками. Имеется обширная документация с примерами кода, живыми демонстрациями и скриншотами."
+  },
+  "about.sdk": {
+    "translation": "LiveCodes SDK"
+  },
+  "about.sponsor.text": {
+    "translation": "Спонсор"
+  },
+  "about.sponsor.title": {
+    "translation": "Стать спонсором LiveCodes"
+  },
+  "about.twitter.text": {
+    "translation": "𝕏 / Twitter"
+  },
+  "about.twitter.title": {
+    "translation": "𝕏 / Twitter"
+  },
+  "about.version.app": {
+    "translation": "Версия приложения: <tag-1> {{APP_VERSION}} </tag-1>"
+  },
+  "about.version.appPermanentUrl": {
+    "translation": "Постоянный URL приложения"
+  },
+  "about.version.commit": {
+    "translation": "Коммит Git: <tag-1> {{COMMIT_SHA}} </tag-1>"
+  },
+  "about.version.heading": {
+    "translation": "Версия"
+  },
+  "about.version.sdk": {
+    "translation": "Версия SDK: <tag-1> {{SDK_VERSION}} </tag-1>"
+  },
+  "about.version.sdkPermanentUrl": {
+    "translation": "Постоянный URL SDK"
+  },
+  "app.changeTheme.hint": {
+    "translation": "Изменить тему"
+  },
+  "app.codeToImage.hint": {
+    "translation": "Код к изображению"
+  },
+  "app.consoleMessage.appVersion": {
+    "translation": "Версия приложения: {{APP_VERSION}}"
+  },
+  "app.consoleMessage.commit": {
+    "translation": "Git-коммит: {{COMMIT_SHA}}"
+  },
+  "app.consoleMessage.learnMore": {
+    "translation": "Узнать больше! {{docsUrl}} 🚀"
+  },
+  "app.consoleMessage.sdkVersion": {
+    "translation": "Версия SDK: {{SDK_VERSION}}"
+  },
+  "app.copy.hint": {
+    "translation": "Копировать (Ctrl/Cmd + A, Ctrl/Cmd + C)"
+  },
+  "app.copyAsUrl.hint": {
+    "translation": "Копировать код как URL данных"
+  },
+  "app.customSettings.hint": {
+    "translation": "Пользовательские настройки"
+  },
+  "app.editorSettings.hint": {
+    "translation": "Настройки редактора"
+  },
+  "app.externalResources.hint": {
+    "translation": "Внешние ресурсы"
+  },
+  "app.focus.hint": {
+    "translation": "Переключить режим фокусировки"
+  },
+  "app.format.hint": {
+    "translation": "Форматировать (Alt + Shift + F)"
+  },
+  "app.fullscreen.hint": {
+    "translation": "Полноэкранный режим"
+  },
+  "app.i18nButton.hint": {
+    "translation": "Язык интерфейса приложения"
+  },
+  "app.i18nMenu.docs": {
+    "translation": "документация i18n"
+  },
+  "app.i18nMenu.helpTranslate": {
+    "translation": "Помогите нам перевести"
+  },
+  "app.logo.title": {
+    "translation": "LiveCodes: Площадка Для Кода, Которая Просто Работает!"
+  },
+  "app.projectInfo.hint": {
+    "translation": "Информация о проекте"
+  },
+  "app.redo.hint": {
+    "translation": "Повторить (Ctrl/Cmd + Shift + Z)"
+  },
+  "app.result.hint": {
+    "translation": "Показать результаты"
+  },
+  "app.run.hint": {
+    "translation": "Запустить (Shift + Enter)"
+  },
+  "app.share.hint": {
+    "translation": "Поделиться"
+  },
+  "app.themeColors.custom": {
+    "translation": "Обычай"
+  },
+  "app.undo.hint": {
+    "translation": "Отменить (Ctrl/Cmd + Z)"
+  },
+  "app.untitledProject": {
+    "translation": "Безымянный проект"
+  },
+  "assets.action.delete": {
+    "translation": "Удалить"
+  },
+  "assets.add.dataURL.desc": {
+    "translation": "Добавить актив как <tag-1>URL данных</tag-1> в кодировке base64."
+  },
+  "assets.add.dataURL.heading": {
+    "translation": "URL данных"
+  },
+  "assets.add.dataURL.label": {
+    "translation": "Добавить файл"
+  },
+  "assets.add.githubPages.desc": {
+    "translation": "Разместить актив на GitHub Pages. Файл будет отправлен в ветку <tag-1>gh-pages</tag-1> репозитория <tag-2>livecodes-assets</tag-2> на вашем аккаунте GitHub. Если репозиторий еще не существует, будет создан публичный репозиторий."
+  },
+  "assets.add.githubPages.heading": {
+    "translation": "GitHub Pages"
+  },
+  "assets.add.githubPages.label": {
+    "translation": "Загрузить файл"
+  },
+  "assets.add.heading": {
+    "translation": "Добавить актив"
+  },
+  "assets.delete.all": {
+    "translation": "Удалить {{assets}} активов?"
+  },
+  "assets.delete.one": {
+    "translation": "Удалить актив: {{asset}}?"
+  },
+  "assets.deleteAll": {
+    "translation": "Удалить все"
+  },
+  "assets.generic.clickToCopyURL": {
+    "translation": "Нажмите, чтобы скопировать URL"
+  },
+  "assets.heading": {
+    "translation": "Активы"
+  },
+  "assets.link.date": {
+    "translation": "Дата: {{modified}}"
+  },
+  "assets.link.type": {
+    "translation": "Тип: {{type}}"
+  },
+  "assets.link.url": {
+    "translation": "URL: {{url}}"
+  },
+  "assets.loadFile.error.failedToUpload": {
+    "translation": "Ошибка: Не удалось загрузить файл"
+  },
+  "assets.loadFile.error.unauthenticated": {
+    "translation": "Ошибка: Неаутентифицированный пользователь"
+  },
+  "assets.loadFile.upload": {
+    "translation": "Загрузить файл"
+  },
+  "assets.loadFile.uploading": {
+    "translation": "Загрузка..."
+  },
+  "assets.noMatch": {
+    "translation": "Нет активов, соответствующих этим фильтрам."
+  },
+  "assets.noSavedAssets": {
+    "translation": "У вас нет сохраненных активов."
+  },
+  "assets.processAsset.addFile": {
+    "translation": "Добавлен файл: "
+  },
+  "assets.processAsset.deployNotice": {
+    "translation": "Актив должен быть доступен по этому URL в ближайшее время (~1 мин)."
+  },
+  "assets.processAsset.success": {
+    "translation": "Файл добавлен в активы!"
+  },
+  "assets.processAsset.urlLabel": {
+    "translation": "URL: "
+  },
+  "assets.resetFilters": {
+    "translation": "Сбросить"
+  },
+  "assets.search": {
+    "translation": "Поиск"
+  },
+  "assets.sort.date": {
+    "translation": "Дата"
+  },
+  "assets.sort.fileName": {
+    "translation": "Имя файла"
+  },
+  "assets.sort.heading": {
+    "translation": "Сортировать по:"
+  },
+  "assets.type.archive": {
+    "translation": "Архив"
+  },
+  "assets.type.audio": {
+    "translation": "Аудио"
+  },
+  "assets.type.csv": {
+    "translation": "CSV"
+  },
+  "assets.type.font": {
+    "translation": "Шрифт"
+  },
+  "assets.type.html": {
+    "translation": "HTML"
+  },
+  "assets.type.icon": {
+    "translation": "Иконка"
+  },
+  "assets.type.image": {
+    "translation": "Изображение"
+  },
+  "assets.type.json": {
+    "translation": "JSON"
+  },
+  "assets.type.other": {
+    "translation": "Другое"
+  },
+  "assets.type.script": {
+    "translation": "Скрипт"
+  },
+  "assets.type.stylesheet": {
+    "translation": "Таблица стилей"
+  },
+  "assets.type.text": {
+    "translation": "Текст"
+  },
+  "assets.type.video": {
+    "translation": "Видео"
+  },
+  "assets.type.xml": {
+    "translation": "XML"
+  },
+  "assets.types.all": {
+    "translation": "Все типы"
+  },
+  "assets.url.fail": {
+    "translation": "Не удалось скопировать URL."
+  },
+  "assets.url.success": {
+    "translation": "URL скопирован в буфер обмена."
+  },
+  "backup.backup.assets": {
+    "translation": "Активы"
+  },
+  "backup.backup.button": {
+    "translation": "Резервное копирование"
+  },
+  "backup.backup.desc": {
+    "translation": "Создайте резервную копию данных LiveCodes, чтобы их можно было позже восстановить на этом или других устройствах. <tag-1></tag-1> Пожалуйста, ознакомьтесь с <tag-2>документацией</tag-2> для получения подробностей."
+  },
+  "backup.backup.heading": {
+    "translation": "Резервное копирование"
+  },
+  "backup.backup.projects": {
+    "translation": "Проекты"
+  },
+  "backup.backup.settings": {
+    "translation": "Пользовательские настройки"
+  },
+  "backup.backup.snippets": {
+    "translation": "Фрагменты кода"
+  },
+  "backup.backup.templates": {
+    "translation": "Пользовательские шаблоны"
+  },
+  "backup.backupBtn": {
+    "translation": "Резервное копирование"
+  },
+  "backup.error.atLeastOneStore": {
+    "translation": "Пожалуйста, выберите хотя бы одно хранилище для резервного копирования"
+  },
+  "backup.error.incorrectFileType": {
+    "translation": "Ошибка: Некорректный тип файла"
+  },
+  "backup.fileInputLabel": {
+    "translation": "Восстановить из файла"
+  },
+  "backup.heading": {
+    "translation": "Резервное копирование / Восстановление"
+  },
+  "backup.inProgress": {
+    "translation": "В процессе..."
+  },
+  "backup.restore.desc": {
+    "translation": "Восстановите ранее созданную резервную копию данных LiveCodes. <tag-1></tag-1> Если вы решите заменить текущее содержимое, возможно, вы захотите сначала создать его резервную копию. <tag-2></tag-2> Пожалуйста, ознакомьтесь с <tag-3>документацией</tag-3> для получения подробностей."
+  },
+  "backup.restore.fromFile": {
+    "translation": "Восстановить из файла"
+  },
+  "backup.restore.heading": {
+    "translation": "Восстановление"
+  },
+  "backup.restore.mode.merge": {
+    "translation": "Объединить с текущим содержимым"
+  },
+  "backup.restore.mode.replace": {
+    "translation": "Заменить текущее содержимое"
+  },
+  "backup.restore.success": {
+    "translation": "Успешно восстановлено!"
+  },
+  "broadcast.broadcastBtn.start": {
+    "translation": "Трансляция"
+  },
+  "broadcast.broadcastBtn.stop": {
+    "translation": "Остановить трансляцию"
+  },
+  "broadcast.broadcasting": {
+    "translation": "Трансляция..."
+  },
+  "broadcast.channelURL": {
+    "translation": "URL канала"
+  },
+  "broadcast.connecting": {
+    "translation": "Подключение..."
+  },
+  "broadcast.desc": {
+    "translation": "Транслируйте страницу результатов на другие браузеры/устройства в режиме реального времени. Пожалуйста, ознакомьтесь с <tag-1>документацией</tag-1> для получения подробностей."
+  },
+  "broadcast.error.generic": {
+    "translation": "Не удалось начать трансляцию!"
+  },
+  "broadcast.error.serverURLRequired": {
+    "translation": "Требуется URL сервера!"
+  },
+  "broadcast.heading": {
+    "translation": "Трансляция"
+  },
+  "broadcast.includeSourceCode": {
+    "translation": "Включить исходный код"
+  },
+  "broadcast.serverURL.heading": {
+    "translation": "URL сервера"
+  },
+  "codeToImage.background": {
+    "translation": "Фон"
+  },
+  "codeToImage.borderRadius": {
+    "translation": "Радиус границы"
+  },
+  "codeToImage.code": {
+    "translation": "Код"
+  },
+  "codeToImage.copyCode": {
+    "translation": "Копировать код"
+  },
+  "codeToImage.copyImage": {
+    "translation": "Копирование изображения"
+  },
+  "codeToImage.default": {
+    "translation": "По умолчанию"
+  },
+  "codeToImage.direction": {
+    "translation": "Направление"
+  },
+  "codeToImage.fileName": {
+    "translation": "Имя файла"
+  },
+  "codeToImage.fontFamily": {
+    "translation": "Семейство шрифтов"
+  },
+  "codeToImage.fontSize": {
+    "translation": "Размер шрифта"
+  },
+  "codeToImage.heading": {
+    "translation": "Код к изображению"
+  },
+  "codeToImage.image": {
+    "translation": "Изображение"
+  },
+  "codeToImage.imageFormat.jpg": {
+    "translation": "JPEG"
+  },
+  "codeToImage.imageFormat.label": {
+    "translation": "Формат изображения"
+  },
+  "codeToImage.imageFormat.png": {
+    "translation": "PNG"
+  },
+  "codeToImage.imageFormat.svg": {
+    "translation": "SVG"
+  },
+  "codeToImage.layout": {
+    "translation": "Макет"
+  },
+  "codeToImage.opacity": {
+    "translation": "Непрозрачность"
+  },
+  "codeToImage.padding": {
+    "translation": "Набивка"
+  },
+  "codeToImage.presets": {
+    "translation": "Пресеты"
+  },
+  "codeToImage.preview": {
+    "translation": "Предпросмотр"
+  },
+  "codeToImage.save": {
+    "translation": "Сохранить изображение"
+  },
+  "codeToImage.scale": {
+    "translation": "Масштаб изображения"
+  },
+  "codeToImage.shadow": {
+    "translation": "Тень"
+  },
+  "codeToImage.shareImage": {
+    "translation": "Поделиться изображением"
+  },
+  "codeToImage.shareTitle": {
+    "translation": "Поделиться"
+  },
+  "codeToImage.shareUrl": {
+    "translation": "Поделиться URL"
+  },
+  "codeToImage.theme": {
+    "translation": "Тема"
+  },
+  "codeToImage.width": {
+    "translation": "Ширина"
+  },
+  "codeToImage.windowStyle.label": {
+    "translation": "Стиль окна"
+  },
+  "codeToImage.windowStyle.mac": {
+    "translation": "macOS"
+  },
+  "codeToImage.windowStyle.none": {
+    "translation": "Нет"
+  },
+  "codeToImage.windowStyle.windows": {
+    "translation": "Windows"
+  },
+  "commandMenu.changeTheme.dark": {
+    "translation": "Переход на темную тему"
+  },
+  "commandMenu.changeTheme.light": {
+    "translation": "Переход на светлую тему"
+  },
+  "commandMenu.changeTheme.title": {
+    "translation": "Изменить тему"
+  },
+  "commandMenu.changeUILanguage": {
+    "translation": "Изменить язык пользовательского интерфейса"
+  },
+  "commandMenu.closeModalMenu": {
+    "translation": "Закрыть модальное меню/меню"
+  },
+  "commandMenu.contribute": {
+    "translation": "Вклад"
+  },
+  "commandMenu.copy": {
+    "translation": "Копировать код"
+  },
+  "commandMenu.copyAsDataUrl": {
+    "translation": "Копировать код как URL данных"
+  },
+  "commandMenu.disableAutoSave": {
+    "translation": "Отключить автосохранение"
+  },
+  "commandMenu.disableAutoUpdate": {
+    "translation": "Отключить автоматическое обновление"
+  },
+  "commandMenu.disableEmacs": {
+    "translation": "Отключить режим Emacs"
+  },
+  "commandMenu.disableFormatOnSave": {
+    "translation": "Отключение форматирования при сохранении"
+  },
+  "commandMenu.disableRecoverUnsaved": {
+    "translation": "Отключить восстановление несохраненного"
+  },
+  "commandMenu.disableVim": {
+    "translation": "Отключить режим Vim"
+  },
+  "commandMenu.enableAutoSave": {
+    "translation": "Включить автосохранение"
+  },
+  "commandMenu.enableAutoUpdate": {
+    "translation": "Включить автоматическое обновление"
+  },
+  "commandMenu.enableEmacs": {
+    "translation": "Включить режим Emacs"
+  },
+  "commandMenu.enableFormatOnSave": {
+    "translation": "Включение формата при сохранении"
+  },
+  "commandMenu.enableRecoverUnsaved": {
+    "translation": "Включить восстановление несохраненного"
+  },
+  "commandMenu.enableVim": {
+    "translation": "Включить режим Vim"
+  },
+  "commandMenu.focus.editor": {
+    "translation": "сосредоточься на редакторе"
+  },
+  "commandMenu.focus.home": {
+    "translation": "Переместите фокус на дом"
+  },
+  "commandMenu.focus.outOfEditor": {
+    "translation": "Переместить фокус из редактора"
+  },
+  "commandMenu.focus.toggleTabFocusMode": {
+    "translation": "Переключение режима фокусировки вкладки"
+  },
+  "commandMenu.formatCode": {
+    "translation": "форматировать код"
+  },
+  "commandMenu.home": {
+    "translation": "Главная"
+  },
+  "commandMenu.horizontalLayout": {
+    "translation": "Горизонтальный макет"
+  },
+  "commandMenu.keyboardShortcuts": {
+    "translation": "Ярлыки клавиатуры"
+  },
+  "commandMenu.login": {
+    "translation": "Войти"
+  },
+  "commandMenu.logout": {
+    "translation": "Выход из системы"
+  },
+  "commandMenu.moveToParent": {
+    "translation": "перейти к родителям"
+  },
+  "commandMenu.placeholder": {
+    "translation": "Введите команду или выполните поиск..."
+  },
+  "commandMenu.processors": {
+    "translation": "Процессоры"
+  },
+  "commandMenu.responsiveLayout": {
+    "translation": "Адаптивный макет"
+  },
+  "commandMenu.run": {
+    "translation": "Запустить"
+  },
+  "commandMenu.saveAsFork": {
+    "translation": "Сохранить как новый проект"
+  },
+  "commandMenu.saveAsTemplate": {
+    "translation": "Сохранить как шаблон"
+  },
+  "commandMenu.selectLanguage": {
+    "translation": "Выберите язык"
+  },
+  "commandMenu.show.compiled": {
+    "translation": "Переключить скомпилированный код"
+  },
+  "commandMenu.show.console": {
+    "translation": "Переключаемая консоль"
+  },
+  "commandMenu.show.focusMode": {
+    "translation": "Переключение режима фокусировки"
+  },
+  "commandMenu.show.fullscreen": {
+    "translation": "Переключить на полный экран"
+  },
+  "commandMenu.show.markup": {
+    "translation": "Показать редактор разметки"
+  },
+  "commandMenu.show.maximizeCompiled": {
+    "translation": "Максимальное использование скомпилированного кода"
+  },
+  "commandMenu.show.maximizeConsole": {
+    "translation": "Максимизировать консоль"
+  },
+  "commandMenu.show.maximizeTests": {
+    "translation": "Максимально эффективные тесты"
+  },
+  "commandMenu.show.next": {
+    "translation": "Показать следующий редактор"
+  },
+  "commandMenu.show.previous": {
+    "translation": "Показать предыдущий редактор"
+  },
+  "commandMenu.show.result": {
+    "translation": "Переключить результат"
+  },
+  "commandMenu.show.runTests": {
+    "translation": "Выполнить тесты"
+  },
+  "commandMenu.show.script": {
+    "translation": "Показать редактор сценариев"
+  },
+  "commandMenu.show.style": {
+    "translation": "Показать редактор стилей"
+  },
+  "commandMenu.show.tests": {
+    "translation": "Переключить тесты"
+  },
+  "commandMenu.show.title": {
+    "translation": "Показать ..."
+  },
+  "commandMenu.show.zoom": {
+    "translation": "Переключение масштаба результатов"
+  },
+  "commandMenu.starterTemplates": {
+    "translation": "Стартовые шаблоны"
+  },
+  "commandMenu.sync": {
+    "translation": "Синхронизация (бета) ..."
+  },
+  "commandMenu.template": {
+    "translation": "Шаблон"
+  },
+  "commandMenu.theme.color": {
+    "translation": "Установите цвет темы"
+  },
+  "commandMenu.theme.defaultColor": {
+    "translation": "Установите цвет темы по умолчанию"
+  },
+  "commandMenu.title": {
+    "translation": "Командное меню"
+  },
+  "commandMenu.toClose": {
+    "translation": "закрываться"
+  },
+  "commandMenu.toNavigate": {
+    "translation": "перемещаться"
+  },
+  "commandMenu.toSelect": {
+    "translation": "чтобы выбрать"
+  },
+  "commandMenu.toggle": {
+    "translation": "Тогл: "
+  },
+  "commandMenu.verticalLayout": {
+    "translation": "Вертикальная компоновка"
+  },
+  "core.broadcast.heading": {
+    "translation": "Трансляция"
+  },
+  "core.broadcast.successSetToken": {
+    "translation": "Токен пользователя для трансляции успешно установлен"
+  },
+  "core.changeLanguage.hint": {
+    "translation": "Изменить язык"
+  },
+  "core.changeLanguage.message": {
+    "translation": "Загрузка {{lang}}. Это может занять некоторое время!"
+  },
+  "core.copy.copied": {
+    "translation": "Код скопирован в буфер обмена"
+  },
+  "core.copy.copiedAsDataURL": {
+    "translation": "Код скопирован как URL данных"
+  },
+  "core.copy.copiedImage": {
+    "translation": "Изображение копируется в буфер обмена."
+  },
+  "core.copy.hint": {
+    "translation": "Скопировано!"
+  },
+  "core.copy.title": {
+    "translation": "Копировать"
+  },
+  "core.error.couldNotLoadTemplate": {
+    "translation": "Не удалось загрузить шаблон: {{template}}"
+  },
+  "core.error.failedToCopyCode": {
+    "translation": "Не удалось скопировать код"
+  },
+  "core.error.failedToCopyImage": {
+    "translation": "Не удалось скопировать изображение"
+  },
+  "core.error.failedToLoadTemplate": {
+    "translation": "Не удалось загрузить шаблон"
+  },
+  "core.error.failedToLoadTemplates": {
+    "translation": "Не удалось загрузить стартовые шаблоны"
+  },
+  "core.error.failedToParseSettings": {
+    "translation": "Не удалось разобрать настройки как JSON"
+  },
+  "core.error.failedToSaveImage": {
+    "translation": "Не удалось сохранить изображение"
+  },
+  "core.error.failedToShareImage": {
+    "translation": "Не удалось поделиться изображением"
+  },
+  "core.error.invalidCommand": {
+    "translation": "Недопустимая команда!"
+  },
+  "core.error.invalidImport": {
+    "translation": "Недопустимый URL импорта"
+  },
+  "core.error.invalidPanelId": {
+    "translation": "Недопустимый идентификатор панели"
+  },
+  "core.error.invalidToken": {
+    "translation": "Недопустимый токен!"
+  },
+  "core.error.login": {
+    "translation": "Ошибка входа!"
+  },
+  "core.error.logout": {
+    "translation": "Ошибка выхода!"
+  },
+  "core.error.noResultContainer": {
+    "translation": "Контейнер результатов не найден"
+  },
+  "core.error.unavailable": {
+    "translation": "Команда недоступна"
+  },
+  "core.error.unavailableForEmbeds": {
+    "translation": "Команда недоступна для встроенных элементов"
+  },
+  "core.export.gist": {
+    "translation": "Создание публичного GitHub gist..."
+  },
+  "core.fork.success": {
+    "translation": "Создана копия в виде нового проекта"
+  },
+  "core.fullScreen.enter": {
+    "translation": "Полноэкранный режим"
+  },
+  "core.fullScreen.exit": {
+    "translation": "Выйти из полноэкранного режима"
+  },
+  "core.generating": {
+    "translation": "Генерация..."
+  },
+  "core.import.loading": {
+    "translation": "Загрузка проекта..."
+  },
+  "core.layout.horizontal": {
+    "translation": "Горизонтальный макет"
+  },
+  "core.layout.responsive": {
+    "translation": "Адаптивный макет"
+  },
+  "core.layout.vertical": {
+    "translation": "Вертикальный макет"
+  },
+  "core.loadDefaults.template": {
+    "translation": "Загрузка шаблона по умолчанию"
+  },
+  "core.login.success": {
+    "translation": "Вход выполнен успешно"
+  },
+  "core.login.successWithName": {
+    "translation": "Вход выполнен как: {{name}}"
+  },
+  "core.logout.success": {
+    "translation": "Выход выполнен успешно"
+  },
+  "core.result.hint": {
+    "translation": "Показать результат в новом окне"
+  },
+  "core.save.success": {
+    "translation": "Проект локально сохранен на устройстве!"
+  },
+  "core.save.successWithName": {
+    "translation": "Проект \"{{name}}\" сохранен на устройстве."
+  },
+  "core.template.blank": {
+    "translation": "Пустой проект"
+  },
+  "core.template.delete": {
+    "translation": "Удалить шаблон \"{{item}}\"?"
+  },
+  "core.template.javascript": {
+    "translation": "Стартовый JavaScript"
+  },
+  "core.template.react": {
+    "translation": "Стартовый React"
+  },
+  "core.template.saved": {
+    "translation": "Сохранено как новый шаблон"
+  },
+  "core.template.typescript": {
+    "translation": "Стартовый TypeScript"
+  },
+  "core.template.vue": {
+    "translation": "Стартовый Vue 3"
+  },
+  "core.unload.notSaved": {
+    "translation": "Внесенные изменения могут быть не сохранены."
+  },
+  "core.zoom.hint": {
+    "translation": "Масштаб"
+  },
+  "customSettings.JSON": {
+    "translation": "Пользовательские настройки JSON"
+  },
+  "customSettings.desc": {
+    "translation": "<tag-1></tag-1> Для получения более подробной информации обратитесь к <tag-2>документацию</tag-2>"
+  },
+  "customSettings.heading": {
+    "translation": "Пользовательские настройки"
+  },
+  "customSettings.load": {
+    "translation": "Загрузить"
+  },
+  "deploy.create.desc": {
+    "translation": "Будет создан новый <tag-1>публичный</tag-1> репозиторий. Страница результатов будет отправлена в ветку <tag-2>gh-pages</tag-2>."
+  },
+  "deploy.create.heading": {
+    "translation": "Создать новый репозиторий"
+  },
+  "deploy.create.repoName": {
+    "translation": "Название репозитория <tag-1></tag-1>"
+  },
+  "deploy.error.generic": {
+    "translation": "Развертывание не удалось!"
+  },
+  "deploy.error.repoNameExists": {
+    "translation": "Репозиторий с таким названием уже существует"
+  },
+  "deploy.error.repoNameRequired": {
+    "translation": "Требуется название репозитория"
+  },
+  "deploy.existing.desc": {
+    "translation": "Новый коммит будет добавлен в ветку <tag-1>gh-pages</tag-1>."
+  },
+  "deploy.existing.heading": {
+    "translation": "Существующий репозиторий"
+  },
+  "deploy.existing.repoName": {
+    "translation": "Название репозитория"
+  },
+  "deploy.generic.commitMessage": {
+    "translation": "Сообщение коммита"
+  },
+  "deploy.generic.commitSourceCodePublic": {
+    "translation": "Зафиксировать исходный код (публично)"
+  },
+  "deploy.generic.deployBtn": {
+    "translation": "Развернуть"
+  },
+  "deploy.generic.deploying": {
+    "translation": "Развертывание..."
+  },
+  "deploy.heading": {
+    "translation": "Развернуть на GitHub Pages"
+  },
+  "deploy.searchRepo": {
+    "translation": "Поиск ваших публичных репозиториев..."
+  },
+  "editorSettings.closeBrackets": {
+    "translation": "Автоматически закрывать скобки и кавычки"
+  },
+  "editorSettings.codeJarDesc": {
+    "translation": "<tag-1> </tag-1> * Отмеченные функции недоступны в CodeJar."
+  },
+  "editorSettings.default": {
+    "translation": "По умолчанию"
+  },
+  "editorSettings.desc": {
+    "translation": "<tag-1></tag-1>Пожалуйста, ознакомьтесь с <tag-2>документацией</tag-2> для подробностей."
+  },
+  "editorSettings.editor.codejar": {
+    "translation": "CodeJar"
+  },
+  "editorSettings.editor.codemirror": {
+    "translation": "CodeMirror"
+  },
+  "editorSettings.editor.heading": {
+    "translation": "Редактор"
+  },
+  "editorSettings.editor.monaco": {
+    "translation": "Monaco"
+  },
+  "editorSettings.editorMode.emacs": {
+    "translation": "Emacs"
+  },
+  "editorSettings.editorMode.heading": {
+    "translation": "Режим редактора *"
+  },
+  "editorSettings.editorMode.vim": {
+    "translation": "Vim"
+  },
+  "editorSettings.editorTheme": {
+    "translation": "Тема редактора"
+  },
+  "editorSettings.emmet": {
+    "translation": "Включить Emmet *"
+  },
+  "editorSettings.foldRegions": {
+    "translation": "Складывать (сворачивать) регионы"
+  },
+  "editorSettings.fontFamily": {
+    "translation": "Семейство шрифтов"
+  },
+  "editorSettings.fontSize": {
+    "translation": "Размер шрифта"
+  },
+  "editorSettings.format": {
+    "translation": "Форматирование"
+  },
+  "editorSettings.heading": {
+    "translation": "Настройки редактора"
+  },
+  "editorSettings.lineNumbers": {
+    "translation": "Показывать номера строк"
+  },
+  "editorSettings.lineNumbersRelative": {
+    "translation": "Относительные номера строк *"
+  },
+  "editorSettings.minimap": {
+    "translation": "Включить мини-картинку *"
+  },
+  "editorSettings.notAvailableInCodeJar": {
+    "translation": "Недоступно в CodeJar"
+  },
+  "editorSettings.preview": {
+    "translation": "Предпросмотр"
+  },
+  "editorSettings.semicolons": {
+    "translation": "Форматирование: Использовать точки с запятой"
+  },
+  "editorSettings.singleQuote": {
+    "translation": "Форматирование: Использовать одинарные кавычки"
+  },
+  "editorSettings.tabSize": {
+    "translation": "Размер табуляции"
+  },
+  "editorSettings.theme": {
+    "translation": "Темный режим"
+  },
+  "editorSettings.trailingComma": {
+    "translation": "Форматирование: Использовать завершающие запятые"
+  },
+  "editorSettings.useTabs.heading": {
+    "translation": "Отступы"
+  },
+  "editorSettings.useTabs.spaces": {
+    "translation": "Пробелы"
+  },
+  "editorSettings.useTabs.tabs": {
+    "translation": "Табуляция"
+  },
+  "editorSettings.wordWrap": {
+    "translation": "Перенос слов"
+  },
+  "embed.activeEditor.heading": {
+    "translation": "Активный редактор"
+  },
+  "embed.activeEditor.markup": {
+    "translation": "{{markup}}"
+  },
+  "embed.activeEditor.script": {
+    "translation": "{{script}}"
+  },
+  "embed.activeEditor.style": {
+    "translation": "{{style}}"
+  },
+  "embed.activeTool.compiled": {
+    "translation": "Скомпилированный"
+  },
+  "embed.activeTool.console": {
+    "translation": "Консоль"
+  },
+  "embed.activeTool.heading": {
+    "translation": "Активный инструмент"
+  },
+  "embed.activeTool.tests": {
+    "translation": "Тесты"
+  },
+  "embed.code.copy": {
+    "translation": "Копировать код"
+  },
+  "embed.code.heading": {
+    "translation": "Код"
+  },
+  "embed.codeEditor.codeJar": {
+    "translation": "CodeJar"
+  },
+  "embed.codeEditor.codeMirror": {
+    "translation": "CodeMirror"
+  },
+  "embed.codeEditor.default": {
+    "translation": "По умолчанию"
+  },
+  "embed.codeEditor.heading": {
+    "translation": "Редактор кода"
+  },
+  "embed.codeEditor.monaco": {
+    "translation": "Monaco"
+  },
+  "embed.desc": {
+    "translation": "Пожалуйста, ознакомьтесь с <tag-1>документацией</tag-1> для расширенных настроек."
+  },
+  "embed.embedType.cdn": {
+    "translation": "Скрипт (CDN)"
+  },
+  "embed.embedType.heading": {
+    "translation": "Тип встраивания"
+  },
+  "embed.embedType.html": {
+    "translation": "HTML"
+  },
+  "embed.embedType.iframe": {
+    "translation": "Iframe"
+  },
+  "embed.embedType.npm": {
+    "translation": "JS (npm)"
+  },
+  "embed.embedType.react": {
+    "translation": "React"
+  },
+  "embed.embedType.svelte": {
+    "translation": "Svelte"
+  },
+  "embed.embedType.vue": {
+    "translation": "Vue"
+  },
+  "embed.heading": {
+    "translation": "Встроить проект"
+  },
+  "embed.layout.heading": {
+    "translation": "Макет"
+  },
+  "embed.layout.horizontal": {
+    "translation": "Горизонтальный"
+  },
+  "embed.layout.responsive": {
+    "translation": "Отзывчивый"
+  },
+  "embed.layout.vertical": {
+    "translation": "Вертикальный"
+  },
+  "embed.lite": {
+    "translation": "Облегченный режим"
+  },
+  "embed.loading.click": {
+    "translation": "По клику"
+  },
+  "embed.loading.eager": {
+    "translation": "Заранее"
+  },
+  "embed.loading.heading": {
+    "translation": "Загрузка"
+  },
+  "embed.loading.lazy": {
+    "translation": "Ленивая"
+  },
+  "embed.mode.codeblock": {
+    "translation": "Блок кода"
+  },
+  "embed.mode.editor": {
+    "translation": "Редактор"
+  },
+  "embed.mode.full": {
+    "translation": "Полный"
+  },
+  "embed.mode.heading": {
+    "translation": "Режим отображения"
+  },
+  "embed.mode.result": {
+    "translation": "Результат"
+  },
+  "embed.mode.simple": {
+    "translation": "Простой"
+  },
+  "embed.permanentUrl": {
+    "translation": "Постоянный URL"
+  },
+  "embed.preview": {
+    "translation": "Предпросмотр"
+  },
+  "embed.previewLoading": {
+    "translation": "Загрузка предпросмотра..."
+  },
+  "embed.readonly": {
+    "translation": "Только для чтения"
+  },
+  "embed.theme.dark": {
+    "translation": "Тёмная"
+  },
+  "embed.theme.heading": {
+    "translation": "Тема"
+  },
+  "embed.theme.light": {
+    "translation": "Светлая"
+  },
+  "embed.tools.closed": {
+    "translation": "Закрыто"
+  },
+  "embed.tools.full": {
+    "translation": "Полный"
+  },
+  "embed.tools.heading": {
+    "translation": "Инструменты"
+  },
+  "embed.tools.none": {
+    "translation": "Нет"
+  },
+  "embed.tools.open": {
+    "translation": "Открыто"
+  },
+  "embed.view.editor": {
+    "translation": "Редактор"
+  },
+  "embed.view.heading": {
+    "translation": "Вид по умолчанию"
+  },
+  "embed.view.result": {
+    "translation": "Результат"
+  },
+  "embed.view.split": {
+    "translation": "Разделение"
+  },
+  "generic.about.blog": {
+    "translation": "Блог"
+  },
+  "generic.about.configuration": {
+    "translation": "Конфигурация"
+  },
+  "generic.about.gettingStarted": {
+    "translation": "Начало работы"
+  },
+  "generic.about.github": {
+    "translation": "GitHub"
+  },
+  "generic.about.sdk": {
+    "translation": "SDK"
+  },
+  "generic.about.sponsor": {
+    "translation": "Спонсор"
+  },
+  "generic.about.twitter": {
+    "translation": "𝕏 / Twitter"
+  },
+  "generic.clickForInfo": {
+    "translation": "Нажмите для информации..."
+  },
+  "generic.close": {
+    "translation": "Закрыть"
+  },
+  "generic.custom": {
+    "translation": "Обычай"
+  },
+  "generic.embed.logoHint": {
+    "translation": "Редактировать на LiveCodes 🡕"
+  },
+  "generic.error.authentication": {
+    "translation": "Ошибка аутентификации!"
+  },
+  "generic.error.exceededSize": {
+    "translation": "Ошибка: Превышен размер {{size}} МБ"
+  },
+  "generic.error.failedToReadFile": {
+    "translation": "Ошибка: Не удалось прочитать файл"
+  },
+  "generic.loading": {
+    "translation": "Загрузка..."
+  },
+  "generic.more": {
+    "translation": "Ещё..."
+  },
+  "generic.optional": {
+    "translation": "Необязательно"
+  },
+  "generic.required": {
+    "translation": "Обязательно"
+  },
+  "generic.tagline": {
+    "translation": "Площадка Для Кода, Которая Просто Работает!"
+  },
+  "import.bulk.desc": {
+    "translation": "Массовый импорт нескольких проектов в ваши сохраненные проекты. Проекты можно экспортировать из экрана <tag-1>Сохраненные проекты</tag-1>."
+  },
+  "import.bulk.fromFile": {
+    "translation": "Массовый импорт из локального файла"
+  },
+  "import.bulk.fromURL": {
+    "translation": "Массовый импорт из URL"
+  },
+  "import.bulk.heading": {
+    "translation": "Массовый импорт"
+  },
+  "import.bulk.started": {
+    "translation": "Начат массовый импорт..."
+  },
+  "import.code.desc": {
+    "translation": "Поддерживаемые источники: <tag-1> <tag-2>GitHub gist</tag-2> <tag-3>Файл GitHub</tag-3> <tag-4>Директория в репозитории GitHub</tag-4> <tag-5>Сниппет Gitlab</tag-5> <tag-6>Файл Gitlab</tag-6> <tag-7>Директория в репозитории Gitlab</tag-7> <tag-8>JS Bin</tag-8> <tag-9>Сырой код</tag-9> <tag-10>Код в DOM веб-страницы</tag-10> <tag-11>Код в zip-файле</tag-11> <tag-12>Код в изображении (OCR)</tag-12> <tag-13>Официальные площадки<tag-14></tag-14>(TypeScript и Vue)</tag-13> </tag-1> Пожалуйста, посетите <tag-15>документацию</tag-15> для подробностей."
+  },
+  "import.code.fromFile": {
+    "translation": "Импорт локальных файлов"
+  },
+  "import.code.fromURL": {
+    "translation": "Импорт из URL"
+  },
+  "import.code.heading": {
+    "translation": "Импорт кода"
+  },
+  "import.error.failedToLoadURL": {
+    "translation": "Ошибка: не удалось загрузить URL"
+  },
+  "import.error.invalidConfigFile": {
+    "translation": "Недействительный файл конфигурации"
+  },
+  "import.error.invalidFile": {
+    "translation": "Ошибка: Недействительный файл"
+  },
+  "import.generic.file": {
+    "translation": "Локальный файл"
+  },
+  "import.generic.url": {
+    "translation": "URL"
+  },
+  "import.heading": {
+    "translation": "Импорт"
+  },
+  "import.json.desc": {
+    "translation": "Импорт JSON одного проекта в редактор. Проект можно экспортировать из меню приложения → Экспорт → Экспорт проекта (JSON)."
+  },
+  "import.json.fromFile": {
+    "translation": "Импорт проекта из локального файла"
+  },
+  "import.json.fromURL": {
+    "translation": "Импорт проекта из URL"
+  },
+  "import.json.heading": {
+    "translation": "Импорт JSON проекта"
+  },
+  "import.success": {
+    "translation": "Импорт успешно завершен!"
+  },
+  "keyboardShortcuts.command": {
+    "translation": "Команда"
+  },
+  "keyboardShortcuts.editorShortcuts": {
+    "translation": "Список сочетаний клавиш редактора кода см <tag-1> Ярлыки VS Code</tag-1>"
+  },
+  "keyboardShortcuts.heading": {
+    "translation": "Ярлыки клавиатуры"
+  },
+  "keyboardShortcuts.key": {
+    "translation": "Ключ"
+  },
+  "login.accessAllowed": {
+    "translation": "Разрешить доступ к:"
+  },
+  "login.desc": {
+    "translation": "<tag-1>Выполняя вход, вы соглашаетесь с тем, что <tag-2>файлы cookie</tag-2> могут быть сохранены на вашем устройстве.</tag-1> <tag-3> <tag-4>Почему требуются эти разрешения?</tag-4> </tag-3> <tag-5> <tag-6>Как изменить/отозвать разрешения?</tag-6> </tag-5>"
+  },
+  "login.gist": {
+    "translation": "Гисты"
+  },
+  "login.heading": {
+    "translation": "Войти через GitHub"
+  },
+  "login.loginAs": {
+    "translation": "Вход выполнен как {{name}}"
+  },
+  "login.loginBtn": {
+    "translation": "Войти"
+  },
+  "login.logout": {
+    "translation": "Выйти"
+  },
+  "login.privateRepo": {
+    "translation": "Приватные репозитории"
+  },
+  "login.publicRepo": {
+    "translation": "Репозитории"
+  },
+  "menu.about": {
+    "translation": "О программе"
+  },
+  "menu.appHelp.heading": {
+    "translation": "Помощь"
+  },
+  "menu.appHelp.hint": {
+    "translation": "Помощь"
+  },
+  "menu.appProject.heading": {
+    "translation": "Проект"
+  },
+  "menu.appProject.hint": {
+    "translation": "Проект"
+  },
+  "menu.appSettings.heading": {
+    "translation": "Настройки"
+  },
+  "menu.appSettings.hint": {
+    "translation": "Настройки приложения"
+  },
+  "menu.assets": {
+    "translation": "Активы …"
+  },
+  "menu.autoSave": {
+    "translation": "Автосохранение"
+  },
+  "menu.autoUpdate": {
+    "translation": "Автообновление"
+  },
+  "menu.backup": {
+    "translation": "Резервное копирование / Восстановление …"
+  },
+  "menu.blog": {
+    "translation": "Блог LiveCodes"
+  },
+  "menu.broadcast": {
+    "translation": "Трансляция …"
+  },
+  "menu.commandMenu": {
+    "translation": "Командное меню"
+  },
+  "menu.config": {
+    "translation": "Конфигурация"
+  },
+  "menu.customSettings": {
+    "translation": "Пользовательские настройки …"
+  },
+  "menu.delay.heading": {
+    "translation": "Задержка: <tag-1>1.5</tag-1>с"
+  },
+  "menu.delay.hint": {
+    "translation": "Задержка перед автообновлением"
+  },
+  "menu.deploy": {
+    "translation": "Развертывание …"
+  },
+  "menu.docs": {
+    "translation": "Документация"
+  },
+  "menu.editorSettings": {
+    "translation": "Настройки редактора …"
+  },
+  "menu.embed": {
+    "translation": "Встраивание …"
+  },
+  "menu.export.codepen": {
+    "translation": "Редактировать в CodePen"
+  },
+  "menu.export.gist": {
+    "translation": "Экспорт в GitHub Gist"
+  },
+  "menu.export.heading": {
+    "translation": "Экспорт"
+  },
+  "menu.export.jsfiddle": {
+    "translation": "Редактировать в JSFiddle"
+  },
+  "menu.export.json": {
+    "translation": "Экспорт проекта (JSON)"
+  },
+  "menu.export.result": {
+    "translation": "Экспорт результата (HTML)"
+  },
+  "menu.export.src": {
+    "translation": "Экспорт исходного кода (ZIP)"
+  },
+  "menu.features": {
+    "translation": "Функции"
+  },
+  "menu.formatOnsave": {
+    "translation": "Форматирование при сохранении"
+  },
+  "menu.getstart": {
+    "translation": "Начало работы"
+  },
+  "menu.import": {
+    "translation": "Импорт …"
+  },
+  "menu.keyboardShortcuts": {
+    "translation": "Ярлыки клавиатуры"
+  },
+  "menu.layout": {
+    "translation": "Вертикальная компоновка"
+  },
+  "menu.license": {
+    "translation": "Лицензия"
+  },
+  "menu.login": {
+    "translation": "Вход …"
+  },
+  "menu.logout": {
+    "translation": "Выход"
+  },
+  "menu.new": {
+    "translation": "Новый …"
+  },
+  "menu.open": {
+    "translation": "Открыть …"
+  },
+  "menu.project": {
+    "translation": "Информация о проекте …"
+  },
+  "menu.recoverUnsaved": {
+    "translation": "Восстановить несохраненное"
+  },
+  "menu.report": {
+    "translation": "Сообщить о проблеме"
+  },
+  "menu.resources": {
+    "translation": "Внешние ресурсы …"
+  },
+  "menu.save": {
+    "translation": "Сохранить"
+  },
+  "menu.saveAs.fork": {
+    "translation": "Форк (Новый проект)"
+  },
+  "menu.saveAs.heading": {
+    "translation": "Сохранить как …"
+  },
+  "menu.saveAs.template": {
+    "translation": "Шаблон"
+  },
+  "menu.sdk": {
+    "translation": "SDK"
+  },
+  "menu.share": {
+    "translation": "Поделиться …"
+  },
+  "menu.showSpacing.heading": {
+    "translation": "Показать интервалы"
+  },
+  "menu.showSpacing.hint": {
+    "translation": "Нажмите Alt/Option и переместите курсор над страницей результата"
+  },
+  "menu.showWelcome.title": {
+    "translation": "Показывать экран приветствия при запуске"
+  },
+  "menu.snippets": {
+    "translation": "Фрагменты кода …"
+  },
+  "menu.source": {
+    "translation": "Исходный код на GitHub"
+  },
+  "menu.sync": {
+    "translation": "Синхронизация (бета) … <tag-1> ⏳</tag-1>"
+  },
+  "menu.theme": {
+    "translation": "Темная тема"
+  },
+  "menu.themeColor": {
+    "translation": "Цвет"
+  },
+  "menu.welcome.heading": {
+    "translation": "Приветствие …"
+  },
+  "open.action.delete": {
+    "translation": "Удалить"
+  },
+  "open.defaultTemplate": {
+    "translation": "Шаблон по умолчанию "
+  },
+  "open.delete.all": {
+    "translation": "Удалить {{projects}} проектов?"
+  },
+  "open.delete.deleting": {
+    "translation": "Удаление проектов..."
+  },
+  "open.delete.one": {
+    "translation": "Удалить проект: {{project}}?"
+  },
+  "open.deleteAll": {
+    "translation": "Удалить все"
+  },
+  "open.exportAll": {
+    "translation": "Экспортировать все"
+  },
+  "open.filter.language": {
+    "translation": "фильтр по языку"
+  },
+  "open.filter.tag": {
+    "translation": "фильтр по тегу"
+  },
+  "open.heading": {
+    "translation": "Сохраненные проекты"
+  },
+  "open.import": {
+    "translation": "Импорт"
+  },
+  "open.lastModified": {
+    "translation": "Последнее изменение: {{modified}}"
+  },
+  "open.noData.desc": {
+    "translation": "Вы можете сохранить проект из (меню&nbsp;настроек&nbsp;&gt;&nbsp;Сохранить) или с помощью сочетания клавиш (Ctrl/Cmd&nbsp;+&nbsp;S)."
+  },
+  "open.noData.heading": {
+    "translation": "У вас нет сохраненных проектов."
+  },
+  "open.noMatch": {
+    "translation": "Нет проектов, соответствующих этим фильтрам."
+  },
+  "open.placeholder.allLanguages": {
+    "translation": "Все языки"
+  },
+  "open.placeholder.filterByTags": {
+    "translation": "Фильтр по тегам"
+  },
+  "open.placeholder.search": {
+    "translation": "Поиск"
+  },
+  "open.removeDefault": {
+    "translation": "(сбросить)"
+  },
+  "open.reset": {
+    "translation": "Сбросить"
+  },
+  "open.setAsDefault": {
+    "translation": "Установить по умолчанию"
+  },
+  "open.sort.heading": {
+    "translation": "Сортировать по:"
+  },
+  "open.sort.lastModified": {
+    "translation": "Последнее изменение"
+  },
+  "open.sort.title": {
+    "translation": "Заголовок"
+  },
+  "project.desc": {
+    "translation": "Описание"
+  },
+  "project.head": {
+    "translation": "Добавить в &lt;head&gt;"
+  },
+  "project.heading": {
+    "translation": "Информация о проекте"
+  },
+  "project.htmlAttr": {
+    "translation": "Атрибуты для &lt;html&gt;"
+  },
+  "project.tags": {
+    "translation": "Теги"
+  },
+  "project.title": {
+    "translation": "Название проекта"
+  },
+  "recoverPrompt.desc": {
+    "translation": "Ваш последний проект имеет несохраненные изменения!"
+  },
+  "recoverPrompt.heading": {
+    "translation": "Восстановить несохраненный проект?"
+  },
+  "recoverPrompt.meta": {
+    "translation": "Название: <tag-1></tag-1> <tag-2></tag-2> Последнее изменение: <tag-3></tag-3>"
+  },
+  "recoverPrompt.notShowAgain": {
+    "translation": "Больше не показывать это."
+  },
+  "recoverPrompt.prompt.discard": {
+    "translation": "Отменить несохраненный проект"
+  },
+  "recoverPrompt.prompt.heading": {
+    "translation": "<tag-1></tag-1>Хотите восстановить его сейчас?"
+  },
+  "recoverPrompt.prompt.recover": {
+    "translation": "Восстановить проект в редакторе"
+  },
+  "recoverPrompt.prompt.save": {
+    "translation": "Сохранить на устройство и продолжить"
+  },
+  "resources.browseOnJsDelivr": {
+    "translation": "Просмотреть файлы пакета на jsDelivr"
+  },
+  "resources.cssPresets.heading": {
+    "translation": "CSS пресеты"
+  },
+  "resources.cssPresets.none": {
+    "translation": "Нет"
+  },
+  "resources.cssPresets.normalizeCss": {
+    "translation": "Normalize.css"
+  },
+  "resources.cssPresets.resetCss": {
+    "translation": "Reset CSS"
+  },
+  "resources.error.failedToLoadResults": {
+    "translation": "Не удалось загрузить результаты!"
+  },
+  "resources.error.noResultsFound": {
+    "translation": "Результаты не найдены для: "
+  },
+  "resources.fonts.add": {
+    "translation": "Добавить"
+  },
+  "resources.fonts.heading": {
+    "translation": "Шрифты <tag-1>(работает на Google Fonts)</tag-1>"
+  },
+  "resources.fonts.select": {
+    "translation": "Выбрать шрифт ..."
+  },
+  "resources.heading": {
+    "translation": "Внешние ресурсы"
+  },
+  "resources.scripts": {
+    "translation": "Внешние скрипты"
+  },
+  "resources.search.heading": {
+    "translation": "Поиск пакетов <tag-1>(работает на jsDelivr)</tag-1>"
+  },
+  "resources.search.placeholder": {
+    "translation": "например, jquery, lodash@4, bootstrap@5.2.3, ..."
+  },
+  "resources.stylesheets": {
+    "translation": "Внешние таблицы стилей"
+  },
+  "resources.urlDesc": {
+    "translation": "Добавьте URL-адреса таблиц стилей/скриптов. Каждый URL должен быть на отдельной строке."
+  },
+  "resultMode.linkText": {
+    "translation": "Редактирование на LiveCodes"
+  },
+  "savePrompt.heading": {
+    "translation": "Несохраненные изменения"
+  },
+  "savePrompt.prompt.cancel": {
+    "translation": "Отмена"
+  },
+  "savePrompt.prompt.discard": {
+    "translation": "Не сохранять"
+  },
+  "savePrompt.prompt.heading": {
+    "translation": "Внесенные изменения могут быть не сохранены. <tag-1></tag-1> Хотите сохранить сейчас?"
+  },
+  "savePrompt.prompt.save": {
+    "translation": "Сохранить"
+  },
+  "share.characters": {
+    "translation": "{{urlLength}} символов"
+  },
+  "share.copy.clickToCopy": {
+    "translation": "Нажмите, чтобы скопировать"
+  },
+  "share.copy.copied": {
+    "translation": "URL скопирован в буфер обмена"
+  },
+  "share.encodedURL": {
+    "translation": "Получить закодированный URL"
+  },
+  "share.error.failedToCopy": {
+    "translation": "Не удалось скопировать в буфер обмена!"
+  },
+  "share.error.failedToGenerateURL": {
+    "translation": "Не удалось сгенерировать короткий URL!"
+  },
+  "share.expireInOneYear": {
+    "translation": "Истекает через 1 год"
+  },
+  "share.generateURL": {
+    "translation": "Генерация URL …"
+  },
+  "share.heading": {
+    "translation": "Поделиться"
+  },
+  "share.permanentURL": {
+    "translation": "Постоянный URL"
+  },
+  "share.qrcode.clickToDownload": {
+    "translation": "Нажмите для загрузки"
+  },
+  "share.qrcode.generating": {
+    "translation": "Генерация..."
+  },
+  "share.services.devTo": {
+    "translation": "Dev.to"
+  },
+  "share.services.email": {
+    "translation": "Электронная почта"
+  },
+  "share.services.facebook": {
+    "translation": "Facebook"
+  },
+  "share.services.hackerNews": {
+    "translation": "Hacker News"
+  },
+  "share.services.linkedIn": {
+    "translation": "LinkedIn"
+  },
+  "share.services.pinterest": {
+    "translation": "Pinterest"
+  },
+  "share.services.pocket": {
+    "translation": "Pocket"
+  },
+  "share.services.qrCode": {
+    "translation": "QR-код"
+  },
+  "share.services.reddit": {
+    "translation": "Reddit"
+  },
+  "share.services.share": {
+    "translation": "Поделиться через …"
+  },
+  "share.services.telegram": {
+    "translation": "Telegram"
+  },
+  "share.services.tumblr": {
+    "translation": "Tumblr"
+  },
+  "share.services.twitter": {
+    "translation": "𝕏 / Twitter"
+  },
+  "share.services.whatsApp": {
+    "translation": "WhatsApp"
+  },
+  "share.shortURL": {
+    "translation": "Получить короткий URL"
+  },
+  "snippets.action.copy": {
+    "translation": "Копировать"
+  },
+  "snippets.action.delete": {
+    "translation": "Удалить"
+  },
+  "snippets.action.edit": {
+    "translation": "Редактировать"
+  },
+  "snippets.add.code": {
+    "translation": "Код"
+  },
+  "snippets.add.desc": {
+    "translation": "Описание"
+  },
+  "snippets.add.heading": {
+    "translation": "Добавить фрагмент"
+  },
+  "snippets.add.language": {
+    "translation": "Язык"
+  },
+  "snippets.add.save": {
+    "translation": "Сохранить"
+  },
+  "snippets.add.snippets": {
+    "translation": "Фрагменты"
+  },
+  "snippets.add.title": {
+    "translation": "Заголовок"
+  },
+  "snippets.copy.clickToCopySnippet": {
+    "translation": "Нажмите, чтобы скопировать фрагмент"
+  },
+  "snippets.copy.copied": {
+    "translation": "Фрагмент скопирован в буфер обмена."
+  },
+  "snippets.delete.all": {
+    "translation": "Удалить {{snippets}} фрагментов?"
+  },
+  "snippets.delete.one": {
+    "translation": "Удалить фрагмент: {{snippet}}?"
+  },
+  "snippets.deleteAll": {
+    "translation": "Удалить все"
+  },
+  "snippets.error.failedToCopy": {
+    "translation": "Не удалось скопировать URL."
+  },
+  "snippets.error.noTitle": {
+    "translation": "Пожалуйста, добавьте заголовок фрагмента."
+  },
+  "snippets.filter.language": {
+    "translation": "фильтр по языку"
+  },
+  "snippets.heading": {
+    "translation": "Фрагменты кода"
+  },
+  "snippets.lastModified": {
+    "translation": "Последнее изменение: {{modified}}"
+  },
+  "snippets.noMatch": {
+    "translation": "Нет фрагментов, соответствующих этим фильтрам."
+  },
+  "snippets.noSavedSnippets": {
+    "translation": "У вас нет сохраненных фрагментов."
+  },
+  "snippets.placeholder.allLanguages": {
+    "translation": "Все языки"
+  },
+  "snippets.placeholder.search": {
+    "translation": "Поиск"
+  },
+  "snippets.reset": {
+    "translation": "Сбросить"
+  },
+  "snippets.save.success": {
+    "translation": "Фрагмент локально сохранен на устройстве!"
+  },
+  "snippets.sort.date": {
+    "translation": "Дата"
+  },
+  "snippets.sort.heading": {
+    "translation": "Сортировать по:"
+  },
+  "snippets.sort.title": {
+    "translation": "Заголовок"
+  },
+  "snippets.text": {
+    "translation": "Простой текст"
+  },
+  "splash.loading": {
+    "translation": "Загрузка LiveCodes…"
+  },
+  "sync.autoSync": {
+    "translation": "Автосинхронизация"
+  },
+  "sync.create.desc": {
+    "translation": "Будет создан новый <tag-1>приватный</tag-1> репозиторий. Ваши локальные данные LiveCodes будут синхронизированы с веткой <tag-2>main</tag-2>."
+  },
+  "sync.create.heading": {
+    "translation": "Создать новый репозиторий"
+  },
+  "sync.create.repoName": {
+    "translation": "Название репозитория"
+  },
+  "sync.error.generic": {
+    "translation": "Синхронизация не удалась!"
+  },
+  "sync.error.repoNameRequired": {
+    "translation": "Требуется название репозитория"
+  },
+  "sync.existing.desc": {
+    "translation": "Ваши локальные данные LiveCodes будут синхронизированы с веткой <tag-1>main</tag-1>."
+  },
+  "sync.existing.heading": {
+    "translation": "Существующий репозиторий"
+  },
+  "sync.existing.repoName": {
+    "translation": "Название репозитория"
+  },
+  "sync.heading": {
+    "translation": "Синхронизация с GitHub репозиторием"
+  },
+  "sync.searchRepos": {
+    "translation": "Поиск ваших репозиториев..."
+  },
+  "sync.success": {
+    "translation": "Синхронизация завершена!"
+  },
+  "sync.syncBtn": {
+    "translation": "Синхронизировать"
+  },
+  "sync.syncInProgress": {
+    "translation": "Идет синхронизация..."
+  },
+  "sync.syncStarted": {
+    "translation": "Синхронизация начата..."
+  },
+  "templates.heading": {
+    "translation": "Новый проект"
+  },
+  "templates.noUserTemplates.desc": {
+    "translation": "Вы можете сохранить проект как шаблон из <tag-1></tag-1>(Меню&nbsp;приложения&nbsp;&gt;&nbsp;Сохранить&nbsp;как&nbsp;&gt; Шаблон)."
+  },
+  "templates.noUserTemplates.heading": {
+    "translation": "У вас нет сохраненных шаблонов."
+  },
+  "templates.search.label": {
+    "translation": "Поиск в шаблонах"
+  },
+  "templates.search.placeholder": {
+    "translation": "Поиск в шаблонах..."
+  },
+  "templates.starter.angular": {
+    "translation": "Стартер Angular"
+  },
+  "templates.starter.assemblyscript": {
+    "translation": "Стартер AssemblyScript"
+  },
+  "templates.starter.astro": {
+    "translation": "Стартер Astro"
+  },
+  "templates.starter.backbone": {
+    "translation": "Стартер Backbone"
+  },
+  "templates.starter.blank": {
+    "translation": "Пустой проект"
+  },
+  "templates.starter.blockly": {
+    "translation": "Стартер Blockly"
+  },
+  "templates.starter.bootstrap": {
+    "translation": "Стартер Bootstrap"
+  },
+  "templates.starter.civet": {
+    "translation": "Стартер Civet"
+  },
+  "templates.starter.clio": {
+    "translation": "Стартер Clio"
+  },
+  "templates.starter.clojurescript": {
+    "translation": "Стартер ClojureScript"
+  },
+  "templates.starter.coffeescript": {
+    "translation": "Стартер CoffeeScript"
+  },
+  "templates.starter.commonlisp": {
+    "translation": "Стартер Common Lisp"
+  },
+  "templates.starter.cpp": {
+    "translation": "Стартер C++"
+  },
+  "templates.starter.cpp-wasm": {
+    "translation": "Стартер C++ (Wasm)"
+  },
+  "templates.starter.csharp-wasm": {
+    "translation": "Стартер C# (Wasm)"
+  },
+  "templates.starter.d3": {
+    "translation": "Стартер D3"
+  },
+  "templates.starter.daisyui": {
+    "translation": "Стартер daisyUI"
+  },
+  "templates.starter.diagrams": {
+    "translation": "Стартер диаграмм"
+  },
+  "templates.starter.fennel": {
+    "translation": "Стартер Fennel"
+  },
+  "templates.starter.gleam": {
+    "translation": "Стартер Gleam"
+  },
+  "templates.starter.go": {
+    "translation": "Стартер Go"
+  },
+  "templates.starter.go-wasm": {
+    "translation": "Стартер Go (Wasm)"
+  },
+  "templates.starter.heading": {
+    "translation": "Стартовые шаблоны"
+  },
+  "templates.starter.imba": {
+    "translation": "Стартер Imba"
+  },
+  "templates.starter.java": {
+    "translation": "Стартер Java"
+  },
+  "templates.starter.javascript": {
+    "translation": "Стартер JavaScript"
+  },
+  "templates.starter.jest": {
+    "translation": "Стартер Jest"
+  },
+  "templates.starter.jest-react": {
+    "translation": "Стартер Jest/React"
+  },
+  "templates.starter.jquery": {
+    "translation": "Стартер jQuery"
+  },
+  "templates.starter.julia": {
+    "translation": "Стартер Julia"
+  },
+  "templates.starter.knockout": {
+    "translation": "Стартер Knockout"
+  },
+  "templates.starter.lit": {
+    "translation": "Стартер Lit"
+  },
+  "templates.starter.livescript": {
+    "translation": "Стартер LiveScript"
+  },
+  "templates.starter.loading": {
+    "translation": "Загрузка стартовых шаблонов..."
+  },
+  "templates.starter.lua": {
+    "translation": "Стартер Lua"
+  },
+  "templates.starter.lua-wasm": {
+    "translation": "Стартер Lua (Wasm)"
+  },
+  "templates.starter.malina": {
+    "translation": "Стартер Malina.js"
+  },
+  "templates.starter.markdown": {
+    "translation": "Стартер Markdown"
+  },
+  "templates.starter.mdx": {
+    "translation": "Стартер MDX"
+  },
+  "templates.starter.minizinc": {
+    "translation": "Стартер MiniZinc"
+  },
+  "templates.starter.ocaml": {
+    "translation": "Стартер OCaml"
+  },
+  "templates.starter.perl": {
+    "translation": "Стартер Perl"
+  },
+  "templates.starter.phaser": {
+    "translation": "Стартер Phaser"
+  },
+  "templates.starter.php": {
+    "translation": "Стартер PHP"
+  },
+  "templates.starter.php-wasm": {
+    "translation": "Стартер PHP (Wasm)"
+  },
+  "templates.starter.postgresql": {
+    "translation": "Стартер PostgreSQL"
+  },
+  "templates.starter.preact": {
+    "translation": "Стартер Preact"
+  },
+  "templates.starter.prolog": {
+    "translation": "Стартер Prolog"
+  },
+  "templates.starter.python": {
+    "translation": "Стартер Python"
+  },
+  "templates.starter.python-wasm": {
+    "translation": "Стартер Python (Wasm)"
+  },
+  "templates.starter.r": {
+    "translation": "Стартер R"
+  },
+  "templates.starter.react": {
+    "translation": "Стартер React"
+  },
+  "templates.starter.react-native": {
+    "translation": "Стартер React Native"
+  },
+  "templates.starter.reason": {
+    "translation": "Стартер Reason"
+  },
+  "templates.starter.rescript": {
+    "translation": "Стартер ReScript"
+  },
+  "templates.starter.riot": {
+    "translation": "Стартер Riot.js"
+  },
+  "templates.starter.ruby": {
+    "translation": "Стартер Ruby"
+  },
+  "templates.starter.ruby-wasm": {
+    "translation": "Стартер Ruby (Wasm)"
+  },
+  "templates.starter.scheme": {
+    "translation": "Стартер Scheme"
+  },
+  "templates.starter.shadcnui": {
+    "translation": "Стартер shadcn/ui"
+  },
+  "templates.starter.solid": {
+    "translation": "Стартер Solid"
+  },
+  "templates.starter.sql": {
+    "translation": "Стартер SQL"
+  },
+  "templates.starter.stencil": {
+    "translation": "Стартер Stencil"
+  },
+  "templates.starter.svelte": {
+    "translation": "Стартер Svelte"
+  },
+  "templates.starter.tailwindcss": {
+    "translation": "Стартер Tailwind CSS"
+  },
+  "templates.starter.tcl": {
+    "translation": "Стартер Tcl"
+  },
+  "templates.starter.teal": {
+    "translation": "Стартер Teal"
+  },
+  "templates.starter.typescript": {
+    "translation": "Стартер TypeScript"
+  },
+  "templates.starter.vue": {
+    "translation": "Стартер Vue"
+  },
+  "templates.starter.vue2": {
+    "translation": "Стартер Vue 2"
+  },
+  "templates.starter.wat": {
+    "translation": "Стартер WebAssembly Text"
+  },
+  "templates.user.heading": {
+    "translation": "Мои шаблоны"
+  },
+  "templates.user.loading": {
+    "translation": "Загрузка пользовательских шаблонов..."
+  },
+  "testEditor.heading": {
+    "translation": "Редактировать тесты"
+  },
+  "testEditor.load": {
+    "translation": "Загрузить"
+  },
+  "testEditor.tests": {
+    "translation": "Тесты"
+  },
+  "testSettings.desc": {
+    "translation": "<tag-1></tag-1> Для получения более подробной информации обратитесь к <tag-2>документацию</tag-2>"
+  },
+  "toolspane.close": {
+    "translation": "Закрыть"
+  },
+  "toolspane.compiled.title": {
+    "translation": "Скомпилировано"
+  },
+  "toolspane.console.clear": {
+    "translation": "Очистить консоль"
+  },
+  "toolspane.console.title": {
+    "translation": "Консоль"
+  },
+  "toolspane.test.edit": {
+    "translation": "Редактировать"
+  },
+  "toolspane.test.error": {
+    "translation": "<tag-1><tag-2>Ошибка теста!</tag-2></tag-1>"
+  },
+  "toolspane.test.loading": {
+    "translation": "<tag-1>Загрузка тестов...</tag-1>"
+  },
+  "toolspane.test.noTest": {
+    "translation": "<tag-1>У этого проекта нет тестов!</tag-1>"
+  },
+  "toolspane.test.reset": {
+    "translation": "Сбросить"
+  },
+  "toolspane.test.run.desc": {
+    "translation": "Ctrl/Cmd + Alt + T"
+  },
+  "toolspane.test.run.heading": {
+    "translation": "Запустить"
+  },
+  "toolspane.test.summary.desc": {
+    "translation": "Тесты: {{failed}}\n       {{passed}}\n       {{skipped}}\n       {{total}}<tag-1></tag-1>\nВремя: {{duration}}с"
+  },
+  "toolspane.test.summary.failed": {
+    "translation": "{{failedNum}} не пройдено"
+  },
+  "toolspane.test.summary.passed": {
+    "translation": "{{passedNum}} пройдено"
+  },
+  "toolspane.test.summary.skipped": {
+    "translation": "{{skippedNum}} пропущено"
+  },
+  "toolspane.test.summary.total": {
+    "translation": "{{totalNum}} всего"
+  },
+  "toolspane.test.title": {
+    "translation": "Тесты"
+  },
+  "toolspane.test.watch.desc": {
+    "translation": "Запускать тесты при изменении кода"
+  },
+  "toolspane.test.watch.heading": {
+    "translation": "Отслеживать"
+  },
+  "welcome.about.documentation": {
+    "translation": "Документация"
+  },
+  "welcome.about.heading": {
+    "translation": "О LiveCodes"
+  },
+  "welcome.heading": {
+    "translation": "Добро пожаловать"
+  },
+  "welcome.recent.heading": {
+    "translation": "Недавние"
+  },
+  "welcome.recover.cancel": {
+    "translation": "Отмена"
+  },
+  "welcome.recover.heading": {
+    "translation": "Восстановить"
+  },
+  "welcome.recover.lastModified": {
+    "translation": "Последнее изменение:"
+  },
+  "welcome.recover.recover": {
+    "translation": "Восстановить"
+  },
+  "welcome.recover.save": {
+    "translation": "Сохранить"
+  },
+  "welcome.recover.unsavedChanges": {
+    "translation": "В вашем последнем проекте были несохраненные изменения:"
+  },
+  "welcome.showOnStartup": {
+    "translation": "Показывать при запуске"
+  },
+  "welcome.start.heading": {
+    "translation": "Начать"
+  },
+  "welcome.start.import": {
+    "translation": "Импорт..."
+  },
+  "welcome.start.loadDefaultTemplate": {
+    "translation": "Загрузить шаблон по умолчанию"
+  },
+  "welcome.start.new": {
+    "translation": "Новый..."
+  },
+  "welcome.start.noDefaultTemplate": {
+    "translation": "Нет шаблона по умолчанию"
+  },
+  "welcome.start.open": {
+    "translation": "Открыть..."
+  },
+  "welcome.templates.heading": {
+    "translation": "Стартовые шаблоны"
+  }
+}

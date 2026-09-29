@@ -1,0 +1,39 @@
+name: CI-e2e
+
+on: [pull_request]
+
+jobs:
+  tests:
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        node-version: [24.x]
+        test: [1, 2, 3, 4, 5]
+    env:
+      NODE_OPTIONS: "--max_old_space_size=8192"
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Use Node.js ${{ matrix.node-version }}
+        uses: actions/setup-node@v4
+        with:
+          node-version: ${{ matrix.node-version }}
+          cache: "npm"
+          cache-dependency-path: "**/package-lock.json"
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Build
+        run: npm run build
+        env:
+          BUILD_INCLUDE_LOCALES: ${{ startsWith(github.head_ref, 'i18n/') }}
+
+      - name: Test ${{ matrix.test }}
+        run: npm run ci:e2e
+        env:
+          CI: true
+          CI_SHARD_INDEX: ${{ matrix.test }}
+          CI_SHARD_TOTAL: 5

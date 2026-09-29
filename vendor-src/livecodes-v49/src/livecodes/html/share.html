@@ -1,0 +1,42 @@
+<div id="share-screen" class="modal-container">
+  <div class="modal-title" data-i18n="share.heading">Share</div>
+
+  <div class="modal-content modal-screen-container">
+    <div id="share-top-text">
+      <span id="share-permanent-url"
+        ><input id="share-permanent-url-checkbox" type="checkbox" /><label
+          for="share-permanent-url-checkbox"
+          data-i18n="share.permanentURL"
+          >Permanent URL</label
+        ></span
+      >
+      <a href="#" id="share-click-to-copy"></a>
+    </div>
+    <input type="text" dir="ltr" id="share-url-input" data-clickonenter="true" readonly />
+    <div id="share-expiry" class="share-expiry light">
+      <div class="share-short-url-expiry">
+        <span>&nbsp;</span><a href="#" data-i18n="share.encodedURL">Get encoded URL</a>
+      </div>
+      <div class="share-encoded-url-expiry">
+        <span class="{{warnClass}}" data-i18n="share.characters">{{urlLength}} characters</span
+        ><a href="#" data-i18n="share.shortURL">Get short URL</a>
+      </div>
+    </div>
+    <div id="share-expiry-self-hosted" class="share-expiry light">
+      <div class="share-short-url-expiry">
+        <span class="danger" data-i18n="share.expireInOneYear">Expires in 1 year</span
+        ><a href="#" data-i18n="share.encodedURL">Get encoded URL</a>
+      </div>
+      <div class="share-encoded-url-expiry">
+        <span class="{{warnClass}}" data-i18n="share.characters">{{urlLength}} characters</span
+        ><a href="#" data-i18n="share.shortURL">Get short URL</a>
+      </div>
+    </div>
+    <div id="share-links-container">
+      <ul id="share-links"></ul>
+      <div id="qrcode-container" class="qrcode-container" data-i18n="share.qrcode.generating">
+        Generating...
+      </div>
+    </div>
+  </div>
+</div>

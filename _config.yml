@@ -27,3 +27,6 @@ defaults:
     values:
       layout: "reading-notes"
       type: "reading-notes"
+
+exclude:
+  - vendor-src
