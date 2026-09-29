@@ -7,8 +7,8 @@ title: Home
 
 <div class="col-lg-12">
 <!-- <div class="col-lg-6"> -->
-    {% include social.html %}
     {% include articles.html %}
+    {% include social.html %}
     {% comment %}
     {% include reading-notes.html %}
     {% endcomment %}
