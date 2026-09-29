@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Home
-redirect_to: https://www.linkedin.com/in/jumo
+#redirect_to: https://www.linkedin.com/in/jumo
 
 ---   
 
@@ -9,7 +9,9 @@ redirect_to: https://www.linkedin.com/in/jumo
 <!-- <div class="col-md-6"> -->
     {% include social.html %}
     {% include articles.html %}
+    {% comment %}
     {% include reading-notes.html %}
+    {% endcomment %}
 <!--     {% include instagram.html %} -->
 </div>
 
