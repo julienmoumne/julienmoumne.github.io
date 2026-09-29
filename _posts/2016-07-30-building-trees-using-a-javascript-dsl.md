@@ -7,7 +7,7 @@ description: An instructional sequence to a hack-free internal DSL for building 
 In vanilla JavaScript, this is how you build a tree[^1][^2]:
  
 
-<a class="jsbin-embed" href="http://jsbin.com/hisumi/embed?js,output&height=400px">JS Bin on jsbin.com</a>
+{% include livecodes-playground.html id="hisumi" height="400" %}
 
 
 The article describes a way to build trees using an internal [DSL](http://martinfowler.com/bliki/InternalDslStyle.html):
@@ -56,7 +56,7 @@ or step through this sequence: 
 
 In this solution nodes are all children of the same parent node.
 
-<a class="jsbin-embed" href="http://jsbin.com/zecovuw/embed?js,output&height=440px">JS Bin on jsbin.com</a>
+{% include livecodes-playground.html id="zecovuw" height="440" %}
 
 This helps us understand the key challenge, keeping track of the node under construction so children are inserted at the right location.
 
@@ -64,13 +64,13 @@ This helps us understand the key challenge, keeping track of the node under cons
 
 The most straightforward solution is to explicitly pass along the parent node.
 
-<a class="jsbin-embed" href="http://jsbin.com/nuvoga/embed?js,output&height=530px">JS Bin on jsbin.com</a>
+{% include livecodes-playground.html id="nuvoga" height="530" %}
 
 ## Coupling data and operations OOP style {#coupling-data-and-operations-oop-style}
 
 An alternative solution in par with OOP promotes the global `tree()` function to an instance method.
 
-<a class="jsbin-embed" href="http://jsbin.com/yibupaf/embed?js,output&height=560px">JS Bin on jsbin.com</a>
+{% include livecodes-playground.html id="yibupaf" height="560" %}
 
 This approach is used by [jbuilder](https://github.com/behrendtio/jbuilder). See
 [jbuilder.js](https://github.com/behrendtio/jbuilder/blob/0.0.4/lib/jbuilder.js#L9).
@@ -81,7 +81,7 @@ we can remove the need to prefix calls to `add()`.
 This is done by programmatically binding `this` using
 [bind()](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_objects/Function/bind).
 
-<a class="jsbin-embed" href="http://jsbin.com/wemuqi/embed?js,output&height=510px">JS Bin on jsbin.com</a>
+{% include livecodes-playground.html id="wemuqi" height="510" %}
 
 This is closer to the DSL we are looking for but
 we still have to pass around a parameter in each closure signature.
@@ -98,7 +98,7 @@ adapted by programmatically binding `this` using
 [apply()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function/apply)
 and forwarding it the same way `ctx` was being forwarded.
 
-<a class="jsbin-embed" href="http://jsbin.com/rededo/embed?js,output&height=490px">JS Bin on jsbin.com</a>
+{% include livecodes-playground.html id="rededo" height="490" %}
 
 In this case and the one that follows,
 setting `this` dynamically does not work with 
@@ -110,7 +110,7 @@ We must revert to standard function definitions `function () { body }`.
 Solution ['Coupling data and operations OOP style'](#coupling-data-and-operations-oop-style)
 can be rewritten the same way.
 
-<a class="jsbin-embed" href="http://jsbin.com/zupiwoh/embed?js,output&height=580px">JS Bin on jsbin.com</a>
+{% include livecodes-playground.html id="zupiwoh" height="580" %}
 
 Coming from other OOP languages one could hope to directly call
 `tree()` without prefixing it with `this` thus achieving our target DSL.
@@ -158,7 +158,7 @@ and `newTree` was not lexically present when the closure was defined.
 We must reset the lexical scope by re-interpreting the closure using
 [eval()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/eval).
 
-<a class="jsbin-embed" href="http://jsbin.com/dujonuk/embed?js,output&height=570px">JS Bin on jsbin.com</a>
+{% include livecodes-playground.html id="dujonuk" height="570" %}
 
 The DSL finally looks like what we had in mind.
 
@@ -262,7 +262,7 @@ function tree(ctx, value, closure = () => {}) {
 ~~~
 
 
-<a class="jsbin-embed" href="http://jsbin.com/zorire/embed?js,output&height=470px">JS Bin on jsbin.com</a>
+{% include livecodes-playground.html id="zorire" height="470" %}
 
 This approach is used in Mocha BDD interface to allow nested `describe()` calls.
 See [bdd.js](https://github.com/mochajs/mocha/blob/v2.5.3/lib/interfaces/bdd.js#L43).
@@ -272,7 +272,7 @@ See [bdd.js](https://github.com/mochajs/mocha/blob/v2.5.3/lib/interfaces/bdd.js#
 In a final simplification step we avoid allocating an explicit stack by
 using the local variable section of the existing stack.
 
-<a class="jsbin-embed" href="http://jsbin.com/rukuka/embed?js,output&height=610px">JS Bin on jsbin.com</a>
+{% include livecodes-playground.html id="rukuka" height="610" %}
 
 This approach is used in [Groovy NodeBuilder](http://groovy-lang.org/dsls.html#_nodebuilder)
 and in [Hotshell][hotshell-website].
@@ -285,7 +285,7 @@ and
 The same solution can be coded as a module
 to provide namespace control and isolation of state.
 
-<a class="jsbin-embed" href="http://jsbin.com/yicudo/embed?js,output&height=590px">JS Bin on jsbin.com</a>
+{% include livecodes-playground.html id="yicudo" height="590" %}
 
 # Thoughts on internal DSLs
 
@@ -328,4 +328,4 @@ This is the approach used in [Hotshell][hotshell-website] by using
 [mocha-getting-started]: https://mochajs.org/#getting-started
 [hotshell-website]: http://julienmoumne.github.io/hotshell
 
-<script src="http://static.jsbin.com/js/embed.min.js?4.1.8"></script>
+<script type="module" src="{{ '/assets/js/building-trees-livecodes.js' | relative_url }}"></script>
