@@ -200,7 +200,7 @@ function add(value, closure = () => {}) {
 }
 `,
   wemuqi: `
-let forest = []
+var forest = []
 
 tree('A', tree => {      
   tree('B', tree => {    
@@ -220,9 +220,8 @@ function tree(value, closure = () => {}) {
   // 'this' refers to the parent node
   this.forest.push(newTree) 
   
-  // the 'tree' function is cloned and
-  // the new parent node 'newTree'
-  // is bound to 'this' using 'bind'
+  // 'bind' creates a new bound function from 'tree'
+  // with the new parent node 'newTree' bound to 'this'
   closure(tree.bind(newTree))
 }
 `,
@@ -252,7 +251,7 @@ function tree(ctx, value, closure = () => {}) {
 }
 `,
   zupiwoh: `
-let forest = []
+var forest = []
 
 tree('A', function () {      
   this.tree('B', function () {    
@@ -283,7 +282,7 @@ function tree(value, closure = () => {}) {
 }
 `,
   dujonuk: `
-let forest = []
+var forest = []
 
 tree('A', () => {      
   tree('B', () => {    

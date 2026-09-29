@@ -10,7 +10,7 @@ In vanilla JavaScript, this is how you build a tree[^1][^2]:
 {% include livecodes-playground.html id="hisumi" height="400" %}
 
 
-The article describes a way to build trees using an internal [DSL](http://martinfowler.com/bliki/InternalDslStyle.html):
+The article describes a way to build trees using an internal [DSL](//martinfowler.com/bliki/InternalDslStyle.html):
 
 ~~~ javascript
 tree('A', () => {      
@@ -208,7 +208,7 @@ The trick to a hack-free solution lies in understanding how parameters
 are handled during a function call.
 
 In [stack-oriented programming languages](https://en.wikipedia.org/wiki/Stack-oriented_programming_language),
-parameters are stored in the [call stack](http://www.csee.umbc.edu/~chang/cs313.s02/stack.shtml)
+parameters are stored in the [call stack](//www.csee.umbc.edu/~chang/cs313.s02/stack.shtml)
 and their life cycle is regulated by a [calling convention](https://en.wikipedia.org/wiki/Calling_convention).
 
 We use solution ['Forwarding a bare variable'](#forwarding-bare-variable)
@@ -242,7 +242,7 @@ We can achieve the same result by using an explicit parameter stack and our own 
 ~~~ javascript
 let stack = [{forest: []}]
 
-function tree(ctx, value, closure = () => {}) {
+function tree(value, closure = () => {}) {
   let newTree = {value: value, forest: []}
   
   // peak of stack holds the parent node
@@ -274,7 +274,7 @@ using the local variable section of the existing stack.
 
 {% include livecodes-playground.html id="rukuka" height="610" %}
 
-This approach is used in [Groovy NodeBuilder](http://groovy-lang.org/dsls.html#_nodebuilder)
+This approach is used in [Groovy NodeBuilder](//groovy-lang.org/dsls.html#_nodebuilder)
 and in [Hotshell][hotshell-website].
 See [BuilderSupport.java](https://github.com/apache/groovy/blob/305131ff1b3e1350d4a2567c47e8ff41d74f51e9/src/main/groovy/util/BuilderSupport.java#L141)
 and
@@ -296,8 +296,8 @@ They provide legibility as well as flexibility by being able to mixin arbitrary 
 Here are some examples to illustrate the versatility of this approach: 
 
  - Project builders ([Gradle](https://docs.gradle.org/current/userguide/tutorial_java_projects.html#N14F70), 
- [Sbt](http://www.scala-sbt.org/0.13/docs/Basic-Def.html))
- - Testing frameworks ([RSpec](http://rspec.info/), [Mocha][mocha-getting-started])
+ [Sbt](//www.scala-sbt.org/0.13/docs/Basic-Def.html))
+ - Testing frameworks ([RSpec](//rspec.info/), [Mocha][mocha-getting-started])
  - Virtual environment tools ([Vagrant](https://github.com/patrickdlee/vagrant-examples/blob/master/example1/Vagrantfile))
  - Package Managers ([Homebrew](https://github.com/Homebrew/brew/blob/master/share/doc/homebrew/Formula-Cookbook.md))
    
@@ -318,7 +318,7 @@ This is the approach used in [Hotshell][hotshell-website] by using
     Tree visualization code found at [https://bl.ocks.org/mbostock/4339184](https://bl.ocks.org/mbostock/4339184)
     
 [^3]:
-    [NodeBuilder](http://groovy-lang.org/dsls.html#_nodebuilder) is one implementation in Groovy.
+    [NodeBuilder](//groovy-lang.org/dsls.html#_nodebuilder) is one implementation in Groovy.
     [Mocha][mocha-getting-started] is one in JavaScript.
     
 *[DSL]: Domain Specific Language
@@ -326,6 +326,6 @@ This is the approach used in [Hotshell][hotshell-website] by using
 *[BDD]: Behavior-driven development
 
 [mocha-getting-started]: https://mochajs.org/#getting-started
-[hotshell-website]: http://julienmoumne.github.io/hotshell
+[hotshell-website]: //julienmoumne.github.io/hotshell
 
 <script type="module" src="{{ '/assets/js/building-trees-livecodes.js' | relative_url }}"></script>
