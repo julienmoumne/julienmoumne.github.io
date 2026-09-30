@@ -79,7 +79,7 @@ More games and snippets are available in the [app](//julienmoumne.github.io/rx-t
 
 Squares of different colors are switched on and off in a graphical square grid :
 
-![Grid Example](https://raw.githubusercontent.com/JulienMoumne/rx-training-games/master/misc/grid-example.png)
+![Grid Example](https://raw.githubusercontent.com/JulienMoumne/rx-training-games/master/misc/grid-example.png){:width="256" height="256"}
 
 The grid is first instantiated with the size of the activable squares : `api.initGrid({squareSize: 15});`
 
