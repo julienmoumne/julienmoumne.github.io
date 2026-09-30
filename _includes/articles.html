@@ -11,13 +11,16 @@
 <ul>
     {% for article in articles %}
     <li>
+        {% comment %}
         <small>
             <time datetime="{{ article.date | date_to_xmlschema }}">{{ article.date | date: "%m/%Y" }}</time>
         </small>
+        {% endcomment %}
+
         {% if article.img %}
         <img src="{{ article.img }}" width="20" height="20" style="vertical-align:middle;" border="0"/>
         {% else %}
-         -
+<!--         - -->
         {% endif %}
         <a href="{{ article.url }}">
             {{ article.title }}
